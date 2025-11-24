@@ -35,7 +35,7 @@ struct WFR_TrailTriageApp: App {
             let container = try ModelContainer(for: schema, configurations: [modelConfiguration])
             
             // Seed reference content
-            ModuleSeedData.seedModules(context: container.mainContext)
+            ModuleSeedData.seed(context: container.mainContext)
             
             return container
         } catch {
