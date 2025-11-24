@@ -1,0 +1,537 @@
+================================================================================
+BLACK ELK MOUNTAIN MEDICINE - WFR REFERENCE MODULES
+================================================================================
+
+Extracted from: OldRefBook - Desert Mountain Medicine Reference Book
+Date: 2025-11-22
+Rebranded: Desert Mountain Medicine → Black Elk Mountain Medicine
+Terminology Updated: SOAA'P notes → SOAPNote
+
+Total Modules: 9
+Total Chapters: 9
+Total Images: 183
+
+================================================================================
+MODULE 0: About Black Elk Mountain Medicine
+================================================================================
+
+Teaching Philosophy
+---
+
+Black Elk Mountain Medicine was started with the premise that wilderness medicine instruction should not be limited to classroom lectures. We are driven to develop a creative, experiential based curriculum; one which effectively addresses the dynamic nature of a wilderness environment and the rapid advancement in emergency care, as well as supports and addresses multiple learning styles.
+
+Our teaching approach heavily favors hands-on, scenario-based practice taught in an outdoor setting while simulating real-world examples. The completion of scenarios plays a powerful role in self-reflection and allows for inquiry-based learning so each student can relate his or her experience to the real world.
+
+We believe that practice and repetition of increasingly complex scenarios helps students develop an in-depth and personalized approach to patient assessment where the learning is ingrained and can be accessed and applied rapidly in an emergency situation.
+
+================================================================================
+MODULE 1: Introduction to Wilderness Medicine
+================================================================================
+
+Course Types, EMS System, and Legal Considerations
+Location: None
+
+What is Wilderness Medicine?
+---
+
+Wilderness medicine is a specialized branch addressing medical and trauma emergencies in remote areas, often more complex than urban medicine. Outdoor guides, instructors, enthusiasts, and professionals working in remote backcountry locations require specialized medical training beyond traditional first aid.
+
+Unlike urban EMS which has official governing bodies, wilderness medicine currently lacks such a body. Course curricula have historically evolved based on evidence and practical experience, leading to a de facto consensus among training organizations.
+
+Types of Wilderness Medicine Courses
+---
+
+Wilderness First Aid (WFA) - 16 hours
+
+This training is for outdoor leaders that are never far from the umbrella of the local EMS response. They are taught to recognize, treat, and stabilize basic injuries and medical issues and call for an evacuation.
+
+Wilderness Advanced First Aid (WAFA) - 40 hours
+
+The WAFA is for outdoor leaders working in remote backcountry locations that have sound communication and rescue responses. These leaders may not need to rely on their personal decision-making and/or judgment skills in the event of life and death medical decisions.
+
+Wilderness First Responder (WFR) - 80 hours
+
+The WFR is the standard in the outdoor recreation industry for multi-day trips in remote locations with unreliable communication and where rescue is delayed or unavailable. This course is designed to address injuries, medical illnesses, and behavioral issues common to extended backcountry trips. These leaders are trained to make life and death decisions about patient treatment and to organize and manage their own rescue.
+
+Wilderness EMT Upgrade - 54 hours
+
+This course is designed to add a wilderness module to a current Emergency Medical Technician's urban training. It focuses on the same principles of a WFR with the addition of oxygen, advanced airway techniques, intravenous therapy, and drugs. This module upgrades an urban EMT to a WEMT.
+
+Expedition Medicine - 45 hours
+
+This course is for licensed medical practitioners (e.g. MD, PA, RN, DNP or DO) who aspire to become primary medical personnel on wilderness expeditions. This entirely field-based course covers the latest advanced care life support (ACLS) protocols applied in the field, expedition medications, first aid kits, and innovative treatment and management of common backcountry trauma, illnesses, and rescues.
+
+================================================================================
+MODULE 2: Patient Assessment
+================================================================================
+
+Scene Size-Up, Primary Assessment, Secondary Assessment, and Reassessment
+Location: Yosemite National Park, California
+
+Patient Assessment Overview
+Four-Step Assessment Process
+---
+
+Patient assessment is an organized process for gathering information about a patient, consisting of four components: 1) Scene Size-Up, 2) Primary Assessment, 3) Secondary Assessment, and 4) Reassessment. This model is standard in pre-hospital care.
+
+Scene Size-Up
+
+• Scene Safety
+• Standard Precautions
+• Mechanism of Injury (MOI) / Nature of Illness (NOI)
+• Number of Patients
+• Resources Needed
+
+Primary Assessment (ABCDEG)
+
+A - AIRWAY: Clear and Open Airway (Jaw Thrust or Head-Tilt, Chin-lift), Advanced Airway (OPA-NPA-King)
+B - BREATHING: Positive Pressure Ventilation (PPV), Occlusive Dressing, Stabilize Flail Chest
+C - CIRCULATION: Control Blood Loss, Check Pulses (Carotid & Radial), Perfusion (Treat for Shock)
+D - DISABILITY: Spine Precautions, AVPU
+E - EXPOSE & ENVIRONMENT: Remove/cut Clothing to Reveal Injuries, Cover Patient Up
+G - GLUCOSE: Give Sugar Orally (If unresponsive, give when patient is laying on their side)
+
+⚠️ WARNING: Note: Any person in a remote backcountry setting that is found unresponsive for unknown reasons should be given sugar between their cheek and gum (while lying on their side to protect their airway).
+
+Standard Precautions
+---
+
+Standard precautions are part of Scene Size-up and are designed to protect rescuers and patients from blood-borne pathogens, viruses, and bacteria through contact and droplet transmission.
+
+Personal Protective Equipment (PPE)
+
+• Gloves: Required for contact with mucous membranes, non-intact skin, blood, or other body fluids. Use non-latex gloves due to latex sensitivity. Improvise with plastic zip-lock bags if gloves are unavailable.
+• Protective Surgical Masks: Required for rescuers and patients when a pathogen is transmittable via droplets.
+• CPR Mask (pocket mask): Required during CPR or rescue breathing to protect rescuers from body fluids.
+• Eye Protection: Glasses or sunglasses help protect against disease transmission from body fluids splashing into the rescuer's eyes via droplet transmission.
+• Clothing: Protective clothing (e.g., rain jacket, rain pants) for significant blood splashes or major bleeding to avoid rescuer contamination.
+
+Secondary Assessment
+Baseline Vitals, History, and Physical Exam
+---
+
+Baseline Vitals
+
+Heart Rate (HR): HR = # of beats in 15 sec. x 4 (Normal: 60-100 beats/min). Assess pulse strength: strong, weak, thready, slow, or irregular.
+Respiration Rate (RR): RR = # of chest rises in 15 sec. x 4 (Normal: 12-20 breaths/min). Listen for abnormal breath sounds (wheezing, rales, stridor), coughing, or labored breathing.
+Blood Pressure (BP): Assess strength of radial pulse. Strong ≈ 100 mmHg, Weak ≈ 80 mmHg, None = < 80 mmHg.
+Level of Responsiveness (LOR): Using AVPU scale - Alert and Oriented (A&O) to person, place, time, and event; Verbal stimuli; Pain Stimuli; Unresponsive.
+Pupils Equal Round Reactive to Light (PERRL): Assess pupil size, equality, and reactivity.
+Skin Color • Temperature • Moisture (SCTM): Assess color (pink, red, pale, blue, yellow), temperature (warm, hot, cold), and moisture (sweating, dry, diaphoretic).
+Circulation • Sensory • Motor (CSM): Assess distal pulses and capillary refill, sensation, and motor function on all four extremities.
+
+History Taking (SAMPLE)
+
+S - Signs & Symptoms (S/Sx)
+A - Allergies
+M - Medications
+P - Pre-Existing Conditions
+L - Last Ins & Outs
+E - Events Prior
+
+OPQRST (For Pain Assessment)
+
+O - Onset
+P - Provoke
+Q - Quality
+R - Radiate
+S - Severity
+T - Time/Treatments
+
+1ST STEP (For Altered LOR)
+
+S - Sugar
+T - Temperature
+S - Salt
+T - Toxins
+E - Electricity/Elevation
+P - Pressure
+
+Reassessment
+---
+
+Reevaluate:
+• Chief Complaint
+• Primary Assessment
+• Vitals
+• Interventions
+
+Document:
+• RECORD On Athletic Tape
+• WRITE OUT SOAPNote
+• TRANSFER TO Incident Report Form
+
+================================================================================
+MODULE 3: Basic Life Support
+================================================================================
+
+CPR, Airway Management, and AED
+Location: Rocky Mountain National Park, Colorado
+
+Cardiopulmonary Resuscitation (CPR)
+---
+
+CPR consists of pushing on the chest (compressions) and providing positive pressure ventilations (breaths) to circulate oxygenated blood to all vital organs, including the brain.
+
+When to Start CPR
+
+When there are no signs of life. In addition to a palpable pulse, signs of life include chest rise, movement of any kind, and good skin color (pink skin or mucous membranes). If you witness a collapse and notice unresponsiveness, and you're in an urban setting, activate the EMS system (call 911) and use an AED, if available, before beginning compressions.
+
+⚠️ WARNING: When there is a suspicion of asphyxia (e.g., avalanche burial, drowning, or CO & CO2 poisoning) give 5 breaths to oxygenate the patient before rescue breathing and/or CPR.
+
+CPR Overview - C-A-B vs A-B-C
+
+NO PULSE: Use C-A-B sequence (Circulation, Airway, Breathing)
+• Circulation: Start compressions, fast and hard, allow for total chest recoil, rate of 100-120/minute
+• Airway: Open airway using Head-tilt-chin-lift or Jaw thrust
+• Breathing: Give two breaths, give effective breaths to make chest rise, avoid excessive ventilations, minimize interruptions to less than 10 seconds
+
+PULSE PRESENT: Use A-B-C sequence (Airway, Breathing, Circulation)
+• Airway: Open Airway using Head-tilt, chin-lift or Jaw thrust
+• Breathing: NO Breathing or INADEQUATE Breathing (<8/min or > 30/min and shallow) = RESCUE BREATHING. Give 1 breath every 6 seconds, give effective breaths to make chest rise, avoid excessive ventilations. Continue primary assessment.
+
+================================================================================
+MODULE 4: Shock
+================================================================================
+
+Types, Stages, Recognition, and Treatment
+Location: Grand Teton National Park, Wyoming
+
+Types of Shock
+---
+
+Normal
+
+Fluid level, pump & container are normal. HR: 60-100 bpm, RR: 12-24 bpm, BP: Normal (strong radial pulses), SCTM: Pink, warm & dry (PWD).
+
+Hypovolemic Shock
+
+Fluid problem, severe bleed or severe dehydration. Visual: Healthy red heart connected to red circular container, but blue liquid level significantly reduced (<4 liters). HR: Over 100 bpm, RR: Over 24 bpm, BP: Normal to low, SCTM: Pale, cool & clammy (PCC).
+
+Cardiogenic Shock
+
+Pump problem: MI, CHF or cardiac tamponade. Visual: Red heart with diagonal line through it (indicating problem), connected to red circular container completely filled with blue liquid (5 liters). HR: Over 100 bpm, RR: Over 24 bpm, BP: Normal to low, SCTM: Pale, cool & clammy (PCC). Diaphoresis (sweating profusely) is common.
+
+Anaphylactic Shock (Vasogenic)
+
+Container problem, severe allergy. HR: Over 100 bpm, RR: Over 24 bpm (wheezing), BP: Low, SCTM: Red, hot & sweaty (RHS). Swallowing and breathing difficulties are common. Abdominal pain, cramps, vomiting, diarrhea, hives, and angioedema (swelling similar to hives, but beneath the skin instead of on the surface) is also possible.
+
+Septic Shock (Vasogenic)
+
+Container problem, severe infection. HR: Over 100 bpm, RR: Over 24 bpm, BP: Low, SCTM: Red & hot. A fever is usually present.
+
+Neurogenic Shock (Vasogenic)
+
+Container problem, high cord injury (C1-T4). HR: Over 100 bpm (or below 60/min bradycardia in some cases depending on spinal cord injury), RR: Over 24 bpm or absent, BP: Low, SCTM: Red, hot & dry (RHD), CSM: Poor (especially sensory and motor). Neck and/or back pain is usually present if patient is conscious.
+
+Stages of Shock
+---
+
+Compensatory Shock
+
+Signs/Symptoms:
+• Approximately 1 liter of blood loss
+• LOR: Anxious, restless, & confused
+• SCTM: Pale, cool, clammy, & diaphoretic
+• HR: Tachycardia (above 100 bpm)
+• RR: Tachypnea (above 24 bpm)
+• BP: Strong radial pulse
+• PERRL: Normal
+
+Decompensatory Shock
+
+Signs/Symptoms:
+• Approximately 2 liters of blood loss
+• LOR: Drops to unresponsiveness
+• SCTM: Very pale, cool, & clammy
+• HR: Increased tachycardia (weak & thready)
+• RR: Increased tachypnea (rapid & shallow)
+• BP: No radial pulse bilaterally
+• PERRL: Pupils are slow to react
+
+Irreversible Shock
+
+Signs/Symptoms:
+• Over 2 liters of blood loss
+• LOR: Unresponsive
+• SCTM: Cold & mottled
+• HR: Extreme tachycardia (weak & thready)
+• RR: Extreme tachypnea (rapid & shallow)
+• BP: Weak to no palpable carotid pulses
+• PERRL: Fixed & dilated
+
+Treatment
+---
+
+Tx (Treatment):
+• Assess ABCs
+• Stop blood loss
+• Anticipate shock
+• Keep patient calm & warm
+• IV therapy if available
+• High flow O₂ if available
+• Evacuate immediately
+
+⚠️ WARNING: NOTE: Individuals who take beta-blockers or calcium channel blockers for high BP or arrhythmias may decompensate more rapidly with shock since these drugs block the heart from beating above 100 bpm. Beta-blockers end in "olol" (e.g., metoprolol, atenolol & propranolol). Calcium channel blockers end in "dipine" (e.g., amlodipine, nicardipine & felodipine).
+
+================================================================================
+MODULE 5: Cardiac Emergencies
+================================================================================
+
+Angina, MI, CHF, and Treatment Protocols
+Location: Glacier National Park, Montana
+
+Angina Pectoris
+---
+
+Signs/Symptoms (S/Sx)
+
+• Anxiety & denial
+• Chest pain/pressure
+• Pain that radiates to the left jaw and arm
+• Shortness of breath (SOB)
+• Weakness
+• Pale skin
+• Diaphoresis (sweating profusely)
+• Possible elevated HR and RR
+• S/Sx often resolves with rest and/or nitroglycerin
+
+ℹ️ NOTE: Some individuals may simply present with weakness, nausea and/or pain in the back and/or belly.
+
+Myocardial Infarction (MI)
+---
+
+Signs/Symptoms (S/Sx)
+
+• Anxiety & denial
+• Nausea & vomiting
+• Chest pain/pressure
+• Pain that radiates to the left jaw and arm
+• Shortness of breath (SOB)
+• Weakness
+• Pale cool & clammy
+• Diaphoresis (sweating profusely)
+• Elevated HR & RR
+• Cardiogenic shock especially if on betablockers and CCBs
+
+ℹ️ NOTE: Some individuals may simply present with weakness, nausea and/or pain in the back and/or belly.
+
+Congestive Heart Failure (CHF)
+---
+
+Signs/Symptoms (S/Sx)
+
+• Weakness & fatigue
+• Nausea & vomiting
+• Swollen ankles and legs or shortness of breath due to pulmonary edema (crackly lung sounds)
+• May have chest pain
+• Increased HR & RR
+
+Treatment (Tx)
+---
+
+General Treatment:
+• Rest
+• Position of comfort
+• 325 mg of Aspirin
+• Patient's Rx of nitroglycerin
+• CPR when indicated
+• Evacuate immediately!
+
+================================================================================
+MODULE 6: Stroke (CVA)
+================================================================================
+
+Recognition, FAST Assessment, and Treatment
+Location: Mount Rainier National Park, Washington
+
+What is a Stroke (CVA)?
+---
+
+A CVA (stroke) occurs when either a blood clot lodges in a cerebral blood vessel (ischemic stroke) or a cerebral artery ruptures (hemorrhagic stroke), both leading to inadequate tissue perfusion of the brain.
+
+Neurological damage from an ischemic stroke might be reversible with thrombolytics, which dissolve clots to improve blood flow and prevent permanent brain damage. This therapy is for certain patients and must be administered within a 4.5-hour window after symptom onset.
+
+A stroke has sudden onset. It is critical to determine a "Last Seen Normal" time from the patient or bystanders. Proper wilderness treatment involves accurate assessment, patient comfort, and prompt evacuation.
+
+Aphasia
+
+Aphasia is an impairment of language, common in strokes and other brain injuries. It can present in three ways: 1) inability to form words and speak while understanding others, 2) inability to comprehend language resulting in incomprehensible speech, or 3) a combination of both. Individuals who can comprehend language might still communicate in written form.
+
+Signs and Symptoms
+---
+
+• Headache
+• Slurred speech
+• Hemiparesis (one-sided weakness)
+• Hemiplegia (paralysis on one side of the body)
+• Loss of CSM on one side (Circulation, Sensation, Movement)
+• Aphasia
+• Difficulty breathing
+• Decreased LOR (Level of Responsiveness)
+
+FAST Assessment
+---
+
+F - Facial Droop
+
+Partial paralysis of one side of the face results in drooping features. Instruction: Ask the person to smile.
+
+A - Arm Drift
+
+The person cannot raise or hold arms up equally. Instruction: Ask the person to hold both arms straight out in front of them with palms up.
+
+S - Speech
+
+The person slurs words, uses the wrong words or is unable to speak. There may also be difficulty swallowing exhibited by coughing or choking. Instruction: Ask the person to repeat a sentence after you.
+
+T - Time
+
+Time lost is brain lost. Think 'Brain Attack', like 'Heart Attack'. Instructions: Ask family/friends/bystanders when the person was last seen acting normally. Evacuate immediately!!
+
+Treatment
+---
+
+Tx (Treatment):
+• ABCs (Airway, Breathing, Circulation)
+• Assess & document "FAST" (Face drooping, Arm weakness, Speech difficulty, Time to call emergency services)
+• Reassurance
+• Evacuate immediately!
+
+⚠️ WARNING: NEVER give aspirin in the event of a CVA. It will increase bleeding in the brain in the case of a hemorrhagic stroke.
+
+================================================================================
+MODULE 7: Hypothermia
+================================================================================
+
+Stages, Recognition, and Treatment
+Location: Denali National Park, Alaska
+
+Assessing Hypothermia
+---
+
+Assessment Steps:
+1. Assess Consciousness (conscious or unresponsive)
+2. Assess Movement (normal, impaired, or no movement)
+3. Assess Shivering (mild, uncontrollable, or decreasing)
+4. Assess LOR (A&Ox4, decreasing, "U" on AVPU)
+
+Stages of Hypothermia
+---
+
+COLD STRESSED
+
+Indicators:
+• CONSCIOUS
+• MOVEMENT NORMAL
+• SHIVERING
+• LOR = A&Ox4 (Level of Responsiveness = Alert & Oriented x4)
+
+Treatment:
+1. Reduce heat loss
+2. Provide high-calorie food or drink
+3. Move around/exercise to warm up
+
+MILD
+
+Indicators:
+• CONSCIOUS
+• IMPAIRED MOVEMENT
+• SHIVERING
+• LOR = A&Ox4
+
+Treatment:
+1. Handle gently
+2. Have patient sit or lie down in hypowrap for at least 30 min.
+3. Heat sources - chest, back, armpits
+4. Give high-calorie food/drink
+5. Monitor for 'afterdrop' if patient recovers
+6. Evacuate if no improvement
+
+MODERATE
+
+Indicators:
+• CONSCIOUS
+• UNCONTROLLABLE SHIVERING → NONE
+• ↓LOR (decreasing Level of Responsiveness)
+
+Treatment:
+1. No standing/walking
+2. Handle gently
+3. Keep horizontal in hypowrap
+4. Heat sources - chest, back, armpits
+5. No food or drink
+6. Evacuate carefully to hospital with ECLS capability
+
+SEVERE
+
+If cold & unresponsive, assume SEVERE HYPOTHERMIA
+
+Treatment:
+1. Check carotid pulse for 60 sec.
+   • IF no pulse, start CPR
+   • IF pulse but no breathing, rescue breathe: (1 breath every 5-6 sec.)
+2. Treat like Moderate Hypothermia
+3. Evacuate carefully ASAP to hospital with ECLS capability
+
+================================================================================
+MODULE 8: Skin Related Problems
+================================================================================
+
+Poison Ivy, Oak, Sumac, and Fungal Infections
+Location: Great Smoky Mountains National Park, North Carolina/Tennessee
+
+Poison Ivy, Oak & Sumac
+Toxicodendron Genus
+---
+
+Contact dermatitis caused by plants in the Toxicodendron genus. Urushiol-induced contact dermatitis can be severe (potential for anaphylaxis). Approximately 15-30% of people are non-allergic. Risk of inhaling fumes from burning plants. Toxicodendron sp. is found across the US and southern Canada, excluding deserts and altitudes above ~5000 ft (1524 m).
+
+Prevention
+
+• Recognize plants by "leaves of three"
+• Wear protective clothing
+• Wash exposed clothing with laundry detergent or special solvents like Tecnu® products
+
+Signs/Symptoms (S/Sx)
+
+• Extremely itchy, red rash containing small to large fluid-filled blisters
+• Outbreaks can last up to three weeks
+• Difficulty breathing from inhalation of fumes from burning the plant
+
+Treatment (Tx)
+
+1. Wash exposed area immediately with soap and cold water (avoiding hot water to prevent pore opening and faster absorption)
+2. Use Tecnu Extreme® for its oil-dissolving and anti-itch properties
+3. Consider anti-histamines or oral steroids for severe reactions
+
+⚠️ WARNING: Evacuate anyone who has inhaled fumes or has difficulty breathing.
+
+Fungal Infections
+---
+
+Fungal infections typically grow in dark, warm, moist areas like feet and groin.
+
+Prevention
+
+• Wear breathable, dry clothing
+• Frequently change socks and underwear to reduce moisture in problem areas
+
+Signs/Symptoms (S/Sx)
+
+• Red, swollen, itchy, skin that can be scaling and cracking
+
+Treatment (Tx)
+
+1. Clean and air-dry the affected area
+2. Allow it to breathe
+3. Short exposure to UV radiation may help
+4. Apply diluted tea tree oil, 1% hydrocortisone cream, or other over-the-counter anti-fungal creams
+
+================================================================================
+END OF MODULES
+================================================================================
+
+This extraction represents a comprehensive migration from chapter-based reference material to modern, topic-based modules with rebranding to Black Elk Mountain Medicine and terminology updates (SOAA'P → SOAPNote).
+
+All modules include randomized scenario locations from US National and State Parks for enhanced learning and scenario realism.

@@ -1,0 +1,169 @@
+{
+  "identifier" : "WFRTrailTriageProducts",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "14.99",
+      "familyShareable" : false,
+      "internalID" : "LIFETIME001",
+      "localizations" : [
+        {
+          "description" : "One-time purchase for unlimited lifetime access to all WFR protocols and reference materials",
+          "displayName" : "Lifetime Access",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.wfr.trailtriage.lifetime",
+      "referenceName" : "WFR TrailTriage Lifetime Access",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "5.00",
+      "familyShareable" : false,
+      "internalID" : "DONATION001",
+      "localizations" : [
+        {
+          "description" : "Support Friends of Custer Search and Rescue with a $5 donation",
+          "displayName" : "$5 Donation",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.wfr.trailtriage.donation.small",
+      "referenceName" : "Custer SAR Donation - Small",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "10.00",
+      "familyShareable" : false,
+      "internalID" : "DONATION002",
+      "localizations" : [
+        {
+          "description" : "Support Friends of Custer Search and Rescue with a $10 donation",
+          "displayName" : "$10 Donation",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.wfr.trailtriage.donation.medium",
+      "referenceName" : "Custer SAR Donation - Medium",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "25.00",
+      "familyShareable" : false,
+      "internalID" : "DONATION003",
+      "localizations" : [
+        {
+          "description" : "Support Friends of Custer Search and Rescue with a $25 donation",
+          "displayName" : "$25 Donation",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.wfr.trailtriage.donation.large",
+      "referenceName" : "Custer SAR Donation - Large",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "50.00",
+      "familyShareable" : false,
+      "internalID" : "DONATION004",
+      "localizations" : [
+        {
+          "description" : "Support Friends of Custer Search and Rescue with a $50 donation",
+          "displayName" : "$50 Donation",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.wfr.trailtriage.donation.xlarge",
+      "referenceName" : "Custer SAR Donation - Extra Large",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "TIP001",
+      "localizations" : [
+        {
+          "description" : "Buy the developer a coffee",
+          "displayName" : "Coffee Tip",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.wfr.trailtriage.tip.small",
+      "referenceName" : "Developer Tip - Coffee",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "TIP002",
+      "localizations" : [
+        {
+          "description" : "Buy the developer a trail lunch",
+          "displayName" : "Trail Lunch Tip",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.wfr.trailtriage.tip.medium",
+      "referenceName" : "Developer Tip - Lunch",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "9.99",
+      "familyShareable" : false,
+      "internalID" : "TIP003",
+      "localizations" : [
+        {
+          "description" : "Help the developer get new gear",
+          "displayName" : "Climbing Rope Tip",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.wfr.trailtriage.tip.large",
+      "referenceName" : "Developer Tip - Gear",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6670358480",
+    "_developerTeamID" : "YOUR_TEAM_ID",
+    "_lastSynchronizedDate" : 752976035.70697904
+  },
+  "subscriptions" : [
+    {
+      "adHocOffers" : [
+
+      ],
+      "codeOffers" : [
+
+      ],
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "groupNumber" : 1,
+      "internalID" : "SUBSCRIPTION001",
+      "introductoryOffer" : {
+        "internalID" : "INTROOFFER001",
+        "numberOfPeriods" : 1,
+        "paymentMode" : "free",
+        "subscriptionPeriod" : "P3D"
+      },
+      "localizations" : [
+        {
+          "description" : "Monthly subscription with 3-day free trial. Access all WFR protocols and reference materials. Cancel anytime.",
+          "displayName" : "Monthly Premium",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.wfr.trailtriage.monthly",
+      "recurringSubscriptionPeriod" : "P1M",
+      "referenceName" : "WFR TrailTriage Monthly Subscription",
+      "subscriptionGroupNumber" : 1,
+      "type" : "RecurringSubscription"
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

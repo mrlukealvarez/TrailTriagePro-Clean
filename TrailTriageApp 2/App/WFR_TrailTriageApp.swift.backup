@@ -1,0 +1,83 @@
+//
+//  WFR_TrailTriageApp.swift
+//  TrailTriage: WFR Toolkit
+//
+//  Created by Luke Alvarez on 11/7/25.
+//  BlackElkMountainMedicine.com
+//
+//  🦝 Jimmothy Approved: Main app entry point with SwiftData model container setup!
+//
+
+import SwiftUI
+import SwiftData
+import StoreKit
+
+@main
+struct WFR_TrailTriageApp: App {
+    @State private var appSettings = AppSettings()
+    @AppStorage("hasCompletedOnboarding") private var hasCompletedOnboarding = false
+    @State private var storeManager = StoreManager.shared
+    @State private var hasCheckedSubscription = false
+    
+    var sharedModelContainer: ModelContainer = {
+        let schema = Schema([
+            WFRProtocol.self,
+            SOAPNote.self,
+            VitalSigns.self,
+        ])
+        let modelConfiguration = ModelConfiguration(schema: schema, isStoredInMemoryOnly: false)
+
+        do {
+            return try ModelContainer(for: schema, configurations: [modelConfiguration])
+        } catch {
+            fatalError("Could not create ModelContainer: \(error)")
+        }
+    }()
+
+    var body: some Scene {
+        WindowGroup {
+            Group {
+                // Wait for subscription check to complete before deciding what to show
+                if !hasCheckedSubscription {
+                    // Show loading state while checking subscription
+                    ProgressView("Checking subscription...")
+                        .task {
+                            // Check subscription status on launch
+                            await storeManager.updatePurchasedProducts()
+                            
+                            // Debug logging
+                            print("🔍 Onboarding Check:")
+                            print("  - hasCompletedOnboarding: \(hasCompletedOnboarding)")
+                            print("  - hasFullAccess: \(storeManager.hasFullAccess)")
+                            print("  - hasLifetimeAccess: \(storeManager.hasLifetimeAccess)")
+                            print("  - hasActiveSubscription: \(storeManager.hasActiveSubscription)")
+                            print("  - isInActiveTrial: \(storeManager.isInActiveTrial)")
+                            print("  - purchasedProductIDs: \(storeManager.purchasedProductIDs)")
+                            let stateDescription = storeManager.subscriptionStatus.map { String(describing: $0.state) } ?? "nil"
+                            print("  - subscriptionStatus: \(stateDescription)")
+                            
+                            hasCheckedSubscription = true
+                        }
+                } else {
+                    // Show onboarding if:
+                    // 1. User hasn't completed onboarding, OR
+                    // 2. User completed onboarding but doesn't have active subscription
+                    let shouldShowOnboarding = !hasCompletedOnboarding || !storeManager.hasFullAccess
+                    
+                    if shouldShowOnboarding {
+                        OnboardingView(isPresented: Binding(
+                            get: { !hasCompletedOnboarding || !storeManager.hasFullAccess },
+                            set: { hasCompletedOnboarding = !$0 }
+                        ))
+                        .environment(appSettings)
+                    } else {
+                        MainTabView()
+                            .environment(appSettings)
+                    }
+                }
+            }
+        }
+        .modelContainer(sharedModelContainer)
+        .tint(Theme.tint)
+    }
+}

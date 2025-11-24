@@ -1,0 +1,68 @@
+{
+  "image_path": "/Users/luke/Documents/WFR TrailTriage/WFR TrailTriage/OldRefBook/01_Chapter_Photos/IMG_2905.JPG",
+  "image_name": "IMG_2905.JPG",
+  "text": "CHAPTER\nr\n02W2PW0N8490W6990R704\nsocioudrnienibitsm\nPUSYOAS1OKE\n129\nAbout Desert Mountain\nMEDICINE\nTeaching\nPhilosophy\nSRMLOUSNOMS\n1",
+  "structured_text": [
+    {
+      "box": [],
+      "text": "CHAPTER",
+      "confidence": 0.9572474360466003
+    },
+    {
+      "box": [],
+      "text": "r",
+      "confidence": 0.40839236974716187
+    },
+    {
+      "box": [],
+      "text": "02W2PW0N8490W6990R704",
+      "confidence": 0.28832659125328064
+    },
+    {
+      "box": [],
+      "text": "socioudrnienibitsm",
+      "confidence": 0.5033766627311707
+    },
+    {
+      "box": [],
+      "text": "PUSYOAS1OKE",
+      "confidence": 0.3052145540714264
+    },
+    {
+      "box": [],
+      "text": "129",
+      "confidence": 0.4296201467514038
+    },
+    {
+      "box": [],
+      "text": "About Desert Mountain",
+      "confidence": 0.9305043816566467
+    },
+    {
+      "box": [],
+      "text": "MEDICINE",
+      "confidence": 0.999778687953949
+    },
+    {
+      "box": [],
+      "text": "Teaching",
+      "confidence": 0.9999439120292664
+    },
+    {
+      "box": [],
+      "text": "Philosophy",
+      "confidence": 0.9999138116836548
+    },
+    {
+      "box": [],
+      "text": "SRMLOUSNOMS",
+      "confidence": 0.47898638248443604
+    },
+    {
+      "box": [],
+      "text": "1",
+      "confidence": 0.6759288907051086
+    }
+  ],
+  "line_count": 12
+}
