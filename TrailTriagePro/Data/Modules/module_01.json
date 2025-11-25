@@ -1,0 +1,49 @@
+{
+  "moduleTitle": "About Desert Mountain Medicine",
+  "moduleSubtitle": "Teaching Philosophy",
+  "category": "general",
+  "orderIndex": 1,
+  "pageImageNames": [
+    "IMG_Chapter1_Page1.JPG",
+    "IMG_Chapter1_Page2.JPG"
+  ],
+  "sections": [
+    {
+      "title": "About Desert Mountain Medicine",
+      "subtitle": "Teaching Philosophy",
+      "orderIndex": 1,
+      "content": [
+        {"type": "heading", "content": "CHAPTER 1", "orderIndex": 1},
+        {"type": "heading", "content": "ABOUT DESERT MOUNTAIN MEDICINE", "orderIndex": 2},
+        {"type": "subheading", "content": "Teaching Philosophy", "orderIndex": 3},
+        {"type": "paragraph", "content": "Desert Mountain Medicine was started with the premise that wilderness medicine instruction should not be limited to classroom lectures. We are driven to develop a creative, experiential based curriculum; one which effectively addresses the dynamic nature of a wilderness environment and the rapid advancement in emergency care, as well as supports and addresses multiple learning styles. Our teaching approach heavily favors hands-on, scenario-based practice taught in an outdoor setting while simulating real-world examples. The completion of scenarios plays a powerful role in self-reflection and allows for inquiry-based learning so each student can relate his or her experience to the real world. We believe students should be physically involved in the learning process so that intensive learning outcomes are experienced as challenging, fun, and applicable to all aspects of life. We know that our teaching philosophy is successful when students have mastered the material, attained personal growth, and expanded awareness of self, others, and environment.", "orderIndex": 4},
+        {"type": "paragraph", "content": "We believe that practice and repetition of increasingly complex scenarios helps students develop an in-depth and personalized approach to patient assessment where the learning is ingrained and can be accessed and applied rapidly in an emergency situation. Our teaching approach develops the students’ abilities to immediately retrieve and utilize the skills needed to treat individuals in the event of a real wilderness emergency. Our teaching focuses on developing high levels of expertise, teamwork, and leadership while stimulating communication, facilitating critical-thinking, and refining students’ decision-making skills.", "orderIndex": 5},
+        {"type": "paragraph", "content": "Desert Mountain Medicine instructors pride themselves on the dynamic delivery of course curricula using innovative educational techniques and integrative scenarios. We strive to deliver courses that are rich in quality, consistency, and effectiveness in an energizing and engaging classroom environment. We take the responsibility of teaching very seriously.", "orderIndex": 6}
+      ]
+    }
+  ],
+  "imageInventory": [
+    {
+      "pageImage": "IMG_Chapter1_Page1.JPG",
+      "pageNumber": 1,
+      "description": "Large stylized black, blue, and gray mountain illustration spanning most of the left page with a heartbeat/ECG line at the bottom",
+      "type": "illustration",
+      "section": "About Desert Mountain Medicine",
+      "purpose": "Chapter opener decorative art"
+    },
+    {
+      "pageImage": "IMG_Chapter1_Page1.JPG",
+      "pageNumber": 1,
+      "description": "Heartbeat/ECG line graphic running along the bottom of the page",
+      "type": "illustration",
+      "section": "About Desert Mountain Medicine",
+      "purpose": "Decorative thematic element"
+    }
+  ],
+  "specialContent": {
+    "scenarios": [],
+    "locationReferences": [],
+    "brandNames": [],
+    "terminologyUpdates": []
+  }
+}

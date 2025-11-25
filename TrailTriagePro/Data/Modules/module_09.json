@@ -1,0 +1,193 @@
+{
+  "moduleTitle": "Micromedicine – Minor Medical Problems",
+  "moduleSubtitle": "Dental, respiratory, dermatologic, sun, and poison care",
+  "category": "micromedicine",
+  "orderIndex": 9,
+  "pageImageNames": [
+    "IMG_01.jpg",
+    "IMG_02.jpg",
+    "IMG_03.jpg",
+    "IMG_04.jpg",
+    "IMG_05.jpg",
+    "IMG_06.jpg",
+    "IMG_07.jpg",
+    "IMG_08.jpg",
+    "IMG_09.jpg",
+    "IMG_10.jpg",
+    "IMG_11.jpg"
+  ],
+  "sections": [
+    {
+      "title": "Dental Problems",
+      "subtitle": "",
+      "orderIndex": 1,
+      "content": [
+        {"type": "heading", "content": "BROKEN TOOTH", "orderIndex": 1},
+        {"type": "paragraph", "content": "A broken tooth may chip, crack or fracture and is usually a problem if the nerve is exposed to air. Exposed nerve causes sensitivity or pain to air, cold/hot foods, and drinks.", "orderIndex": 2},
+        {"type": "procedure", "content": "Tx", "orderIndex": 3},
+        {"type": "paragraph", "content": "If tooth pulp is exposed, apply a small piece of crushed aspirin to cauterize the nerve (burning sensation followed by relief). Consider oral analgesics and/or apply oil of cloves to the gum surrounding the damaged tooth for pain. Evacuate any trip participant with exposed pulp to a dentist within 48 hours. Note: aspirin is acidic and should never be placed on the gum of an aching tooth.", "orderIndex": 4},
+        {"type": "heading", "content": "LOST FILLING OR CROWN", "orderIndex": 5},
+        {"type": "paragraph", "content": "Partial or entire fillings that have fallen out or a crown that has dislodged expose the nerve and cause sensitivity to air, cold/hot foods and drinks.", "orderIndex": 6},
+        {"type": "procedure", "content": "Tx", "orderIndex": 7},
+        {"type": "paragraph", "content": "Brush teeth and rinse with disinfected water. Dry the area with sterile gauze and fill hole or secure crown with Cavit®, wax, or sugarless gum. Consider oral analgesics and/or oil of cloves for pain. Evacuate to a dentist within 48 hours.", "orderIndex": 8},
+        {"type": "heading", "content": "TOOTH ABSCESS", "orderIndex": 9},
+        {"type": "paragraph", "content": "Infection in the gum line caused by trapped food, untreated decay, gum disease, recent root canal, or trauma.", "orderIndex": 10},
+        {"type": "paragraph", "content": "Pain while chewing, swelling along the gum line, and/or a pus-filled pimple on the gum adjacent to the infected tooth.", "orderIndex": 11},
+        {"type": "procedure", "content": "Tx", "orderIndex": 12},
+        {"type": "paragraph", "content": "Brush and floss to remove trapped food, rinse mouth with salty water several times a day. If abscess is visible consider lancing with a sterile blade or needle to drain pus, rinse with disinfected water, and consider antibiotics per protocol. Evacuate to definitive care ASAP.", "orderIndex": 13},
+        {"type": "heading", "content": "AVULSED TOOTH", "orderIndex": 14},
+        {"type": "paragraph", "content": "A tooth partially or completely dislodged from its socket with bleeding and pain.", "orderIndex": 15},
+        {"type": "procedure", "content": "Tx", "orderIndex": 16},
+        {"type": "paragraph", "content": "Irrigate tooth; do not scrub or touch the root. Attempt to replace in its socket and splint with Cavit®, wax, or sugarless gum. If not possible, wrap in sterile gauze and place between cheek and gum or in Save-a-Tooth®/water. Consider analgesics and/or oil of cloves. Evacuate to an oral surgeon immediately; reimplantation success drops after 30–60 minutes.", "orderIndex": 17}
+      ]
+    },
+    {
+      "title": "Motion Sickness",
+      "subtitle": "Sea, air, or vehicle",
+      "orderIndex": 2,
+      "content": [
+        {"type": "paragraph", "content": "Mixed signals between the eyes and inner ear trigger nausea, dizziness, pale skin, and fatigue.", "orderIndex": 1},
+        {"type": "paragraph", "content": "Prevention: sit forward facing, focus on the horizon, use transdermal scopolamine or OTC antiemetics (Benadryl®, Dramamine®, Bonine®, Gravol®). Sea Band® acupressure on pericardium 6 can help.", "orderIndex": 2},
+        {"type": "procedure", "content": "Tx", "orderIndex": 3},
+        {"type": "paragraph", "content": "Remove the person from the motion stimulus. Ginger products or OTC antihistamines can relieve nausea (watch for drowsiness). Persistent vomiting may require prescription antiemetics or IV therapy.", "orderIndex": 4}
+      ]
+    },
+    {
+      "title": "Flu-Like Illnesses",
+      "subtitle": "Cold, sore throat, influenza",
+      "orderIndex": 3,
+      "content": [
+        {"type": "heading", "content": "COMMON COLD", "orderIndex": 1},
+        {"type": "paragraph", "content": "Viral upper respiratory infection (typically rhinovirus) resolving in 7–10 days with runny nose, cough, sore throat, aches, fatigue, chills, and occasional fever.", "orderIndex": 2},
+        {"type": "procedure", "content": "Tx", "orderIndex": 3},
+        {"type": "paragraph", "content": "Rest, fluids, analgesics, decongestants/antihistamines. Emphasize hand washing and hygiene.", "orderIndex": 4},
+        {"type": "heading", "content": "SORE THROAT", "orderIndex": 5},
+        {"type": "paragraph", "content": "Inflammation from dry/cold air or infection (viral, occasionally strep) with throat pain, difficulty swallowing, hoarseness, swollen tonsils.", "orderIndex": 6},
+        {"type": "paragraph", "content": "Hydrate, warm salt gargle, rest, analgesics. ⚠ Evacuate if unable to swallow or throat is red, swollen, and coated with white spots.", "orderIndex": 7},
+        {"type": "heading", "content": "INFLUENZA", "orderIndex": 8},
+        {"type": "paragraph", "content": "Viral infection with respiratory and systemic symptoms lasting up to two weeks.", "orderIndex": 9},
+        {"type": "paragraph", "content": "Supportive care (fluids, rest, analgesics, decongestants). Isolate the patient. ⚠ Evacuate if fever >102°F (39°C) persists >2 days or signs of pneumonia develop.", "orderIndex": 10}
+      ]
+    },
+    {
+      "title": "Fever • Headache • COVID-19",
+      "subtitle": "",
+      "orderIndex": 4,
+      "content": [
+        {"type": "heading", "content": "FEVER", "orderIndex": 1},
+        {"type": "paragraph", "content": "Symptom of underlying illness with chills, shivering, muscle aches, lethargy, headache, and malaise.", "orderIndex": 2},
+        {"type": "paragraph", "content": "Antipyretics (ibuprofen, acetaminophen) for comfort; most fevers self-limit. ⚠ Evacuate if fever >102°F (39°C) lasts more than two days or illness worsens.", "orderIndex": 3},
+        {"type": "heading", "content": "HEADACHE", "orderIndex": 4},
+        {"type": "paragraph", "content": "Non-specific symptom often caused by dehydration, hyponatremia, AMS, heat exhaustion, or medical conditions.", "orderIndex": 5},
+        {"type": "paragraph", "content": "Hydrate, use analgesics, treat contributing factors. ⚠ Evacuate sudden severe headaches or those unresponsive to treatment and associated with stiff neck or inability to ambulate.", "orderIndex": 6},
+        {"type": "heading", "content": "COVID-19", "orderIndex": 7},
+        {"type": "paragraph", "content": "Coronavirus disease with cough, fever/chills, dyspnea, aches, sore throat, anosmia, GI symptoms, congestion, fatigue, headache, nausea/vomiting.", "orderIndex": 8},
+        {"type": "paragraph", "content": "Treat supportively and quarantine. Use PPE for caregivers. Evacuate symptomatic patients, especially elderly or immunocompromised.", "orderIndex": 9}
+      ]
+    },
+    {
+      "title": "Ear • Eye • Nose Problems",
+      "subtitle": "",
+      "orderIndex": 5,
+      "content": [
+        {"type": "heading", "content": "OUTER EAR INFECTION (OTITIS EXTERNA)", "orderIndex": 1},
+        {"type": "paragraph", "content": "Moisture-driven bacterial or fungal infection (swimmer’s ear). Prevention: shake out water and rinse canal with diluted vinegar.", "orderIndex": 2},
+        {"type": "paragraph", "content": "Pain/pressure worsened by pushing on the tragus or pulling on the lobe.", "orderIndex": 3},
+        {"type": "paragraph", "content": "Treat with a 1:1 mixture of rubbing alcohol and vinegar to dry and re-acidify the canal; avoid water until resolved.", "orderIndex": 4},
+        {"type": "heading", "content": "OBJECTS IN THE EAR/EYE", "orderIndex": 5},
+        {"type": "paragraph", "content": "Small objects or insects may lodge in the ear canal; dirt and debris often hide under the eyelid.", "orderIndex": 6},
+        {"type": "paragraph", "content": "Irrigate the ear canal with clean water or remove visible objects with tweezers. For eye debris remove contacts and flush copiously; leave impaled objects and evacuate.", "orderIndex": 7},
+        {"type": "heading", "content": "NOSE BLEED (EPISTAXIS)", "orderIndex": 8},
+        {"type": "paragraph", "content": "Usually benign and common at altitude with dry, cool air, presenting as spontaneous bleeding from one nostril.", "orderIndex": 9},
+        {"type": "paragraph", "content": "Pinch the bridge below the cartilage, lean forward, spit blood. Pack the nostril and evacuate if bleeding cannot be controlled.", "orderIndex": 10}
+      ]
+    },
+    {
+      "title": "Skin-Related Problems",
+      "subtitle": "Poison ivy/oak/sumac and fungal infections",
+      "orderIndex": 6,
+      "content": [
+        {"type": "heading", "content": "POISON IVY, OAK & SUMAC", "orderIndex": 1},
+        {"type": "paragraph", "content": "Urushiol-induced contact dermatitis with extremely itchy, red rash and fluid-filled blisters. Inhalation of burning plants can trigger anaphylaxis.", "orderIndex": 2},
+        {"type": "paragraph", "content": "Prevention: identify the plants, wear protective clothing, and wash clothing/gear with detergent or Tecnu®.", "orderIndex": 3},
+        {"type": "paragraph", "content": "Wash exposed skin immediately with cold water and soap. Consider Tecnu Extreme®, antihistamines, or oral steroids. ⚠ Evacuate anyone with inhalation exposure or breathing difficulty.", "orderIndex": 4},
+        {"type": "heading", "content": "FUNGAL INFECTIONS", "orderIndex": 5},
+        {"type": "paragraph", "content": "Typically grow in dark, warm, moist areas like feet and groin; prevent with breathable fabrics and frequent clothing changes.", "orderIndex": 6},
+        {"type": "paragraph", "content": "Red, swollen, itchy, scaling or cracking skin.", "orderIndex": 7},
+        {"type": "paragraph", "content": "Clean and air-dry the affected area, allow the skin to breathe, apply diluted tea tree oil, 1% hydrocortisone, or OTC antifungal creams.", "orderIndex": 8}
+      ]
+    },
+    {
+      "title": "Sun-Related Problems",
+      "subtitle": "Sunburn and snow blindness",
+      "orderIndex": 7,
+      "content": [
+        {"type": "heading", "content": "SUNBURN", "orderIndex": 1},
+        {"type": "paragraph", "content": "Reddening of skin due to prolonged ultraviolet exposure with hot, swollen, painful skin, chills, fatigue, and possible blisters.", "orderIndex": 2},
+        {"type": "paragraph", "content": "Prevention: protective UPF clothing and SPF ≥15 sunscreen reapplied during the day.", "orderIndex": 3},
+        {"type": "paragraph", "content": "Treat with aloe vera gel, hydration, and avoidance of further sun until healed.", "orderIndex": 4},
+        {"type": "heading", "content": "SNOW BLINDNESS", "orderIndex": 5},
+        {"type": "paragraph", "content": "UV burn on the surface of the eye common at altitude or near reflective surfaces; presents with red, teary, painful, light-sensitive eyes.", "orderIndex": 6},
+        {"type": "paragraph", "content": "Prevention: high-quality sunglasses/glacier goggles or improvised slit eyewear.", "orderIndex": 7},
+        {"type": "paragraph", "content": "Remove contacts, keep eyes closed, apply cool wet compresses, consider analgesics. Symptoms usually resolve within 48 hours; avoid sun until clear.", "orderIndex": 8}
+      ]
+    },
+    {
+      "title": "Blisters • Fish Hooks • Splinters",
+      "subtitle": "",
+      "orderIndex": 8,
+      "content": [
+        {"type": "heading", "content": "FISH HOOKS", "orderIndex": 1},
+        {"type": "paragraph", "content": "Attach dental floss around the hook belly, depress the shank, and snap the string to remove. Clean the wound.", "orderIndex": 2},
+        {"type": "heading", "content": "SPLINTERS", "orderIndex": 3},
+        {"type": "paragraph", "content": "Press toward the exit, grasp the exposed end with tweezers, or lift skin with a sterilized needle to access deeper splinters.", "orderIndex": 4},
+        {"type": "heading", "content": "BLISTERS", "orderIndex": 5},
+        {"type": "paragraph", "content": "Fluid-filled pockets from friction. Prevention: cover hotspots, change wet socks, use liners, and break in boots.", "orderIndex": 6},
+        {"type": "paragraph", "content": "Clean the area, lance with a sterile needle, leave the roof intact, apply 2nd Skin® and secure with tincture of benzoin and tape.", "orderIndex": 7}
+      ]
+    },
+    {
+      "title": "Poisons",
+      "subtitle": "Ingested, absorbed, inhaled, injected",
+      "orderIndex": 9,
+      "content": [
+        {"type": "paragraph", "content": "Poisons can be ingested, absorbed, inhaled, or injected.", "orderIndex": 1},
+        {"type": "paragraph", "content": "Prevention: ventilate shelters, avoid cooking in poorly ventilated spaces, clearly label fuel and corrosive liquids.", "orderIndex": 2},
+        {"type": "procedure", "content": "Tx", "orderIndex": 3},
+        {"type": "paragraph", "content": "Do not induce vomiting. Consult poison control if available. Remove the patient from inhaled poisons and administer oxygen if possible. See other sections for injected (bites/stings) or absorbed (urushiol) toxins.", "orderIndex": 4}
+      ]
+    }
+  ],
+  "imageInventory": [
+    {"pageImage": "IMG_01.jpg", "pageNumber": 173, "description": "Broken tooth, lost filling/crown, tooth abscess reference boxes", "type": "photo", "section": "Dental Problems", "purpose": "Reference"},
+    {"pageImage": "IMG_02.jpg", "pageNumber": 180, "description": "Motion sickness prevention, signs, and treatment", "type": "photo", "section": "Motion Sickness", "purpose": "Educational"},
+    {"pageImage": "IMG_03.jpg", "pageNumber": 174, "description": "Common cold, sore throat, influenza panels with warning icons", "type": "photo", "section": "Flu-Like Illnesses", "purpose": "Reference"},
+    {"pageImage": "IMG_04.jpg", "pageNumber": 175, "description": "Fever, headache, COVID-19 reference boxes", "type": "photo", "section": "Fever • Headache • COVID-19", "purpose": "Reference"},
+    {"pageImage": "IMG_05.jpg", "pageNumber": 171, "description": "Outer ear infection, objects in ear/eye, nosebleed guidance", "type": "photo", "section": "Ear • Eye • Nose Problems", "purpose": "Educational"},
+    {"pageImage": "IMG_06.jpg", "pageNumber": 178, "description": "Poison ivy/oak/sumac and fungal infection guidance", "type": "photo", "section": "Skin-Related Problems", "purpose": "Reference"},
+    {"pageImage": "IMG_07.jpg", "pageNumber": 176, "description": "Sunburn and snow blindness treatments", "type": "photo", "section": "Sun-Related Problems", "purpose": "Educational"},
+    {"pageImage": "IMG_08.jpg", "pageNumber": 179, "description": "Fish hooks, splinters, and blisters procedures", "type": "photo", "section": "Blisters • Fish Hooks • Splinters", "purpose": "Procedure"},
+    {"pageImage": "IMG_09.jpg", "pageNumber": 177, "description": "Sun bumps and cold sores callouts", "type": "photo", "section": "Sun-Related Problems", "purpose": "Reference"},
+    {"pageImage": "IMG_10.jpg", "pageNumber": 181, "description": "Poisons overview callouts", "type": "photo", "section": "Poisons", "purpose": "Reference"},
+    {"pageImage": "IMG_11.jpg", "pageNumber": 172, "description": "Avulsed tooth workflow and dental emergency kit list", "type": "photo", "section": "Dental Problems", "purpose": "Reference"}
+  ],
+  "specialContent": {
+    "scenarios": [],
+    "locationReferences": [],
+    "brandNames": [
+      "Cavit®",
+      "Tecnu®",
+      "Save-a-Tooth®",
+      "Benadryl®",
+      "Dramamine®",
+      "Bonine®",
+      "Gravol®",
+      "Sea Band®",
+      "CroFab®",
+      "Anavip®",
+      "NACSAV"
+    ],
+    "terminologyUpdates": []
+  }
+}
+

@@ -1,0 +1,621 @@
+{
+  "moduleTitle": "Traumatic Injuries",
+  "moduleSubtitle": "Complete Traumatic Injuries Reference",
+  "category": "trauma",
+  "orderIndex": 6,
+  "pageImageNames": [
+    "Ch6_p35.jpg",
+    "Ch6_p36.jpg",
+    "Ch6_p37.jpg",
+    "Ch6_p38.jpg",
+    "Ch6_p39.jpg",
+    "Ch6_p40.jpg",
+    "Ch6_p41.jpg",
+    "Ch6_p42.jpg",
+    "Ch6_p43.jpg",
+    "Ch6_p44.jpg",
+    "Ch6_p45.jpg",
+    "Ch6_p46.jpg",
+    "Ch6_p47.jpg",
+    "Ch6_p48.jpg",
+    "Ch6_p49.jpg",
+    "Ch6_p50.jpg",
+    "Ch6_p51.jpg",
+    "Ch6_p52.jpg",
+    "Ch6_p53.jpg",
+    "Ch6_p54.jpg",
+    "Ch6_p55.jpg",
+    "Ch6_p56.jpg",
+    "Ch6_p57.jpg",
+    "Ch6_p58.jpg",
+    "Ch6_p59.jpg",
+    "Ch6_p60.jpg",
+    "Ch6_p61.jpg",
+    "Ch6_p62.jpg",
+    "Ch6_p63.jpg",
+    "Ch6_p64.jpg",
+    "Ch6_p65.jpg",
+    "Ch6_p66.jpg",
+    "Ch6_p67.jpg",
+    "Ch6_p68.jpg",
+    "Ch6_p69.jpg",
+    "Ch6_p70.jpg",
+    "Ch6_p71.jpg",
+    "Ch6_p72.jpg",
+    "Ch6_p73.jpg",
+    "Ch6_p74.jpg",
+    "Ch6_p75.jpg",
+    "Ch6_p76.jpg",
+    "Ch6_p77.jpg"
+  ],
+  "sections": [
+    {
+      "title": "Traumatic Injuries",
+      "subtitle": "",
+      "orderIndex": 1,
+      "content": [
+        {"type": "incidentCard", "content": "Mountain Biking Accident (25mph into bars)", "orderIndex": 0, "metadata": "{\"title\":\"Traumatic Injuries\",\"history\":{\"acronym\":\"OPQRST\",\"fields\":[\"Onset?\",\"Provocation?\",\"Quality?\",\"Region?\",\"Severity (1-10)?\",\"Time?\"]},\"vitals\":{\"grid\":[{\"label\":\"HR\",\"normal\":\"55-105\",\"trend\":\"↑ worse\"},{\"label\":\"RR\",\"normal\":\"12-20\",\"trend\":\"↑ pain\"},{\"label\":\"BP\",\"normal\":\"Radial strong ≈ 100 mmHg\",\"trend\":\"↓ = shock\"},{\"label\":\"AVPU\",\"normal\":\"A&O × 4\",\"trend\":\"V/P/U = red flag\"},{\"label\":\"Skin\",\"normal\":\"Pink, warm, dry\",\"trend\":\"Pale/clammy\"}]},\"evac\":{\"priorities\":[\"Urgent (1hr): Airway threat\",\"Priority (6hr): Spinal protection\",\"Quick (24hr): Trend vitals\"]},\"notes\":\"You're the trail lifeline—act calm, evac smart.\"}"},
+        {"type": "heading", "content": "CHAPTER 6", "orderIndex": 1},
+        {"type": "heading", "content": "TRAUMATIC INJURIES", "orderIndex": 2},
+        {"type": "subheading", "content": "Bleeding", "orderIndex": 3},
+        {"type": "paragraph", "content": "Severe bleeding (hemorrhage) is the leading cause of preventable death after trauma.", "orderIndex": 4},
+        {"type": "paragraph", "content": "An adult has approximately 5 liters of blood. Losing 1 liter (≈ 1/3 of total blood volume) can cause shock.", "orderIndex": 5},
+        {"type": "table", "tableData": {
+          "headers": ["Type", "Appearance", "Severity"],
+          "rows": [
+            ["Arterial", "Bright red, spurting with pulse", "Most severe – can exsanguinate in minutes"],
+            ["Venous", "Dark red, steady flow", "Severe – can still be life-threatening"],
+            ["Capillary", "Red, slow ooze", "Usually self-limiting"]
+          ]
+        }, "orderIndex": 6},
+        {"type": "procedure", "content": "Control of External Bleeding (in order)", "orderIndex": 7},
+        {"type": "numberedList", "content": "Bleeding Control Steps", "items": [
+          "1. Direct pressure (gloved hand, thick gauze)",
+          "2. Elevation (above heart if possible)",
+          "3. Pressure points (brachial or femoral)",
+          "4. Hemostatic agent (QuikClot®, Celox®, etc.) packed into wound",
+          "5. Tourniquet (only if life-threatening limb bleeding cannot be controlled by other means)"
+        ], "orderIndex": 8},
+        {"type": "warning", "content": "Tourniquet Rules\n• Apply 2–3 inches above wound (never over joint)\n• Write time on tourniquet and patient's forehead\n• Do NOT loosen or remove once applied unless by medical professional\n• Only remove if evacuation will take > 6–8 hours and bleeding has stopped", "orderIndex": 9},
+        {"type": "subheading", "content": "Shock", "orderIndex": 10},
+        {"type": "paragraph", "content": "Shock is inadequate perfusion of tissues and vital organs. Treat ALL critical trauma patients for shock even if signs are not yet present.", "orderIndex": 11},
+        {"type": "table", "tableData": {
+          "headers": ["Type", "Cause", "Examples"],
+          "rows": [
+            ["Hypovolemic", "Blood or fluid loss", "Hemorrhage, dehydration, burns"],
+            ["Cardiogenic", "Heart fails to pump", "Heart attack, chest trauma"],
+            ["Obstructive", "Blockage of blood flow", "Tension pneumothorax, cardiac tamponade"],
+            ["Distributive", "Vessels dilate → drop in pressure", "Anaphylaxis, sepsis, neurogenic (spinal injury)"]
+          ]
+        }, "orderIndex": 12},
+        {"type": "paragraph", "content": "Signs & Symptoms of Shock (progressive)", "orderIndex": 13},
+        {"type": "bulletList", "content": "Shock S/Sx", "items": [
+          "Pale, cool, clammy skin",
+          "Rapid heart rate (tachycardia)",
+          "Rapid, shallow breathing",
+          "Altered mental status (anxiety → confusion → lethargy)",
+          "Weak or absent peripheral pulses",
+          "Delayed capillary refill (> 2 sec)",
+          "Nausea/vomiting",
+          "Thirst"
+        ], "orderIndex": 14},
+        {"type": "procedure", "content": "Treatment of Shock", "orderIndex": 15},
+        {"type": "numberedList", "content": "Shock Treatment", "items": [
+          "Control bleeding",
+          "High-flow oxygen if available",
+          "Keep patient warm (hypothermia wrap)",
+          "Elevate legs 8–12 inches (unless spine, chest, or pelvic injury suspected)",
+          "Position of comfort (or on side if unconscious and breathing)",
+          "NPO (nothing by mouth)",
+          "Rapid evacuation"
+        ], "orderIndex": 16},
+        {"type": "subheading", "content": "Wounds", "orderIndex": 17},
+        {"type": "paragraph", "content": "Abrasion – scrape\nLaceration – tear\nPuncture – penetrating\nAvulsion – flap or piece torn loose\nAmputation – part completely removed", "orderIndex": 18},
+        {"type": "procedure", "content": "Wound Care Steps", "orderIndex": 19},
+        {"type": "numberedList", "content": "Wound Care", "items": [
+          "Control bleeding",
+          "Irrigate aggressively (minimum 500 ml–2 L clean water under pressure)",
+          "Remove obvious foreign material",
+          "Dress with non-adherent sterile dressing",
+          "Consider delayed closure in wilderness (leave open 4–5 days if contaminated)",
+          "Consider prophylactic antibiotics for high-risk wounds"
+        ], "orderIndex": 20},
+        {"type": "warning", "content": "High-risk wounds for infection:\n• Crush injuries\n• Animal/human bites\n• Puncture wounds\n• Heavily contaminated\n• > 6–8 hours old\n• Overlying joints or hands", "orderIndex": 21}
+      ]
+    },
+    {
+      "title": "Burns",
+      "subtitle": "",
+      "orderIndex": 2,
+      "content": [
+        {"type": "subheading", "content": "Burns", "orderIndex": 1},
+        {"type": "paragraph", "content": "A burn is tissue damage caused by thermal, chemical, electrical, or radiation energy.", "orderIndex": 2},
+        {"type": "table", "tableData": {
+          "headers": ["Degree", "Depth", "Appearance", "Pain", "Blisters"],
+          "rows": [
+            ["1st (Superficial)", "Epidermis only", "Red, dry", "Painful", "No"],
+            ["2nd (Partial Thickness)", "Epidermis + dermis", "Red, moist, mottled", "Very painful", "Yes"],
+            ["3rd (Full Thickness)", "Into subcutaneous fat/muscle/bone", "White, leathery, charred", "Little or no pain", "No (destroyed nerve endings)"]
+          ]
+        }, "orderIndex": 3},
+        {"type": "subheading", "content": "Rule of Nines – Adult", "orderIndex": 4},
+        {"type": "paragraph", "content": "Head 9% • Each arm 9% • Chest 9% • Abdomen 9% • Upper back 9% • Lower back 9% • Each leg 18% • Genitals 1%", "orderIndex": 5},
+        {"type": "subheading", "content": "Rule of Nines – Child", "orderIndex": 6},
+        {"type": "paragraph", "content": "Head 18% • Each arm 9% • Chest/abdomen 18% • Back 18% • Each leg 13.5% • Genitals 1%", "orderIndex": 7},
+        {"type": "procedure", "content": "Treatment", "orderIndex": 8},
+        {"type": "numberedList", "content": "Burn Treatment", "items": [
+          "Stop the burning process",
+          "Cool with clean water (not ice) for 10–20 min",
+          "Remove jewelry/clothing from burned area",
+          "Cover with dry, sterile dressing (or clean sheet)",
+          "Treat for shock",
+          "Evacuate: > 10% TBSA 2nd degree, any 3rd degree, circumferential, face/hands/genitals, inhalation, electrical, chemical"
+        ], "orderIndex": 9},
+        {"type": "warning", "content": "DO NOT break blisters, apply ointments, or use ice directly on burn.", "orderIndex": 10}
+      ]
+    },
+    {
+      "title": "Fractures",
+      "subtitle": "",
+      "orderIndex": 3,
+      "content": [
+        {"type": "subheading", "content": "Fractures", "orderIndex": 1},
+        {"type": "paragraph", "content": "A fracture is a broken bone. It can be fractured in-line, displaced, or angulated (visibly deformed). Fractures can also be simple or compound (bone ends protruding from the skin).", "orderIndex": 2},
+        {"type": "paragraph", "content": "S/Sx", "orderIndex": 3},
+        {"type": "bulletList", "content": "Fracture S/Sx", "items": [
+          "Pain and tenderness",
+          "Swelling and discoloration",
+          "Patient cannot move or weight injured area",
+          "Crepitus",
+          "Deformity",
+          "CSM may be affected"
+        ], "orderIndex": 4},
+        {"type": "procedure", "content": "Tx", "orderIndex": 5},
+        {"type": "bulletList", "content": "Fracture Treatment", "items": [
+          "Control bleeding",
+          "Anticipate shock with several fractures or a femur fracture",
+          "Check CSM before splinting",
+          "Immobilize with splint",
+          "Check CSM after splinting",
+          "Consider pain medication (see OTC pain medication chart)",
+          "Evacuate"
+        ], "orderIndex": 6},
+        {"type": "subheading", "content": "Splinting Tips – SWELL", "orderIndex": 7},
+        {"type": "bulletList", "content": "SWELL", "items": [
+          "Simple",
+          "Well padded",
+          "Easy access to CSM",
+          "Long lasting",
+          "Light"
+        ], "orderIndex": 8},
+        {"type": "warning", "content": "Always pad splints adequately\nSplint extremities in normal anatomical position\nFor shaft fractures, splint joint above and joint below\nFor joint fractures, splint shaft above and shaft below", "orderIndex": 9},
+        {"type": "subheading", "content": "Femur Fractures", "orderIndex": 10},
+        {"type": "paragraph", "content": "Femur fractures are splinted with long, rigid materials, and subsequently \"buddy splinted\" for more support\nImprovising a traction device is no longer an acceptable wilderness medicine practice.\nEvacuate immediately", "orderIndex": 11},
+        {"type": "subheading", "content": "Pelvic Fractures", "orderIndex": 12},
+        {"type": "warning", "content": "Check CSM before & after immobilization\nApply a pelvic binder\nPackage in a position of comfort on a litter and evacuate immediately", "orderIndex": 13}
+      ]
+    },
+    {
+      "title": "Dislocations",
+      "subtitle": "",
+      "orderIndex": 4,
+      "content": [
+        {"type": "subheading", "content": "Dislocations", "orderIndex": 1},
+        {"type": "paragraph", "content": "Dislocations occur when bones in a joint are displaced or misaligned. The dislocation can be due to a direct MOI, as with a fall, or an indirect MOI associated with an over extension of the joint's range of motion.", "orderIndex": 2},
+        {"type": "paragraph", "content": "S/Sx", "orderIndex": 3},
+        {"type": "bulletList", "content": "Dislocation S/Sx", "items": [
+          "Obvious deformity",
+          "Pain and tenderness",
+          "Swelling and discoloration",
+          "Patient cannot move limb below the dislocation"
+        ], "orderIndex": 4},
+        {"type": "procedure", "content": "Tx", "orderIndex": 5},
+        {"type": "bulletList", "content": "Dislocation Treatment", "items": [
+          "Check CSM",
+          "Obtain patient consent and disclose possible complications that occur with reductions (especially shoulders)",
+          "Attempt to reduce dislocation (see steps for patella, digit, and shoulder)",
+          "Immobilize limb (follow guidelines for splinting)",
+          "Check CSM after reduction attempt",
+          "Consider NSAIDs for pain (see OTC pain medication chart)",
+          "If reduction is unsuccessful: Evacuate immediately"
+        ], "orderIndex": 6},
+        {"type": "subheading", "content": "Patella Dislocation – Steps for Reducing an Indirect Patella Dislocation", "orderIndex": 7},
+        {"type": "numberedList", "content": "Patella Reduction", "items": [
+          "1. Have the patient take deep breaths and focus on completely relaxing their quadriceps muscle while in seated position or lying supine (on back).",
+          "2. Gently extend (straighten) the lower leg. The patella may reduce spontaneously.",
+          "3. If the patella has not reduced, use your other hand to apply gentle force to the outermost edge of the displaced patella, and guide the patella back to the mid line. Successful reduction may be accompanied by a perceptible \"clunk.\"",
+          "4. Immobilize the limb."
+        ], "orderIndex": 8},
+        {"type": "subheading", "content": "Digit Dislocation", "orderIndex": 9},
+        {"type": "paragraph", "content": "When opposing forces on digits are too much, one or more small bones can displace or \"pop out\" of their normal position. The middle joint is the most common to dislocate in digits.", "orderIndex": 10},
+        {"type": "subheading", "content": "Steps for Reducing Indirect Digit Dislocation", "orderIndex": 11},
+        {"type": "numberedList", "content": "Digit Reduction", "items": [
+          "1. Grasping the joint above and the joint below the dislocation, apply opposing traction until a perceptible \"clunk\" is achieved.",
+          "2. Assess for reduction of the joint. If the joint cannot be reduced after 2 attempts, splint it and evacuate.",
+          "3. Immobilize the finger using a flat, hard surface under the digit and buddy taped to adjacent digit."
+        ], "orderIndex": 12}
+      ]
+    },
+    {
+      "title": "Wilderness-Related Athletic Injuries",
+      "subtitle": "",
+      "orderIndex": 5,
+      "content": [
+        {"type": "subheading", "content": "Assess Stability", "orderIndex": 1},
+        {"type": "paragraph", "content": "Ask the patient if they can move or use the injured area. If they cannot, the injury is usually unstable and the patient will need a more rigid immobilization device to protect the injured area from further damage.\nFor example, a torn ACL will allow the knee to buckle with sudden lateral movements.", "orderIndex": 2},
+        {"type": "subheading", "content": "Compartment Syndrome", "orderIndex": 3},
+        {"type": "paragraph", "content": "Usually the result of physical trauma such as a bone fracture or blunt/crushing force to an arm or leg, compartment syndrome results in increased pressure within one of the body's anatomical compartments.\nThis is a dangerous situation where a swelling muscle is constricted within the fascia that surrounds it and consequently acts as a tourniquet, cutting off blood flow to the affected area, which can result in necrosis, or death of tissue.\nUse of certain unconditioned muscles can also cause an increase in blood flow causing tension to the fascia, such as in shin splints. Pain can be unbearable and is usually disproportionate to the injury. Pain is also not well controlled with mild anti-inflammatory OTC drugs like ibuprofen.", "orderIndex": 4},
+        {"type": "subheading", "content": "Signs and Symptoms of Acute Compartment Syndrome", "orderIndex": 5},
+        {"type": "bulletList", "content": "Compartment Syndrome S/Sx", "items": [
+          "Pain – disproportionate to the findings of a physical examination",
+          "Paresthesia – a person may complain of feeling 'pins and needles' or numbness",
+          "Paralysis – full paralysis of a limb is rare and may indicate a nerve or muscle lesion",
+          "Pallor & pulselessness – also rare and occurs in the late stages when pressure is high"
+        ], "orderIndex": 6},
+        {"type": "warning", "content": "Timely surgery is necessary to alleviate pressure.\nIf suspected, evacuate immediately", "orderIndex": 7},
+        {"type": "subheading", "content": "Learning Objectives", "orderIndex": 8},
+        {"type": "paragraph", "content": "Assess and treat wilderness-related athletic injuries.", "orderIndex": 9},
+        {"type": "numberedList", "content": "Athletic Injuries Learning Objectives", "items": [
+          "1. Define the following terms: sprain, strain and tendonitis.",
+          "2. Understand why compartment syndrome occurs with athletic injuries.",
+          "3. Assess for stability and treat common wilderness-related athletic injuries."
+        ], "orderIndex": 10},
+        {"type": "subheading", "content": "Skills Demonstrated", "orderIndex": 11},
+        {"type": "bulletList", "content": "Athletic Injuries Skills", "items": [
+          "Demonstrate assessment skills for athletic injuries.",
+          "Apply a compression wrap to knees and ankles.",
+          "Apply slings and swathes for shoulder injuries.",
+          "Show sound judgment and good critical thinking skills when making evacuation decisions."
+        ], "orderIndex": 12}
+      ]
+    },
+    {
+      "title": "Spine Injuries",
+      "subtitle": "",
+      "orderIndex": 6,
+      "content": [
+        {"type": "subheading", "content": "Spine Injuries", "orderIndex": 1},
+        {"type": "paragraph", "content": "Spine injuries can range from sprains, strains, and minor stable fractures to major unstable fractures involving spinal cord injury with neurological deficits and/or neurogenic shock. Recognizing and differentiating between no spine injury, low risk, or high risk spine injury is an important assessment for the WFR certified rescuer to determine. Mastering the Focused Spine Assessment (FSA) is critical.", "orderIndex": 2},
+        {"type": "subheading", "content": "Low Risk Spinal Cord Injury – Determined from the FSA", "orderIndex": 3},
+        {"type": "paragraph", "content": "Suspicion for spinal cord involvement is low", "orderIndex": 4},
+        {"type": "bulletList", "content": "Low Risk Signs", "items": [
+          "Sudden mid-line or paraspinal pain, tenderness, swelling and/or discoloration",
+          "Self splinting/guarding",
+          "Intact CSM x 4",
+          "Normal vitals",
+          "No signs of shock"
+        ], "orderIndex": 5},
+        {"type": "procedure", "content": "Tx", "orderIndex": 6},
+        {"type": "bulletList", "content": "Low Risk Treatment", "items": [
+          "Protect spine",
+          "Call for a rescue. If unavailable, assess evacuation possibilities based on time of day, terrain, environmental factors, patient injuries and available resources",
+          "Assess benefit/risk of self-evac and use extreme caution w/a self-evac",
+          "Choices may be:",
+          "1. Flights (fixed-wing, helicopter)",
+          "2. Search & Rescue (ground evac)",
+          "3. Self-Evac (carry or walk person out)",
+          "Evacuate to definitive care for further evaluation"
+        ], "orderIndex": 7},
+        {"type": "subheading", "content": "High Risk Spinal Cord Injury – Determined from the FSA", "orderIndex": 8},
+        {"type": "paragraph", "content": "Suspicion for spinal cord involvement is high", "orderIndex": 9},
+        {"type": "bulletList", "content": "High Risk Signs", "items": [
+          "Sudden mid-line or paraspinal pain, tenderness, swelling and/or discoloration",
+          "Crepitus (grinding sound or sensation produced between fractured bones)",
+          "Self splinting/guarding",
+          "CSM deficits such as: numbness, tingling, hot or cold sensations, weakness, and paralysis",
+          "Weakness, numbness, or pain that travels down the arms or legs",
+          "Difficulty walking, moving, and/or breathing",
+          "Priapism (erection)",
+          "Incontinence",
+          "Neurogenic shock"
+        ], "orderIndex": 10},
+        {"type": "procedure", "content": "Tx", "orderIndex": 11},
+        {"type": "bulletList", "content": "High Risk Treatment", "items": [
+          "ABCs",
+          "Treat for shock",
+          "Protect spine",
+          "Call for:",
+          "1. Flights (fixed-wing, helicopter)",
+          "2. Search & Rescue (ground evac)",
+          "Evacuate immediately"
+        ], "orderIndex": 12},
+        {"type": "subheading", "content": "Moving Patients with Spine Injuries", "orderIndex": 13},
+        {"type": "bulletList", "content": "Moving Techniques", "items": [
+          "Neutral alignment should be restored with gentle cervical traction unless met with resistance, increased pain, or new or worsening neurological deficits.",
+          "Move patient using a multi-person lift or log roll to avoid twisting the spine.",
+          "Move patient with axial movements once on a carrying device (the \"W\" move)."
+        ], "orderIndex": 14},
+        {"type": "subheading", "content": "Spine Protection", "orderIndex": 15},
+        {"type": "bulletList", "content": "Protection Methods", "items": [
+          "Best practice to protect the spine is with a vacuum spine board.",
+          "If unavailable, use thick, soft materials underneath patient and around head and neck to protect the spine when waiting for an evacuation or when carrying on an improvised litter.",
+          "If self-evacuating, use extreme caution as to not re-injure the spine.",
+          "Alert, awake, and reliable patients with spine injuries will usually self splint to protect their spine."
+        ], "orderIndex": 16},
+        {"type": "note", "content": "NOTE:\nRigid C-collars can cause more injury and are no longer \"best practice\" in wilderness medicine.\nConsider applying a soft collar with paraspinal cervical pain.\nManually holding C-spine with a combative patient can cause more injury to the spine.\nBackboards used as an extrication tool should be adequately padded with thick, soft materials underneath and around the head and neck to protect and maintain the natural curvature to the spine.", "orderIndex": 17},
+        {"type": "subheading", "content": "Focused Spine Assessment (FSA) Checklist – based on NEXUS™ criteria", "orderIndex": 18},
+        {"type": "table", "tableData": {
+          "headers": ["", "No"],
+          "rows": [
+            ["Neuro Deficits?", "No"],
+            ["Spine Tenderness or Pain (mid-line or paraspinal)?", "No"],
+            ["Altered Mental Status (less than A&O x3)?", "No"],
+            ["Drugs/Intoxication?", "No"],
+            ["Distracting Injury?", "No"],
+            ["Back cold to the touch? (adapted for the field)", "No"]
+          ]
+        }, "orderIndex": 19},
+        {"type": "note", "content": "NOTE: If a \"Yes\" is present in the table above, determine if HIGH or LOW risk spine injury and protect the spine accordingly.", "orderIndex": 20},
+        {"type": "subheading", "content": "Learning Objectives for Spine Injuries", "orderIndex": 21},
+        {"type": "paragraph", "content": "To assess and treat spine injuries safely.", "orderIndex": 22},
+        {"type": "numberedList", "content": "Spine Learning Objectives", "items": [
+          "1. Assess for spine injuries via the Focused Spine Assessment.",
+          "2. Understand why the Focused Spine Assessment is done after the Secondary Assessment.",
+          "3. Differentiate between no spine injury, low risk, or high risk spine injury.",
+          "4. Understand why high cord injuries can result in neurogenic shock.",
+          "5. Understand what type of spine injury needs spine protection during an evacuation."
+        ], "orderIndex": 23},
+        {"type": "subheading", "content": "Skills Demonstrated", "orderIndex": 24},
+        {"type": "bulletList", "content": "Spine Skills", "items": [
+          "Perform a Focused Spine Exam (FSA)",
+          "Log-roll a patient solo and with the help of others",
+          "Load and package a patient onto a carrying device",
+          "Sound judgment and good critical thinking skills when making evacuation decisions"
+        ], "orderIndex": 25}
+      ]
+    },
+    {
+      "title": "Traumatic Brain Injuries",
+      "subtitle": "",
+      "orderIndex": 7,
+      "content": [
+        {"type": "subheading", "content": "Traumatic Brain Injuries (TBI)", "orderIndex": 1},
+        {"type": "paragraph", "content": "Traumatic brain injuries (TBI) occur with an external force to the head or the body causing the brain to rapidly move back and forth inside of the cranium (skull), stretching and damaging brain tissue and causing chemical changes in the brain. Injured brain tissue swells (edema) and/or bleeds within the cranium. This accumulating fluid puts pressure on the brain called intracranial pressure (ICP), altering the patient's mental status and neurological functions. An isolated head injury is rarely a cause of hypotension (low BP). If hypotension is present consider hypovolemic or neurogenic shock from associated trauma. A TBI can result from a closed or open head injury.", "orderIndex": 2},
+        {"type": "paragraph", "content": "TBIs range in severity with the most common resulting in a minor concussion called an mTBI. It is important to note that the injured brain is more sensitive to stress or further injury until it fully recovers.", "orderIndex": 3},
+        {"type": "subheading", "content": "Minor Concussion (mTBI)", "orderIndex": 4},
+        {"type": "bulletList", "content": "mTBI S/Sx", "items": [
+          "Altered mental status – most commonly A&O x3",
+          "With or without a brief period of unresponsiveness",
+          "Dizziness",
+          "Memory loss/perseverating (repetitive questioning)",
+          "Severe headache",
+          "Nausea/vomiting (persistent vomiting is a key sign in kids)"
+        ], "orderIndex": 5},
+        {"type": "subheading", "content": "Moderate to Severe TBI (ICP present)", "orderIndex": 6},
+        {"type": "bulletList", "content": "Severe TBI S/Sx", "items": [
+          "Seizures/convulsions",
+          "Period of unresponsiveness after MOI",
+          "Disoriented, confused & combative (DIC)",
+          "Decreased AVPU or unresponsiveness",
+          "Unequal and fixed pupil(s)",
+          "Posturing (e.g., decorticate, decerebrate)",
+          "Raccoon eyes & battle signs (late signs of a skull Fx)",
+          "Cushing's Triad"
+        ], "orderIndex": 7},
+        {"type": "procedure", "content": "Tx", "orderIndex": 8},
+        {"type": "bulletList", "content": "TBI Treatment", "items": [
+          "If no S/Sx of an mTBI are present post MOI, awaken every 2 hours to assess for signs of an mTBI",
+          "A period of unresponsiveness post MOI warrants an evacuation",
+          "Evacuate anyone who has the S/Sx of an mTBI",
+          "If ICP presents, indicating a moderate to severe TBI, evacuate immediately",
+          "Administer O₂ if available",
+          "Establish and maintain airway",
+          "Positive pressure ventilation if RR is less than 8/min"
+        ], "orderIndex": 9},
+        {"type": "subheading", "content": "CUSHING'S TRIAD", "orderIndex": 10},
+        {"type": "paragraph", "content": "Increased systolic blood pressure ↑BP (widening pulse pressures)\nStrong, radial pulses (bounding pulse)\n↓HR Bounding and below 60 bpm\n↑ICP Intracranial Pressure Increasing\n↓RR Slow & Irregular Breaths below 8/min", "orderIndex": 11},
+        {"type": "note", "content": "NOTE: Cushing's Triad is the A of a TBI. Most TBIs do not result in Cushing's Triad.\nSIDE NOTE: Cushing's Triad is also the A for HACE, a hemorrhagic stroke, and severe hyponatremia.", "orderIndex": 12},
+        {"type": "subheading", "content": "Treatment", "orderIndex": 13},
+        {"type": "bulletList", "content": "Cushing's Triad Treatment", "items": [
+          "Manage the airway",
+          "Rescue breathe",
+          "Leave the person flat (do not raise the legs)",
+          "Evacuate immediately"
+        ], "orderIndex": 14},
+        {"type": "subheading", "content": "Case Study", "orderIndex": 15},
+        {"type": "paragraph", "content": "During a training session a 17 year old hits the biggest jump on a slope-style competition course. Their landing was off and they were thrown immediately onto their head. The person is unresponsive, postures (decerebrate 2x), is apneic (not breathing), and has weak, radial pulses. There is bleeding from their head, but no other signs of trauma are present. During your patient assessment you notice that they have pale skin and mucous membranes, are cool, and clammy to the touch with a thready carotid pulse of 150. Radial pulses are now absent bilaterally, you also notice a priapism and a blown right pupil.\nWhat are the injuries?\nWhat are the vitals showing?\nWhat is your treatment?", "orderIndex": 16},
+        {"type": "subheading", "content": "Learning Objectives", "orderIndex": 17},
+        {"type": "paragraph", "content": "Assess, treat and plan evacuations for patients with S/Sx of a TBI.", "orderIndex": 18},
+        {"type": "numberedList", "content": "TBI Learning Objectives", "items": [
+          "1. Understand the pathophysiology behind a TBI and the associated S/Sx.",
+          "2. Assess and treat the S/Sx of a TBI.",
+          "3. Differentiate between vitals presenting a TBI vs. shock."
+        ], "orderIndex": 19},
+        {"type": "subheading", "content": "Skills Demonstrated", "orderIndex": 20},
+        {"type": "bulletList", "content": "TBI Skills", "items": [
+          "Assess and treat TBIs.",
+          "Demonstrate sound judgment and good critical thinking skills when making evacuation decisions."
+        ], "orderIndex": 21}
+      ]
+    },
+    {
+      "title": "Chest Injuries",
+      "subtitle": "",
+      "orderIndex": 8,
+      "content": [
+        {"type": "subheading", "content": "Chest Injuries", "orderIndex": 1},
+        {"type": "paragraph", "content": "The thoracic cavity is a closed system, or vacuum, which allows air to be pulled in (inspiration) and expelled (expiration) based on pressure differentials between the cavity and the atmosphere. A loss of integrity in the chest wall can result in life-threatening conditions.", "orderIndex": 2},
+        {"type": "subheading", "content": "Rib Fracture (One or more fractured ribs)", "orderIndex": 3},
+        {"type": "bulletList", "content": "Rib Fracture S/Sx", "items": [
+          "Point tenderness",
+          "Pain upon chest expansion",
+          "May or may not see deformity"
+        ], "orderIndex": 4},
+        {"type": "procedure", "content": "Tx", "orderIndex": 5},
+        {"type": "bulletList", "content": "Rib Fracture Treatment", "items": [
+          "Assess breathing",
+          "Position of comfort",
+          "Intercostal muscles splint the fractured rib(s)",
+          "Taping middle-front to middle-back may help pain",
+          "Evacuate as needed"
+        ], "orderIndex": 6},
+        {"type": "subheading", "content": "Flail Chest", "orderIndex": 7},
+        {"type": "paragraph", "content": "(Fractured segments along ribs can produce a freely floating plate of the chest wall that moves back and forth during respiration called paradoxical movement)", "orderIndex": 8},
+        {"type": "bulletList", "content": "Flail Chest S/Sx", "items": [
+          "Severe respiratory distress",
+          "Immediate pain",
+          "Cyanosis",
+          "Deformity of the chest wall",
+          "Paradoxical movement",
+          "Possible pneumothorax"
+        ], "orderIndex": 9},
+        {"type": "procedure", "content": "Tx", "orderIndex": 10},
+        {"type": "bulletList", "content": "Flail Chest Treatment", "items": [
+          "Immediately immobilize the flail segment",
+          "Assess breathing",
+          "Position of comfort",
+          "Evacuate immediately"
+        ], "orderIndex": 11},
+        {"type": "subheading", "content": "Sucking Chest Wound", "orderIndex": 12},
+        {"type": "paragraph", "content": "(A puncture wound in chest wall that allows air to be \"sucked\" into the thoracic cavity)", "orderIndex": 13},
+        {"type": "bulletList", "content": "Sucking Chest Wound S/Sx", "items": [
+          "Severe respiratory distress",
+          "One or more wound(s) on chest wall",
+          "Unequal chest rise"
+        ], "orderIndex": 14},
+        {"type": "procedure", "content": "Tx", "orderIndex": 15},
+        {"type": "bulletList", "content": "Sucking Chest Wound Treatment", "items": [
+          "Immediately cover the wound",
+          "Assess breathing",
+          "Position of comfort",
+          "Occlusive dressing",
+          "Evacuate immediately"
+        ], "orderIndex": 16},
+        {"type": "subheading", "content": "Special Considerations", "orderIndex": 17},
+        {"type": "subheading", "content": "Pneumothorax", "orderIndex": 18},
+        {"type": "paragraph", "content": "A punctured lung resulting from trauma to the thoracic cavity can happen with all chest injuries. Immediate stabilization of chest injuries can prevent a pneumothorax. The patient will exhibit respiratory distress and may need positive pressure ventilation when a pneumothorax is present.", "orderIndex": 19},
+        {"type": "subheading", "content": "Tension Pneumothorax", "orderIndex": 20},
+        {"type": "paragraph", "content": "A life-threatening condition when air is trapped in the thoracic cavity and can occur with open and closed chest injuries. Pressure prevents the good lung from expanding, affecting systemic perfusion. The patient presents with severe respiratory distress, and a weak, rapid pulse. The pressure can be relieved by removing the occlusive dressing to let the trapped air escape and then quickly re-covering the wound.", "orderIndex": 21},
+        {"type": "subheading", "content": "Wilderness Medicine Guidelines", "orderIndex": 22},
+        {"type": "paragraph", "content": "Occlusive dressings are taped on all four sides and must be monitored and burped if tension pneumothorax presents.", "orderIndex": 23},
+        {"type": "subheading", "content": "Learning Objectives", "orderIndex": 24},
+        {"type": "paragraph", "content": "Assess chest trauma and treat accordingly.", "orderIndex": 25},
+        {"type": "numberedList", "content": "Chest Injuries Learning Objectives", "items": [
+          "1. Understand the physiology of the thoracic cavity.",
+          "2. Understand the importance of finding chest injuries in the \"B\" portion of the primary assessment.",
+          "3. Understand the presentations and treatments for fractured ribs, a flail chest, and a sucking chest wound with associated exit wounds.",
+          "4. Explain why immediate immobilization of chest injuries can prevent complications of a pneumothorax.",
+          "5. Explain what a pneumothorax is and its complications and treatments."
+        ], "orderIndex": 26},
+        {"type": "subheading", "content": "Skills Demonstrated", "orderIndex": 27},
+        {"type": "bulletList", "content": "Chest Injuries Skills", "items": [
+          "Apply an improvised occlusive dressing.",
+          "Know when, and how to burp an improvised occlusive dressing.",
+          "Demonstrate sound judgment and good critical thinking skills when making evacuation decisions."
+        ], "orderIndex": 28}
+      ]
+    },
+    {
+      "title": "Abdominal Injuries",
+      "subtitle": "",
+      "orderIndex": 9,
+      "content": [
+        {"type": "subheading", "content": "Abdominal Injuries", "orderIndex": 1},
+        {"type": "paragraph", "content": "An evisceration is an open abdominal wound in which internal organs may protrude from the abdominal cavity and be exposed to the outside environment.", "orderIndex": 2},
+        {"type": "subheading", "content": "Evisceration", "orderIndex": 3},
+        {"type": "bulletList", "content": "Evisceration S/Sx", "items": [
+          "Organs protrude from abdominal cavity",
+          "Hypovolemic shock",
+          "Hypothermia",
+          "Septic shock"
+        ], "orderIndex": 4},
+        {"type": "procedure", "content": "Tx", "orderIndex": 5},
+        {"type": "bulletList", "content": "Evisceration Treatment", "items": [
+          "Greenhouse dressing",
+          "Treat for shock",
+          "Treat for hypothermia",
+          "Have patient bend knees to reduce pain",
+          "Evacuate immediately"
+        ], "orderIndex": 6},
+        {"type": "subheading", "content": "Wilderness Medicine Guidelines", "orderIndex": 7},
+        {"type": "paragraph", "content": "A green house dressing is important to keep the organs wet and warm during a wilderness evacuation. If the organs dry out they may no longer be viable. Rescuers must also attempt to minimize loss of the patient's core temperature from the evisceration by insulating the dressing and placing the patient in a hypowrap.", "orderIndex": 8},
+        {"type": "subheading", "content": "Green House Dressing", "orderIndex": 9},
+        {"type": "numberedList", "content": "Green House Dressing Steps", "items": [
+          "1. Place wet 4x4's covering all visible abdominal organs.",
+          "2. Tape plastic or non-permeable membrane on all 4 sides, covering entire wound.",
+          "3. Tape insulation on top of the dressing."
+        ], "orderIndex": 10}
+      ]
+    },
+    {
+      "title": "OTC Pain Medication Chart",
+      "subtitle": "",
+      "orderIndex": 10,
+      "content": [
+        {"type": "heading", "content": "TRAUMATIC INJURIES – OTC PAIN MEDICATION CHART", "orderIndex": 1},
+        {"type": "paragraph", "content": "Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) are excellent pain relievers when managing pain in remote settings. NSAIDs reduce pain, fever, and swelling by blocking prostaglandins. However, they can irritate the stomach and increase bleeding risk. Acetaminophen is best for kids, acetaminophen is also good and non-irritating when the patient has a history of stomach ulcers or bleeding disorders.", "orderIndex": 2},
+        {"type": "table", "tableData": {
+          "headers": ["Pain Medication", "Adult Dose", "Pediatric Dose 5–12 years old", "Pediatric Dose 12–18 years old", "Action", "Contraindications"],
+          "rows": [
+            ["Aspirin® Bayer® Ecotrin®", "325–650 mg q4–6hr max 3500 mg/day", "No aspirin under 18 years old unless prescribed by a physician", "No aspirin under 18 years old unless prescribed by a physician", "anti-inflammatory anti-pyretic (fever reducer) analgesic pain reliever", "allergy bleeding GI ulcer pregnancy nursing"],
+            ["Ibuprofen Motrin® Advil®", "400–800 mg q6–8hr max 3200 mg/day", "5–10 mg/kg q6–8hr max 40 mg/kg/day", "5–10 mg/kg q6–8hr max 40 mg/kg/day", "anti-inflammatory anti-pyretic analgesic pain reliever", "allergy bleeding GI ulcer pregnancy nursing"],
+            ["Naproxen Aleve® Anaprox® Naprosyn", "250 mg q6–8hr max 1200 mg/day", "5–7 mg/kg q8–12hr max 1000 mg/day", "5–7 mg/kg q8–12hr max 1000 mg/day", "anti-inflammatory anti-pyretic analgesic pain reliever", "allergy bleeding GI ulcer pregnancy nursing"],
+            ["Acetaminophen Tylenol® NOT an NSAID", "500 mg q6–8hr max of 3000 mg/day", "10–15 mg/kg q6–8hr max 2000 mg/day", "10–15 mg/kg q6–8hr max 2000 mg/day", "anti-pyretic analgesic pain reliever", "allergy liver problems"]
+          ]
+        }, "orderIndex": 3},
+        {"type": "note", "content": "NOTE: The doses above are for temporary pain relief for a few days and/or during an evacuation.\n2.2 lbs = 1 kg\nIbuprofen is best for kids, acetaminophen is also good and non-irritating when the patient has a history of stomach ulcers or bleeding disorders.", "orderIndex": 4},
+        {"type": "warning", "content": "Individuals trained in wilderness medicine are NOT licensed to prescribe or administer prescription medications in the field unless under direct medical control or specific state protocols.", "orderIndex": 5}
+      ]
+    },
+    {
+      "title": "Chapter 6 Quick-Reference Summary",
+      "subtitle": "",
+      "orderIndex": 11,
+      "content": [
+        {"type": "subheading", "content": "Traumatic Injuries Quick-Reference Icons", "orderIndex": 1},
+        {"type": "table", "tableData": {
+          "headers": ["Injury", "Critical Signs", "Immediate Actions", "Evacuation"],
+          "rows": [
+            ["Severe Bleeding", "Bright red spurting, >1L loss", "Direct pressure → Tourniquet", "IMMEDIATE"],
+            ["Shock", "Pale/cool/clammy, rapid HR/RR, altered MS", "Control bleeding, warm, legs up (if safe)", "IMMEDIATE"],
+            ["Open Fracture", "Bone protruding", "Irrigate, dress, splint, antibiotics?", "IMMEDIATE"],
+            ["Femur / Pelvis Fx", "Shortened/rotated leg, unable to bear weight", "Pelvic binder or traction splint NOT used", "IMMEDIATE"],
+            ["Unreduced Dislocation", "Obvious deformity, no CSM distal", "Attempt reduction (patella, digit, shoulder)", "IMMEDIATE if unsuccessful"],
+            ["High-Risk Spine", "Neuro deficits, priapism, incontinence", "Full spine protection, litter evac", "IMMEDIATE"],
+            ["Moderate/Severe TBI", "Cushing's Triad, fixed pupils, posturing", "Airway, O₂, flat position", "IMMEDIATE"],
+            ["Flail Chest / Sucking Chest Wound", "Paradoxical movement, sucking sound", "Stabilize segment, occlusive dressing", "IMMEDIATE"],
+            ["Evisceration", "Organs protruding", "Greenhouse dressing, hypowrap", "IMMEDIATE"]
+          ]
+        }, "orderIndex": 2},
+        {"type": "subheading", "content": "Final Learning Objectives – Chapter 6", "orderIndex": 3},
+        {"type": "paragraph", "content": "Recognize, treat, and evacuate all major traumatic injuries commonly seen in the wilderness setting.", "orderIndex": 4},
+        {"type": "numberedList", "content": "Final Learning Objectives", "items": [
+          "1. Control life-threatening bleeding and treat for shock in all critical patients.",
+          "2. Properly clean, dress, and consider delayed closure/antibiotics for contaminated wounds.",
+          "3. Splint fractures and reduce appropriate dislocations.",
+          "4. Perform a Focused Spine Assessment and protect the spine when indicated.",
+          "5. Recognize and treat moderate/severe TBI and evacuate immediately when ICP is present.",
+          "6. Stabilize chest injuries and apply occlusive/greenhouse dressings when indicated.",
+          "7. Use the OTC pain medication chart appropriately."
+        ], "orderIndex": 5}
+      ]
+    }
+  ],
+  "imageInventory": [
+    {"pageImage": "Ch6_p35.jpg", "pageNumber": 35, "description": "Large red mountain illustration with heartbeat line", "type": "illustration", "section": "Traumatic Injuries", "purpose": "Chapter opener"},
+    {"pageImage": "Ch6_p37.jpg", "pageNumber": 37, "description": "Photos of QuikClot gauze, CAT tourniquet, pressure point locations", "type": "photo", "section": "Bleeding", "purpose": "Equipment reference"},
+    {"pageImage": "Ch6_p39.jpg", "pageNumber": 39, "description": "Shock position illustration (legs elevated)", "type": "illustration", "section": "Shock", "purpose": "Treatment"},
+    {"pageImage": "Ch6_p43.jpg", "pageNumber": 43, "description": "Rule of Nines diagrams for adult and child", "type": "anatomical_diagram", "section": "Burns", "purpose": "Burn surface area estimation"},
+    {"pageImage": "Ch6_p52.jpg", "pageNumber": 52, "description": "SAM Pelvic Sling application photos and pelvic binder diagram", "type": "photo", "section": "Pelvic Fractures", "purpose": "Procedure"},
+    {"pageImage": "Ch6_p54.jpg", "pageNumber": 54, "description": "Step-by-step patella reduction illustrations", "type": "illustration", "section": "Dislocations", "purpose": "Procedure"},
+    {"pageImage": "Ch6_p56.jpg", "pageNumber": 56, "description": "Shoulder reduction techniques (traction-countertraction, scapular manipulation)", "type": "illustration", "section": "Dislocations", "purpose": "Procedure"},
+    {"pageImage": "Ch6_p59.jpg", "pageNumber": 59, "description": "Full-page Focused Spine Assessment flowchart (2023 Desert Mountain Medicine)", "type": "flowchart", "section": "Spine Injuries", "purpose": "Core decision algorithm"},
+    {"pageImage": "Ch6_p63.jpg", "pageNumber": 63, "description": "FSA NEXUS criteria table", "type": "table", "section": "Spine Injuries", "purpose": "Checklist"},
+    {"pageImage": "Ch6_p68.jpg", "pageNumber": 68, "description": "Cushing's Triad triangle diagram with ↑BP, ↓HR, ↓RR", "type": "diagram", "section": "Traumatic Brain Injuries", "purpose": "Educational"},
+    {"pageImage": "Ch6_p61.jpg", "pageNumber": 61, "description": "Log-roll and multi-person lift illustrations", "type": "illustration", "section": "Spine Injuries", "purpose": "Procedure"},
+    {"pageImage": "Ch6_p70.jpg", "pageNumber": 70, "description": "Flail chest and paradoxical movement diagram", "type": "illustration", "section": "Chest Injuries", "purpose": "Educational"},
+    {"pageImage": "Ch6_p71.jpg", "pageNumber": 71, "description": "Sucking chest wound illustration with occlusive dressing (4-sided tape)", "type": "illustration", "section": "Chest Injuries", "purpose": "Procedure"},
+    {"pageImage": "Ch6_p74.jpg", "pageNumber": 74, "description": "Green House Dressing step-by-step photos", "type": "photo", "section": "Abdominal Injuries", "purpose": "Procedure"},
+    {"pageImage": "Ch6_p74.jpg", "pageNumber": 74, "description": "Full-page OTC Pain Medication Chart (top half) with brand names, adult/pediatric dosing, actions, contraindications", "type": "table", "section": "OTC Pain Medication Chart", "purpose": "Reference"},
+    {"pageImage": "Ch6_p75.jpg", "pageNumber": 75, "description": "OTC Pain Medication Chart (bottom half) + important notes and warnings", "type": "table", "section": "OTC Pain Medication Chart", "purpose": "Reference"},
+    {"pageImage": "Ch6_p76.jpg", "pageNumber": 76, "description": "Grid of 9 red quick-reference trauma icons with critical signs and evacuation urgency", "type": "illustration", "section": "Chapter Summary", "purpose": "At-a-glance reference"}
+  ],
+  "specialContent": {
+    "scenarios": [
+      "17-year-old skier TBI case study with Cushing's Triad and neurogenic shock signs"
+    ],
+    "locationReferences": [],
+    "brandNames": ["QuikClot®", "Celox®", "CAT tourniquet", "SAM Splint®", "SAM Pelvic Sling™", "Aspirin®", "Bayer®", "Ecotrin®", "Ibuprofen", "Motrin®", "Advil®", "Naproxen", "Aleve®", "Anaprox®", "Naprosyn", "Acetaminophen", "Tylenol®"],
+    "terminologyUpdates": []
+  }
+}

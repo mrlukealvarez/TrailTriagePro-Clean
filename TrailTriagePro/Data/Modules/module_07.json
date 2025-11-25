@@ -1,0 +1,898 @@
+{
+  "moduleTitle": "Backcountry Medical Problems",
+  "moduleSubtitle": "Diabetic Emergencies, Seizures, Stroke, Cardiac, Respiratory, Anaphylaxis, AMS, GI, Genitourinary, Rhabdo, Mental Health, PFA, Environmental Medicine (Complete)",
+  "category": "medical",
+  "orderIndex": 7,
+  "pageImageNames": [
+    "Ch7_p79.jpg",
+    "Ch7_p80.jpg",
+    "Ch7_p81.jpg",
+    "Ch7_p82.jpg",
+    "Ch7_p83.jpg",
+    "Ch7_p84.jpg",
+    "Ch7_p85.jpg",
+    "Ch7_p86.jpg",
+    "Ch7_p87.jpg",
+    "Ch7_p88.jpg",
+    "Ch7_p89.jpg",
+    "Ch7_p90.jpg",
+    "Ch7_p91.jpg",
+    "Ch7_p92.jpg",
+    "Ch7_p93.jpg",
+    "Ch7_p94.jpg",
+    "Ch7_p95.jpg",
+    "Ch7_p96.jpg",
+    "Ch7_p97.jpg",
+    "Ch7_p98.jpg",
+    "Ch7_p99.jpg",
+    "Ch7_p100.jpg",
+    "Ch7_p101.jpg",
+    "Ch7_p102.jpg",
+    "Ch7_p103.jpg",
+    "Ch7_p104.jpg",
+    "Ch7_p105.jpg",
+    "Ch7_p106.jpg",
+    "Ch7_p107.jpg",
+    "Ch7_p108.jpg",
+    "Ch7_p109.jpg",
+    "Ch7_p110.jpg",
+    "Ch7_p111.jpg",
+    "Ch7_p112.jpg",
+    "Ch7_p113.jpg",
+    "Ch7_p114.jpg",
+    "Ch7_p115.jpg",
+    "Ch7_p116.jpg",
+    "Ch7_p117.jpg",
+    "Ch7_p118.jpg",
+    "Ch7_p119.jpg",
+    "Ch7_p120.jpg",
+    "Ch7_p121.jpg",
+    "Ch7_p122.jpg",
+    "Ch7_p123.jpg",
+    "Ch7_p124.jpg",
+    "Ch7_p125.jpg",
+    "Ch7_p126.jpg",
+    "Ch7_p127.jpg",
+    "Ch7_p128.jpg",
+    "Ch8_p129.jpg",
+    "Ch8_p130.jpg",
+    "Ch8_p131.jpg",
+    "Ch8_p132.jpg",
+    "Ch8_p133.jpg",
+    "Ch8_p134.jpg",
+    "Ch8_p135.jpg",
+    "Ch8_p136.jpg",
+    "Ch8_p137.jpg",
+    "Ch8_p138.jpg",
+    "Ch8_p139.jpg",
+    "Ch8_p140.jpg",
+    "Ch8_p141.jpg",
+    "Ch8_p142.jpg",
+    "Ch8_p143.jpg",
+    "Ch8_p144.jpg",
+    "Ch8_p145.jpg",
+    "Ch8_p146.jpg",
+    "Ch8_p147.jpg",
+    "Ch8_p148.jpg",
+    "Ch8_p149.jpg",
+    "Ch8_p150.jpg",
+    "Ch8_p151.jpg",
+    "Ch8_p152.jpg",
+    "Ch8_p153.jpg",
+    "Ch8_p154.jpg",
+    "Ch8_p155.jpg",
+    "Ch8_p156.jpg",
+    "Ch8_p157.jpg",
+    "Ch8_p158.jpg",
+    "Ch8_p159.jpg",
+    "Ch8_p160.jpg",
+    "Ch8_p161.jpg",
+    "Ch8_p162.jpg",
+    "Ch8_p163.jpg",
+    "Ch8_p164.jpg",
+    "Ch8_p165.jpg",
+    "Ch8_p166.jpg",
+    "Ch8_p167.jpg"
+  ],
+  "sections": [
+    {
+      "title": "Diabetic Emergencies",
+      "subtitle": "",
+      "orderIndex": 1,
+      "content": [
+        {"type": "heading", "content": "CHAPTER 7", "orderIndex": 1},
+        {"type": "heading", "content": "BACKCOUNTRY MEDICAL PROBLEMS", "orderIndex": 2},
+        {"type": "subheading", "content": "Diabetic Emergencies", "orderIndex": 3},
+        {"type": "paragraph", "content": "Diabetes is a chronic condition. The pancreas does not produce enough insulin or the body cannot effectively use the insulin. Insulin is a hormone produced by the pancreas that allows glucose to enter cells. Glucose gives our cells energy. When there isn't enough insulin or cells are resistant to insulin, higher blood glucose levels (BGL) circulate through the bloodstream. Over time, higher BGLs have long-term consequences such as heart and kidney disease, neuropathy, and vision loss. Some people control their diabetes with oral medications and some require insulin medication which is injected below the skin.", "orderIndex": 4},
+        {"type": "subheading", "content": "Blood Glucose Level (BGL)", "orderIndex": 5},
+        {"type": "paragraph", "content": "Trip participants who have diabetes that requires insulin will have glucometers to monitor their BGLs. A small drop of blood, obtained by pricking the skin with a lancet, is placed on a disposable test strip inserted into the meter. The meter calculates and displays the BGL in mg/dl or mmol/l. Normal ranges are 70-110 mg/dl or 3.9 – 6.1 mmol/l. However, every person is different, each with unique BGL thresholds that work for them.", "orderIndex": 6},
+        {"type": "subheading", "content": "Hypoglycemia: Defined as BGLs below 70 mg/dl or 3.9 mmol/l, can be due to shivering from cold exposure, increase in exercise levels, increase in carbohydrate intake, and/or too much insulin. Severe hypoglycemia (BGLs below 50 mg/dl or 3.0 mmol/l) is considered a true medical emergency and requires prompt action. Hypoglycemia is on a spectrum that ranges from mild symptoms to unresponsiveness. Some participants may have a medication called glucagon which helps mobilize glucose stores in the liver for cells to use.", "orderIndex": 7},
+        {"type": "subheading", "content": "Hyperglycemia: Defined as BGLs above 180 mg/dl or 10 mmol/l and can be caused by a decrease in exercise, increase in carbohydrate intake, severe illness and/or low insulin levels. Blood glucose levels can creep up over a period of hours to days. If left untreated, hyperglycemia can become severe, which can lead to diabetic ketoacidosis (DKA) with BGLs above 400 mg/d or significantly higher than a person's normal upper range. DKA occurs when cells have to use fats and proteins for energy because they cannot access sugar in the bloodstream. This leaves ketones as a byproduct in the blood stream, which causes severe illness by dropping the pH of the blood. DKA causes dehydration; if someone can tolerate fluids without vomiting get them to drink unsweetened fluids.", "orderIndex": 8},
+        {"type": "table", "tableData": {
+          "headers": ["", "Hypoglycemia", "Hyperglycemia"],
+          "rows": [
+            ["Onset", "Rapid (minutes to hours)", "Slow (hours to days)"],
+            ["Skin", "Pale, cool & clammy", "Red, hot & dry"],
+            ["Mental Status", "Altered AVPU (can appear intoxicated)", "Altered AVPU (may appear intoxicated)"],
+            ["HR & RR", "Elevated HR & RR", "Elevated HR & RR"],
+            ["BGL", "< 70 mg/dl or 3.9 mmol/l", "> 180 mg/dl or 10 mmol/l"],
+            ["Seizures", "Possible", "Uncommon"],
+            ["Coma", "Possible", "Possible"]
+          ]
+        }, "orderIndex": 9},
+        {"type": "procedure", "content": "Hypoglycemia Treatment Flowchart", "orderIndex": 10},
+        {"type": "paragraph", "content": "If the patient can swallow, give 15 g of sugar/glucose gel followed by a meal. If the patient cannot swallow, or is unresponsive administer patient's Rx glucagon or roll patient onto their side and place glucose paste between their cheek & gum. Monitor airway. Once AVPU improves and the patient can chew and swallow, have them eat a meal with complex carbohydrates.", "orderIndex": 11},
+        {"type": "warning", "content": "NOTE: G in ABCDEG: Any person in a remote backcountry setting that is found unresponsive for unknown reasons should be given sugar between their cheek and gum (while lying on their side to protect their airway).", "orderIndex": 12},
+        {"type": "warning", "content": "NOTE: Administering insulin is NOT in a WFR's Scope of Practice.", "orderIndex": 13},
+        {"type": "subheading", "content": "Prevention & Special Considerations", "orderIndex": 14},
+        {"type": "paragraph", "content": "Trip participants burn more calories in the backcountry especially when recreating at high altitudes and in cold environments. Trip leaders can help prevent low blood sugar for all trip participants, not just those with diabetes, by scheduling several breaks during the day to allow time for snacking in between meals. They should also have glucose gel and/or other quick acting sugar substances readily available while traveling in the backcountry. Individuals who have diabetes should consider bringing 3x their daily preventative Rx medications as a glucagon injection (e.g., Gvoke HypoPen®) or glucagon nasal powder (e.g., Baqsimi®). Some of these medications are temperature sensitive and must be kept cool. It is good practice to separate the Rx medications amongst the trip leaders and the trip participant in case a stash of medicine gets lost or misplaced while traveling.", "orderIndex": 15}
+      ]
+    },
+    {
+      "title": "Seizures",
+      "subtitle": "",
+      "orderIndex": 2,
+      "content": [
+        {"type": "subheading", "content": "Seizures", "orderIndex": 1},
+        {"type": "paragraph", "content": "A seizure is defined as a sudden or transient alteration of normal brain function. The term \"seizure\" is often used interchangeably with \"convulsion.\" Convulsions are marked by excessive abnormal muscular activity where the person's muscles contract and relax repeatedly. Seizures are rather unpredictable and can be triggered by multiple, uncontrollable factors. Epilepsy is a medical condition characterized by recurrent episodes of seizures. Partial seizures can be subtle since they are contained to one hemisphere of the brain, while general seizures involve both sides of the brain and are usually accompanied by convulsions.", "orderIndex": 2},
+        {"type": "table", "tableData": {
+          "headers": ["Reasons for Seizures"],
+          "rows": [
+            ["Fever", "Hypoglycemia", "Hypoxia"],
+            ["Stroke", "Abruptly stopping medications", "Hyponatremia"],
+            ["TBI", "Adverse reaction to Rx drugs", "Seizure disorder"],
+            ["HACE", "Recreational drugs", ""],
+            ["Heat Stroke", "Alcohol", ""]
+          ]
+        }, "orderIndex": 3},
+        {"type": "subheading", "content": "S/Sx", "orderIndex": 4},
+        {"type": "bulletList", "content": "Seizure S/Sx", "items": [
+          "Localized repetitive body movements",
+          "Brief unresponsiveness",
+          "Grunting",
+          "Drooling",
+          "Teeth clenching",
+          "Incontinence",
+          "Convulsions",
+          "Brief apnea",
+          "Post-ictal stage (brief period of confusion with memory loss of the event)"
+        ], "orderIndex": 5},
+        {"type": "subheading", "content": "NOTE: Some common triggers for seizures in the field are:", "orderIndex": 6},
+        {"type": "bulletList", "content": "Seizure Triggers", "items": [
+          "Fear",
+          "Missing a dose of a seizure medications",
+          "Sleep deprivation",
+          "Mental /physical stress",
+          "Low blood sugar",
+          "Bright lights",
+          "Hormonal change in women (e.g. pregnancy, menstruation, menopause)"
+        ], "orderIndex": 7},
+        {"type": "procedure", "content": "During Seizure", "orderIndex": 8},
+        {"type": "bulletList", "content": "During Seizure", "items": [
+          "Do not restrain the person",
+          "Move dangerous objects away",
+          "Protect them from steep terrain",
+          "Protect their airway if in water",
+          "Let the seizure run its course",
+          "Protect their dignity"
+        ], "orderIndex": 9},
+        {"type": "procedure", "content": "After the Seizure", "orderIndex": 10},
+        {"type": "bulletList", "content": "After Seizure", "items": [
+          "ABCs",
+          "Complete head-to-toe exam",
+          "OPQRST",
+          "Place person in recovery position"
+        ], "orderIndex": 11}
+      ]
+    },
+    {
+      "title": "Stroke (CVA)",
+      "subtitle": "",
+      "orderIndex": 3,
+      "content": [
+        {"type": "subheading", "content": "Stroke (CVA) or Cerebral Vascular Accident", "orderIndex": 1},
+        {"type": "paragraph", "content": "A CVA or stroke occurs when either a blood clot becomes lodged in a cerebral blood vessel (ischemic stroke) or a cerebral artery ruptures (hemorrhagic stroke); both mechanisms result in inadequate tissue perfusion of the brain.", "orderIndex": 2},
+        {"type": "paragraph", "content": "The neurological damage due to an ischemic stroke may potentially be reversed with a class of drugs called thrombolytics. Thrombolytic therapy is a treatment that dissolves clots in blood vessels to improve blood flow, and possibly prevent permanent damage to brain tissue. Thrombolytic therapy may be appropriate for certain patients and must be administered within a 4.5 hour window after the onset of symptoms.", "orderIndex": 3},
+        {"type": "paragraph", "content": "The onset of a stroke is sudden and determining a \"Last Seen Normal\" time from the patient and/or bystanders is very important. Proper wilderness treatment includes accurate assessment, patient comfort, and prompt evacuation.", "orderIndex": 4},
+        {"type": "paragraph", "content": "Aphasia is an impairment of language and is a common presentation in strokes and other brain injuries. Aphasia can present as, 1) the inability to form words and speak, but can understand others, 2) the inability to comprehend language resulting in the presentation of incomprehensible speech or, 3) a combination of both. However, individuals who can comprehend language may be able to communicate in written form.", "orderIndex": 5},
+        {"type": "subheading", "content": "S/Sx", "orderIndex": 6},
+        {"type": "bulletList", "content": "Stroke S/Sx", "items": [
+          "Headache",
+          "Slurred speech",
+          "Hemiparesis (one-sided weakness)",
+          "Hemiplegia (paralysis on one side of the body)",
+          "Loss of CSM on one side",
+          "Aphasia",
+          "Difficulty breathing",
+          "Decreased AVPU"
+        ], "orderIndex": 7},
+        {"type": "warning", "content": "NOTE: NEVER give aspirin in the event of a CVA. It will increase bleeding in the brain in the case of a hemorrhagic stroke.", "orderIndex": 8},
+        {"type": "procedure", "content": "Tx", "orderIndex": 9},
+        {"type": "bulletList", "content": "Stroke Treatment", "items": [
+          "ABCs",
+          "Assess & document \"FAST\"",
+          "Reassurance",
+          "Evacuate immediately"
+        ], "orderIndex": 10}
+      ]
+    },
+    {
+      "title": "Cardiac & Vascular Emergencies",
+      "subtitle": "",
+      "orderIndex": 4,
+      "content": [
+        {"type": "subheading", "content": "Cardiac Emergencies", "orderIndex": 1},
+        {"type": "paragraph", "content": "Angina pectoris and myocardial infarction (heart attack) are both caused by coronary artery disease (CAD). CAD is the narrowing of the coronary arteries that supply oxygenated blood to the heart muscle. When the heart muscle does not receive enough oxygen, ischemia occurs.", "orderIndex": 2},
+        {"type": "table", "tableData": {
+          "headers": ["", "Angina", "Heart Attack (MI)"],
+          "rows": [
+            ["Cause", "Temporary ischemia", "Prolonged ischemia → necrosis"],
+            ["Pain onset", "With exertion", "At rest or with minimal exertion"],
+            ["Pain duration", "< 10–15 min", "> 30 min"],
+            ["Pain relief", "Rest + nitroglycerin", "No relief with rest or nitro"],
+            ["Other S/Sx", "Diaphoresis, nausea", "Diaphoresis, nausea, vomiting, SOB, dizziness, AVPU changes"]
+          ]
+        }, "orderIndex": 3},
+        {"type": "procedure", "content": "Heart Attack Tx", "orderIndex": 4},
+        {"type": "bulletList", "content": "Heart Attack Treatment", "items": [
+          "ABCs",
+          "High-flow oxygen if available",
+          "Aspirin 325 mg chewed (if no allergy)",
+          "Position of comfort",
+          "Treat for shock",
+          "Evacuate immediately"
+        ], "orderIndex": 5},
+        {"type": "subheading", "content": "Cardiac Arrest", "orderIndex": 6},
+        {"type": "paragraph", "content": "Sudden cessation of cardiac activity → no pulse. Most common rhythms: VF/VT, asystole, PEA. Follow Chapter 5 CPR/AED guidelines.", "orderIndex": 7}
+      ]
+    },
+    {
+      "title": "Respiratory Emergencies & Anaphylaxis",
+      "subtitle": "",
+      "orderIndex": 5,
+      "content": [
+        {"type": "subheading", "content": "Respiratory Emergencies – Asthma", "orderIndex": 1},
+        {"type": "paragraph", "content": "Asthma is considered a reactive airway disease where the airway narrows, swells, and produces extra mucous, causing bronchoconstriction and difficulty breathing. There are two types of asthma: allergic (caused by exposure to an allergen) and nonallergic (e.g., caused by stress, exercise, illnesses like a cold or the flu, exposure to extreme weather, irritants in the air, or some medications).", "orderIndex": 2},
+        {"type": "paragraph", "content": "An asthma attack, or \"flare-up,\" is treated using a short-acting bronchodilator delivered via an inhaler (a handheld device that delivers medication straight into the lungs). A \"rescue inhaler\" is a term used to identify an inhaler containing this class of medication. Albuterol is one of the more common drugs used to treat asthma attacks.", "orderIndex": 3},
+        {"type": "paragraph", "content": "Individuals who have \"difficult-to-control\" asthma take long-acting bronchodilators or corticosteroids prophylactically as maintenance and control medications to prevent future attacks.", "orderIndex": 4},
+        {"type": "paragraph", "content": "Epinephrine, a potent vasoconstrictor and bronchodilator, is used in an emergency to treat acute, severe asthma attacks when rescue inhalers are no longer effective.", "orderIndex": 5},
+        {"type": "subheading", "content": "Mild-to-Moderate Asthma Attack", "orderIndex": 6},
+        {"type": "bulletList", "content": "Mild-to-Moderate Asthma S/Sx", "items": [
+          "Increased HR",
+          "Increased RR",
+          "Wheezing",
+          "Mucous production",
+          "Coughing",
+          "Shortness of breath"
+        ], "orderIndex": 7},
+        {"type": "procedure", "content": "Tx", "orderIndex": 8},
+        {"type": "bulletList", "content": "Mild-to-Moderate Asthma Treatment", "items": [
+          "Rescue Inhaler (2–4 puffs as needed)",
+          "Use a spacer chamber",
+          "A hot drink",
+          "Breathing in humidified air",
+          "Hydration",
+          "Rest"
+        ], "orderIndex": 9},
+        {"type": "subheading", "content": "Severe Asthma Attack", "orderIndex": 10},
+        {"type": "bulletList", "content": "Severe Asthma S/Sx", "items": [
+          "Tripod position",
+          "Accessory muscle use",
+          "Silent chest (no wheezing)",
+          "Cyanosis",
+          "Altered AVPU"
+        ], "orderIndex": 11},
+        {"type": "procedure", "content": "Tx", "orderIndex": 12},
+        {"type": "bulletList", "content": "Severe Asthma Treatment", "items": [
+          "Epinephrine (see dosing table)",
+          "Rescue inhaler",
+          "Position of comfort",
+          "High-flow oxygen if available",
+          "Evacuate immediately"
+        ], "orderIndex": 13},
+        {"type": "subheading", "content": "Anaphylaxis", "orderIndex": 14},
+        {"type": "paragraph", "content": "Anaphylaxis is a life-threatening allergic reaction where the immune response described above is much stronger. An overabundance of histamine and other mediators are released to counteract otherwise harmless substances like peanuts (most common), iodine, eggs, milk, insect venom, and certain medications. Anaphylaxis is usually marked by a combination of signs and/or symptoms from two or more body systems.", "orderIndex": 15},
+        {"type": "table", "tableData": {
+          "headers": ["System", "Signs/Symptoms"],
+          "rows": [
+            ["Skin", "Hives, welts, redness, itchiness, and swelling of the tongue, lips, and/or throat"],
+            ["Respiratory", "Difficulty breathing, and/or swallowing, wheezing, and stridor"],
+            ["GI", "Nausea, vomiting, diarrhea, and uterine cramps"],
+            ["Cardiovascular", "Dizziness, fainting, drop in BP and AVPU"]
+          ]
+        }, "orderIndex": 16},
+        {"type": "subheading", "content": "EPINEPHRINE (First-line treatment)", "orderIndex": 17},
+        {"type": "bulletList", "content": "Epinephrine Administration", "items": [
+          "Inject epinephrine using an auto injector to the lateral aspect of thigh",
+          "Repeat injections every 5 minutes if condition worsens and/or every 15 minutes if condition does not improve",
+          "The goal is to have the person return to normal BP and breathing"
+        ], "orderIndex": 18},
+        {"type": "subheading", "content": "ANTIHISTAMINE (Adjunct therapy)", "orderIndex": 19},
+        {"type": "bulletList", "content": "Antihistamine Administration", "items": [
+          "Administer an antihistamine (e.g., Benadryl®, Claritin®, Zyrtec®)",
+          "Follow directions on package for dosage and repeat doses until definitive care",
+          "Note: Antihistamines will never stave-off anaphylaxis"
+        ], "orderIndex": 20},
+        {"type": "subheading", "content": "CORTICOSTEROID", "orderIndex": 21},
+        {"type": "bulletList", "content": "Corticosteroid", "items": [
+          "Consider prednisone or similar drug if evacuation is delayed"
+        ], "orderIndex": 22},
+        {"type": "warning", "content": "NOTE: Biphasic anaphylactic reactions are rare but can occur hours after the initial reaction. Repeat epinephrine injection if S/Sx return.", "orderIndex": 23},
+        {"type": "table", "tableData": {
+          "headers": ["Dose", "Epi-Pen®", "Epi-Pen Jr®"],
+          "rows": [
+            ["", "0.3 mg", "0.15 mg"],
+            ["Weight", "66 lbs (30 kg) or more", "33–66 lbs (15–30 kg) max"],
+            ["Age", "Dose by weight", "Dose by weight"],
+            ["Benadryl® Diphenhydramine", "25 – 50 mg/4–6 hours (max 400 mg/day or 24 hours)", "12.5 – 25 mg/4–6 hours (max 300 mg/day or 24 hours)"]
+          ]
+        }, "orderIndex": 24},
+        {"type": "note", "content": "Wilderness Medicine Guidelines\nAn instructor/guide who has been trained in epinephrine administration can help individuals if they believe they are having an anaphylactic reaction.\nFollow your state and/or company protocols.\nEvacuate individuals who have received epinephrine to definitive care.", "orderIndex": 25}
+      ]
+    },
+    {
+      "title": "Altered Mental Status",
+      "subtitle": "",
+      "orderIndex": 6,
+      "content": [
+        {"type": "subheading", "content": "Altered Mental Status", "orderIndex": 1},
+        {"type": "paragraph", "content": "Altered mental status (AMS) is a change from a patient's normal baseline behavior or level of responsiveness. AMS can range from mild confusion to coma.", "orderIndex": 2},
+        {"type": "subheading", "content": "AEIOU-TIPS Mnemonic for Causes of AMS", "orderIndex": 3},
+        {"type": "bulletList", "content": "AEIOU-TIPS", "items": [
+          "A – Alcohol / Acids / Alkalosis",
+          "E – Epilepsy / Electrolytes / Encephalopathy / Environment",
+          "I – Infection / Insulin",
+          "O – Overdose / Oxygen deficiency",
+          "U – Uremia / Underdose",
+          "T – Trauma / Tumor / Temperature",
+          "I – Insulin (again)",
+          "P – Psychosis / Poison / Pharmaceuticals",
+          "S – Stroke / Shock / Subarachnoid hemorrhage / Sepsis"
+        ], "orderIndex": 4},
+        {"type": "procedure", "content": "Treatment of AMS", "orderIndex": 5},
+        {"type": "bulletList", "content": "AMS Treatment", "items": [
+          "ABCs",
+          "High-flow oxygen if available",
+          "Check BGL – treat hypoglycemia if present",
+          "Protect from environment",
+          "Evacuate if cause unknown or patient deteriorates"
+        ], "orderIndex": 6},
+        {"type": "warning", "content": "Any unexplained AMS in the backcountry is a serious finding and warrants rapid evacuation.", "orderIndex": 7}
+      ]
+    },
+    {
+      "title": "Gastrointestinal Illness",
+      "subtitle": "",
+      "orderIndex": 7,
+      "content": [
+        {"type": "subheading", "content": "Gastrointestinal Illness", "orderIndex": 1},
+        {"type": "paragraph", "content": "A gastrointestinal illness (GI illness) is caused by a pathogen (bacteria, virus, fungus or parasite) that is foreign to an individual and commonly ingested from questionable food and water sources or by poor camp hygiene. GI illnesses can cause a range of unpleasant signs and symptoms from nausea to hypovolemic shock. The job of an outdoor guide/educator is to assess the trip participant, including conducting a focused-exam of the entire abdomen and, based on the subjective and objective information obtained, determine if the pathogen is non-invasive or invasive.", "orderIndex": 2},
+        {"type": "subheading", "content": "Invasive GI Illnesses", "orderIndex": 3},
+        {"type": "paragraph", "content": "tend to start abruptly with pronounced abdominal pain and cramping followed by profuse diarrhea containing mucous, pus, and blood within hours. Hypovolemic shock sets in rapidly – immediate medical attention is required. Bacillary dysentery, hemorrhagic E-coli, and cholera are some examples.", "orderIndex": 4},
+        {"type": "subheading", "content": "Non-Invasive GI Illnesses", "orderIndex": 5},
+        {"type": "paragraph", "content": "are self-limiting and start with either nausea and vomiting or painful stomach cramps that get worse before subsiding, typically over 12-48 hours. Acute gastroenteritis, or traveler's diarrhea, and the Norwalk virus are the most common GI illnesses acquired in the backcountry or while traveling abroad.", "orderIndex": 6},
+        {"type": "table", "tableData": {
+          "headers": ["", "Non-Invasive Pathogen"],
+          "rows": [
+            ["S/Sx", "Mild to moderate abdominal cramping pain that comes in waves and subsides after a bowel movement"],
+            ["", "Diffuse abdominal tenderness"],
+            ["", "Less than 10 loose stools/day"],
+            ["", "Mild to moderate vomiting and dehydration"],
+            ["", "Chills"],
+            ["", "Usually over in 48 hours"],
+            ["Tx", "Hydrate with electrolytes"],
+            ["", "Pepto-Bismol® may help with some symptoms"],
+            ["", "Rice, noodles, soup, and other bland foods are good to start eating when nausea and vomiting stops"],
+            ["", "Rest until strength is regained"]
+          ]
+        }, "orderIndex": 7},
+        {"type": "subheading", "content": "Prevention & Special Considerations – WATER TREATMENT", "orderIndex": 8},
+        {"type": "paragraph", "content": "Many gastrointestinal illnesses, including the most common pathogens, can be prevented by proper treatment of drinking water in a backcountry setting. There are four methods of treating water: chemical purification, filtration, boiling, and UV light.", "orderIndex": 9},
+        {"type": "paragraph", "content": "Chemical purification works by oxidizing the cellular structure of pathogens. The most common chemicals to treat water are known as halogens, and these include iodine and sodium hypochlorite (household bleach). Many people have iodine allergies, and long term use of iodine is toxic, particularly to the thyroid. Another, arguably better, chemical is chlorine dioxide.", "orderIndex": 10},
+        {"type": "paragraph", "content": "All methods of chemical treatment require a \"dwell time,\" which is the amount of time the chemical must have in contact with a pathogen. In general, the colder and cloudier the water is, a longer dwell time is necessary. Consult the Centers for Disease Control website for specific dwell times and chemical/water ratios.", "orderIndex": 11},
+        {"type": "table", "tableData": {
+          "headers": ["Tx", "Pros", "Cons"],
+          "rows": [
+            ["HALOGENS", "• Cheap", "• Ineffective against protozoa"],
+            ["Iodine", "• Widely available", "• Iodine sensitivity"],
+            ["Bleach (sodium hypochlorite)", "• Effective against virus & bacteria", "• Ineffective in cold/cloudy water"],
+            ["", "• Lightweight", "• Short shelf life"],
+            ["CHAVPUINE DIOXIDE", "• Effective against virus, bacteria & protozoa", "• Expensive"],
+            ["Aquamira® Micropur®", "• No known effects on health", "• Ineffective in cold/cloudy water"],
+            ["", "• Lightweight", "• Short shelf life"],
+            ["FILTRATION", "• Effective against protozoa & bacteria", "• Ineffective against virus"],
+            ["", "• No chemical taste", "• Filters are breakable"],
+            ["", "• No dwell time", "• No protection against recontamination"],
+            ["BOILING", "• Very effective against all waterborne pathogens", "• Must have ample fuel & cookware"],
+            ["(1 min. <6500')", "• No chemical taste", "• Takes time to boil large amounts of H2O"],
+            ["(3 min. >6500')", "", "• No protection against recontamination"],
+            ["UV LIGHT", "• Effective against virus, bacteria & protozoa", "• Ineffective in cloudy water"],
+            ["", "• Short dwell time", "• Requires batteries"],
+            ["", "• No chemical taste", "• Breakable"]
+          ]
+        }, "orderIndex": 12},
+        {"type": "subheading", "content": "Learning Objectives", "orderIndex": 13},
+        {"type": "paragraph", "content": "Understand the causes and treatment of GI illness and prevention strategies.", "orderIndex": 14},
+        {"type": "numberedList", "content": "GI Illness Learning Objectives", "items": [
+          "1. Differentiate between invasive and non-invasive GI illnesses.",
+          "2. Treat non-invasive GI illness appropriately.",
+          "3. Understand the importance of water treatment and the pros/cons of each method."
+        ], "orderIndex": 15},
+        {"type": "subheading", "content": "Skills Demonstrated", "orderIndex": 16},
+        {"type": "bulletList", "content": "GI Illness Skills", "items": [
+          "Assess and treat GI illness.",
+          "Demonstrate proper water treatment techniques."
+        ], "orderIndex": 17}
+      ]
+    },
+    {
+      "title": "Genitourinary Issues",
+      "subtitle": "Menstrual Cycle Issues & Emergencies",
+      "orderIndex": 8,
+      "content": [
+        {"type": "subheading", "content": "Menstrual Cycle", "orderIndex": 1},
+        {"type": "paragraph", "content": "The menstrual cycle is the monthly series of changes that an individual's body goes through in preparation for the possibility of pregnancy. Each month, one of the ovaries releases an egg — a process called ovulation. At the same time, hormonal changes prepare the uterus for pregnancy. If ovulation takes place and fertilization of the egg does not occur, the lining of the uterus sheds through the vagina.", "orderIndex": 2},
+        {"type": "paragraph", "content": "Menstruation starts approximately between 9-12 years of age and declines as an individual reaches menopause around age 50. The menstrual cycle, which starts from the first day of one period to the first day of the next, isn't the same for everyone. Menstrual flow might occur every 21 to 35 days, and last two to seven days.", "orderIndex": 3},
+        {"type": "paragraph", "content": "Backcountry trips can cause stress on the body and changes in the menstrual cycle may present as:", "orderIndex": 4},
+        {"type": "bulletList", "content": "Menstrual Cycle Changes", "items": [
+          "Dysmenorrhea – Menstrual cramps (worse or better)",
+          "Amenorrhea – Absence of menstrual cycle",
+          "Mittelschmerz – Pain upon ovulation (LLQ or RLQ pain)"
+        ], "orderIndex": 5},
+        {"type": "subheading", "content": "Ovarian Cyst (Corpus Luteum Cysts)", "orderIndex": 6},
+        {"type": "paragraph", "content": "Ovarian cysts are a common source of pain in premenopausal individuals who are not taking any form of hormonal birth control. These cysts form when the sac that releases the egg does not dissolve. Instead, the sac seals off after the egg is released and fluid builds up inside. Most of these cysts go away after a few weeks. These can grow in size and cause significant pain in the RLQ or LLQ. The A is twisting of the ovary. The client can take analgesics for pain and/or evacuate from the field if the pain is persistent.", "orderIndex": 7},
+        {"type": "subheading", "content": "Ectopic Pregnancy", "orderIndex": 8},
+        {"type": "paragraph", "content": "An ectopic pregnancy is a life threatening condition that occurs when a fertilized egg implants and grows outside of the uterus, most commonly in the fallopian tube. At approximately 4-8 weeks of pregnancy, the fertilized egg with rapidly dividing cells creates pressure within the fallopian tube and can eventually rupture the tube causing hemorrhage, if not treated. Early detection is lifesaving. Acute pain is felt in either the RLQ or LLQ and eventually, associated internal bleeding. Vaginal bleeding may be present. If suspected, initiate a high priority evacuation. The A is decompensatory hypovolemic shock.", "orderIndex": 9},
+        {"type": "subheading", "content": "Specific Medical History Questions", "orderIndex": 10},
+        {"type": "paragraph", "content": "Trip leaders/rescuers may have to ask specific questions to either rule out or obtain more information about a possible genitourinary issue.", "orderIndex": 11},
+        {"type": "subheading", "content": "Groin pain: Acute or progressive pain in the groin or scrotum.", "orderIndex": 12},
+        {"type": "bulletList", "content": "Groin Pain Questions", "items": [
+          "What was your sex assigned at birth?",
+          "Do you have external reproductive organs (e.g., testes)?"
+        ], "orderIndex": 13},
+        {"type": "subheading", "content": "Learning Objectives:", "orderIndex": 14},
+        {"type": "paragraph", "content": "Become comfortable enough with genitourinary issues in order to have a conversation with a trip participant in the event an issue arises.", "orderIndex": 15},
+        {"type": "numberedList", "content": "Genitourinary Learning Objectives", "items": [
+          "1. Know the differences between urinary tract issues and vaginal infections.",
+          "2. Be able to describe a menstrual cycle and the complications that may occur in the field.",
+          "3. Know the difference between testicular torsion and epididymitis.",
+          "4. Understand the various prevention, Tx, and interventions for each."
+        ], "orderIndex": 16},
+        {"type": "subheading", "content": "Skills Demonstrated:", "orderIndex": 17},
+        {"type": "bulletList", "content": "Genitourinary Skills", "items": [
+          "Conduct a patient assessment, analyze the information obtained, execute appropriate Tx, monitor interventions and decide on an evacuation plan",
+          "Sound judgment and good critical thinking skills when making evacuation decisions"
+        ], "orderIndex": 18}
+      ]
+    },
+    {
+      "title": "Rhabdomyolysis",
+      "subtitle": "",
+      "orderIndex": 9,
+      "content": [
+        {"type": "subheading", "content": "Rhabdomyolysis", "orderIndex": 1},
+        {"type": "paragraph", "content": "Rhabdomyolysis (rhabdo) is the rapid breakdown of damaged skeletal muscle tissue resulting in the release of muscle fiber contents (myoglobin) into the bloodstream. Myoglobin is harmful to the kidneys and can lead to kidney failure.", "orderIndex": 2},
+        {"type": "paragraph", "content": "Common causes in the backcountry include overexertion (especially in heat), crush injuries, compartment syndrome, and certain medications/statins.", "orderIndex": 3},
+        {"type": "subheading", "content": "S/Sx", "orderIndex": 4},
+        {"type": "bulletList", "content": "Rhabdomyolysis S/Sx", "items": [
+          "Muscle pain, weakness, stiffness (especially lower extremities)",
+          "Dark tea-colored urine",
+          "Decreased urine output",
+          "Fatigue, nausea, vomiting",
+          "Altered mental status (late sign)"
+        ], "orderIndex": 5},
+        {"type": "procedure", "content": "Tx", "orderIndex": 6},
+        {"type": "bulletList", "content": "Rhabdomyolysis Treatment", "items": [
+          "Stop activity, rest",
+          "Aggressive oral hydration (aim for clear urine)",
+          "Electrolyte replacement",
+          "Cool patient if hyperthermic",
+          "Evacuate – any suspected rhabdo is a medical emergency"
+        ], "orderIndex": 7},
+        {"type": "warning", "content": "Dark urine + severe muscle pain after exertion = RHABDO until proven otherwise", "orderIndex": 8}
+      ]
+    },
+    {
+      "title": "Mental Health Conditions",
+      "subtitle": "",
+      "orderIndex": 10,
+      "content": [
+        {"type": "subheading", "content": "Post Traumatic Stress Disorder (PTSD)", "orderIndex": 1},
+        {"type": "paragraph", "content": "PTSD is a stress response to an event that triggers physiological and psychological symptoms. A prior stressful event or series of events can cause PTSD. Symptoms often include trouble sleeping, anxiety, panic attacks, avoidance of situations like the stressful event, lethargy, nightmares, and flashbacks. Some events may trigger a person's PTSD, such as being in a situation that is perceived as uncontrollable for them or is similar to the trigger event of their PTSD. It is helpful to remember that for a new participant the perception of risk of an activity may be quite a bit higher than the actual risk.", "orderIndex": 2},
+        {"type": "subheading", "content": "Depression", "orderIndex": 3},
+        {"type": "paragraph", "content": "Depression is a mood disorder in which a person suffers from a prominent and persistent depressed mood that can interfere with daily function. A person is considered to have an episode of depression when several symptoms occur together at one time.", "orderIndex": 4},
+        {"type": "bulletList", "content": "Depression S/Sx", "items": [
+          "Loss of interest in normal activities",
+          "Significant changes in weight",
+          "Insomnia or oversleeping",
+          "Physical agitation or physical slowing down",
+          "Complaints of slowed thinking or impaired concentration",
+          "Fatigue",
+          "Feelings of worthlessness or guilt",
+          "Suicidal ideation or plans"
+        ], "orderIndex": 5},
+        {"type": "subheading", "content": "Bipolar Disorder – Hypomania/Mania", "orderIndex": 6},
+        {"type": "bulletList", "content": "Bipolar Hypomania/Mania S/Sx", "items": [
+          "Overly inflated self-esteem",
+          "Racing thoughts",
+          "Pressured speech",
+          "Increased energy",
+          "Decreased sleep",
+          "Agitation/severe irritability",
+          "Spending sprees",
+          "Hypersexuality",
+          "Poor risk judgment",
+          "Rarely, the patient may become psychotic and/or violent"
+        ], "orderIndex": 7},
+        {"type": "procedure", "content": "Tx", "orderIndex": 8},
+        {"type": "bulletList", "content": "Bipolar Treatment", "items": [
+          "Consult with physician advisor",
+          "Assess the need and urgency of evacuation",
+          "See complications of psychotropic medications"
+        ], "orderIndex": 9},
+        {"type": "subheading", "content": "Attention Deficit Hyperactive Disorder (ADHD)", "orderIndex": 10},
+        {"type": "paragraph", "content": "ADHD is a cognitive disorder that causes a person to be easily distractable, inattentive, hyperactive, agitated, impulsive, lose important objects, or have concentration difficulties. These behavioral patterns may lead participants to want to begin activities prior to receiving full safety training.", "orderIndex": 11},
+        {"type": "paragraph", "content": "Potential complications in an extended backcountry setting: Most common medications to treat ADHD are stimulants, and when mixed with antidepressants can cause serotonin syndrome. This would most likely happen if participants shared medication, not when someone already arrived on both medications.", "orderIndex": 12},
+        {"type": "subheading", "content": "Panic Attacks and Anxiety", "orderIndex": 13},
+        {"type": "paragraph", "content": "A person suffering from a panic attack will often report a sense of imminent danger or doom, shortness of breath, feel a need to escape, experience palpitations, sweating, trembling, chest pain or discomfort, dizziness, nausea, and/or a feeling of \"losing it.\" It can be difficult to differentiate a panic attack from a cardiac or respiratory issue. However, a panic attack will usually resolve itself within 30–60 minutes and a careful OPQRST history of the patient or those close to them will usually reveal a previous history of panic attacks. It is important to remove the person from any identified triggers if possible.", "orderIndex": 14},
+        {"type": "subheading", "content": "Serotonin Syndrome", "orderIndex": 15},
+        {"type": "paragraph", "content": "Serotonin syndrome may result if serotonin levels in the body become too high. This usually results early during treatment with an anti-depressant medication (mainly SSRI and SNRI medications – see medication chart) or when the dosage of a current medication is increased or another one added. However, it may also occur when other Rx or OTC medications or recreational substances increase serotonin levels when combined with anti-depressant medications. Commonly, these substances might be cocaine, ecstasy, amphetamines (including ADHD medications), LSD, St. John's Wort, migraine medication, cold medications containing dextromethorphan, ginseng, non-steroidal anti-inflammatory medications such as Ibuprofen and other medications used to control pain.", "orderIndex": 16},
+        {"type": "paragraph", "content": "Most cases of serotonin syndrome present within 24 hours of treatment initiation, dosage increase or when adding new OTC medication or supplements.", "orderIndex": 17},
+        {"type": "bulletList", "content": "Serotonin Syndrome S/Sx", "items": [
+          "Agitation/restlessness",
+          "Confusion",
+          "Dilated pupils",
+          "Muscle rigidity",
+          "Irregular heartbeat/rapid heartbeat",
+          "Ataxia (loss of coordination)",
+          "Sweating/shivering",
+          "Fever",
+          "Seizures",
+          "Rhabdomyolysis",
+          "Unresponsiveness"
+        ], "orderIndex": 18},
+        {"type": "procedure", "content": "Tx", "orderIndex": 19},
+        {"type": "bulletList", "content": "Serotonin Syndrome Treatment", "items": [
+          "Discontinue any recreational or herbal substances",
+          "Treat fever as per heat illness protocols",
+          "Consider an antipyretic (fever reducer)",
+          "Manage the airway",
+          "Evacuate to definitive care",
+          "In severe cases evacuate immediately"
+        ], "orderIndex": 20},
+        {"type": "note", "content": "Note: It is not in a WFR's SOP to alter anti-depressant medication doses.", "orderIndex": 21}
+      ]
+    },
+    {
+      "title": "Psychological First Aid",
+      "subtitle": "",
+      "orderIndex": 11,
+      "content": [
+        {"type": "subheading", "content": "Psychological First Aid", "orderIndex": 1},
+        {"type": "paragraph", "content": "Psychological First Aid (PFA) is an evidence-informed approach for assisting people in the aftermath of disaster and terrorism. PFA is designed to reduce the initial distress caused by traumatic events and to foster short- and long-term adaptive functioning and coping.", "orderIndex": 2},
+        {"type": "subheading", "content": "8 Core Actions of Psychological First Aid", "orderIndex": 3},
+        {"type": "numberedList", "content": "PFA Core Actions", "items": [
+          "1. Contact and Engagement",
+          "2. Safety and Comfort",
+          "3. Stabilization (if needed)",
+          "4. Information Gathering: Current Needs and Concerns",
+          "5. Practical Assistance",
+          "6. Connection with Social Supports",
+          "7. Information on Coping",
+          "8. Linkage with Collaborative Services"
+        ], "orderIndex": 4},
+        {"type": "subheading", "content": "Special Considerations for All Mental Health Conditions", "orderIndex": 5},
+        {"type": "bulletList", "content": "Mental Health Special Considerations", "items": [
+          "Pre-Trip Discussion: Have a discussion with trip participants who are taking psychotropic medication about their illness and how the trip leaders can best support them and to devise a plan for any symptomatic episodes.",
+          "Medications: Consider carrying back-up medications with someone else and waterproofing all medications.",
+          "Field discontinuation of medication/recreational substances: Psychotropic or recreational medication should not be discontinued in the field abruptly. Severe discontinuation problems and/or withdrawal can occur. Alcohol and benzodiazepines can have significant withdrawal consequences including seizures and death. These are often delayed 1-3 days and so the person who arrives on a backcountry endeavor with intention to get clean is a red flag."
+        ], "orderIndex": 6}
+      ]
+    },
+    {
+      "title": "Dehydration",
+      "subtitle": "",
+      "orderIndex": 12,
+      "content": [
+        {"type": "paragraph", "content": "Dehydration occurs when fluid loss exceeds fluid intake. Common causes in the backcountry include heavy sweating, inadequate fluid intake, vomiting, diarrhea, and increased respiratory losses at altitude or in cold/dry air.", "orderIndex": 1},
+        {"type": "bulletList", "content": "Dehydration S/Sx", "items": [
+          "Thirst (late sign)",
+          "Dry mouth / sticky saliva",
+          "Decreased urine output",
+          "Dark, concentrated urine",
+          "Fatigue / weakness",
+          "Headache",
+          "Dizziness / lightheadedness",
+          "Irritability",
+          "Muscle cramps",
+          "Sunken eyes (severe)"
+        ], "orderIndex": 2},
+        {"type": "procedure", "content": "Tx", "orderIndex": 3},
+        {"type": "bulletList", "content": "Dehydration Treatment", "items": [
+          "Stop activity and rest in shade",
+          "Oral rehydration with water + electrolytes (sports drink, oral rehydration salts)",
+          "500–1000 ml/hour until urine is pale and plentiful",
+          "Cool the patient (remove layers, fan, wet skin)",
+          "Evacuate if unable to drink, persistent vomiting, or altered mental status"
+        ], "orderIndex": 4}
+      ]
+    },
+    {
+      "title": "Hyponatremia (Low Blood Sodium)",
+      "subtitle": "Exercise-Associated Hyponatremia (EAH)",
+      "orderIndex": 13,
+      "content": [
+        {"type": "paragraph", "content": "Hyponatremia occurs when excessive water intake dilutes serum sodium, often combined with sodium loss through sweat. Common in long, hot events when participants over-hydrate with plain water.", "orderIndex": 1},
+        {"type": "bulletList", "content": "Hyponatremia S/Sx", "items": [
+          "Headache",
+          "Nausea / vomiting",
+          "Confusion / altered mental status",
+          "Fatigue / weakness",
+          "Muscle cramps",
+          "Seizures",
+          "Coma (severe)"
+        ], "orderIndex": 2},
+        {"type": "warning", "content": "Mild hyponatremia can rapidly progress to life-threatening cerebral edema and seizures.", "orderIndex": 3},
+        {"type": "procedure", "content": "Tx", "orderIndex": 4},
+        {"type": "bulletList", "content": "Hyponatremia Treatment", "items": [
+          "Stop fluid intake (especially plain water)",
+          "Give salty foods or hypertonic saline (3% NaCl) if available and protocol allows",
+          "Rest, shade, monitor",
+          "Rapid evacuation for any altered mental status, seizures, or vomiting"
+        ], "orderIndex": 5}
+      ]
+    },
+    {
+      "title": "Heat Illness Spectrum",
+      "subtitle": "",
+      "orderIndex": 14,
+      "content": [
+        {"type": "subheading", "content": "Heat Cramps", "orderIndex": 1},
+        {"type": "paragraph", "content": "Painful muscle spasms, usually in legs or abdomen, after heavy sweating and inadequate electrolyte replacement.", "orderIndex": 2},
+        {"type": "procedure", "content": "Tx: Rest, gentle stretching, oral electrolytes, salty foods", "orderIndex": 3},
+        {"type": "subheading", "content": "Heat Exhaustion", "orderIndex": 4},
+        {"type": "bulletList", "content": "Heat Exhaustion S/Sx", "items": [
+          "Heavy sweating",
+          "Cool, pale, clammy skin",
+          "Normal or slightly elevated core temp (<40°C / 104°F)",
+          "Fatigue, dizziness, headache",
+          "Nausea, vomiting possible",
+          "Normal mental status (though irritable)"
+        ], "orderIndex": 5},
+        {"type": "procedure", "content": "Tx", "orderIndex": 6},
+        {"type": "bulletList", "content": "Heat Exhaustion Treatment", "items": [
+          "Move to cool/shaded area",
+          "Remove excess clothing",
+          "Fan + mist skin",
+          "Oral rehydration with cool electrolyte drink",
+          "Recovery usually within 1–2 hours"
+        ], "orderIndex": 7},
+        {"type": "subheading", "content": "Heat Stroke", "orderIndex": 8},
+        {"type": "paragraph", "content": "LIFE-THREATENING MEDICAL EMERGENCY. Core temperature ≥40°C (104°F) with CNS dysfunction.", "orderIndex": 9},
+        {"type": "paragraph", "content": "Classic (elderly, chronic illness) vs Exertional (young, active). Exertional often presents with sweating still present.", "orderIndex": 10},
+        {"type": "bulletList", "content": "Heat Stroke S/Sx", "items": [
+          "Hot, red skin (may be dry or wet)",
+          "Altered mental status → confusion → seizures → coma",
+          "Tachycardia, hyperventilation",
+          "Core temp ≥40°C / 104°F",
+          "Collapse or psychosis"
+        ], "orderIndex": 11},
+        {"type": "procedure", "content": "Tx – RAPID COOLING IS PRIORITY", "orderIndex": 12},
+        {"type": "numberedList", "content": "Heat Stroke Treatment", "items": [
+          "1. Activate emergency evacuation IMMEDIATELY",
+          "2. Begin aggressive cooling: ice packs to groin/axilla/neck, immersion if possible, wet sheets + fanning",
+          "3. Cool first, transport second if delay >15–20 min",
+          "4. IV fluids if available (avoid over-hydration)",
+          "5. Manage airway/seizures"
+        ], "orderIndex": 13}
+      ]
+    },
+    {
+      "title": "Hypothermia",
+      "subtitle": "",
+      "orderIndex": 15,
+      "content": [
+        {"type": "paragraph", "content": "Hypothermia is a decrease in core body temperature below 35°C (95°F) due to cold exposure exceeding the body's ability to generate and retain heat.", "orderIndex": 1},
+        {"type": "table", "tableData": {
+          "headers": ["Stage", "Core Temp", "Signs/Symptoms"],
+          "rows": [
+            ["Mild", "35–32°C (95–90°F)", "Shivering, impaired fine motor, confusion, normal or high BP"],
+            ["Moderate", "32–28°C (90–82°F)", "Intense shivering → stops, altered mental status, muscle rigidity, low BP"],
+            ["Severe", "<28°C (<82°F)", "No shivering, coma, ventricular fibrillation risk, appears dead"]
+          ]
+        }, "orderIndex": 2},
+        {"type": "warning", "content": "Patients are not dead until they are warm and dead. Profound hypothermia can mimic death (slow pulse/respirations).", "orderIndex": 3},
+        {"type": "procedure", "content": "Field Treatment – Mild", "orderIndex": 4},
+        {"type": "bulletList", "content": "Mild Hypothermia Treatment", "items": [
+          "Remove from cold/wind/wet",
+          "Insulate from ground",
+          "Remove wet clothing, dry patient",
+          "Warm sweet drinks/food if alert",
+          "Active rewarming: body-to-body contact, hot water bottles to groin/axilla/neck",
+          "Light exercise only if fully alert and able"
+        ], "orderIndex": 5},
+        {"type": "procedure", "content": "Moderate/Severe Hypothermia – HANDLE GENTLY", "orderIndex": 6},
+        {"type": "bulletList", "content": "Moderate-Severe Hypothermia Treatment", "items": [
+          "Horizontal position, full insulation including vapor barrier",
+          "Hypothermia wrap (burrito): tarp → sleeping pad → sleeping bag → outer tarp",
+          "No food/liquids if altered",
+          "Minimal movement – rough handling can trigger VF",
+          "Warm IV fluids if available",
+          "Rapid evacuation – these patients need hospital rewarming"
+        ], "orderIndex": 7}
+      ]
+    },
+    {
+      "title": "Frostbite",
+      "subtitle": "",
+      "orderIndex": 16,
+      "content": [
+        {"type": "paragraph", "content": "Freezing of tissue, usually extremities or exposed skin. Ice crystals form in tissue causing cellular damage.", "orderIndex": 1},
+        {"type": "paragraph", "content": "Degrees: 1st (superficial) – pale, waxy, numb; 2nd (partial thickness) – blisters clear fluid; 3rd/4th (full thickness) – hemorrhagic blisters, black necrosis.", "orderIndex": 2},
+        {"type": "procedure", "content": "Field Treatment", "orderIndex": 3},
+        {"type": "bulletList", "content": "Frostbite Treatment", "items": [
+          "Remove from cold, protect from refreezing (refreezing causes worse damage)",
+          "Rapid rewarming in 40–42°C (104–108°F) water until soft/pliable (15–40 min)",
+          "Ibuprofen 400–600 mg (anti-inflammatory/anti-prostaglandin)",
+          "Aloe vera to thawed tissue",
+          "Padding between toes/fingers, loose dry dressings",
+          "Elevate, no weight-bearing",
+          "Rapid evacuation – all frostbite needs hospital evaluation (thrombolytics possible)"
+        ], "orderIndex": 4},
+        {"type": "warning", "content": "DO NOT rub/snow massage, thaw if refreezing likely, or allow patient to walk on thawed feet.", "orderIndex": 5}
+      ]
+    },
+    {
+      "title": "Non-Freezing Cold Injury",
+      "subtitle": "Trench Foot / Immersion Foot / Chilblains",
+      "orderIndex": 17,
+      "content": [
+        {"type": "paragraph", "content": "Prolonged exposure to cold, wet conditions (0–15°C) without freezing. Causes vasoconstriction and tissue damage.", "orderIndex": 1},
+        {"type": "bulletList", "content": "Non-Freezing Cold Injury S/Sx", "items": [
+          "Cold, numb, pale → red, hot, painful on rewarming",
+          "Swelling, tingling, blisters possible",
+          "Can take weeks to heal"
+        ], "orderIndex": 2},
+        {"type": "procedure", "content": "Tx: Dry, warm gradually (air dry, NOT hot water), elevate, ibuprofen, no walking if severe", "orderIndex": 3}
+      ]
+    },
+    {
+      "title": "Lightning",
+      "subtitle": "",
+      "orderIndex": 18,
+      "content": [
+        {"type": "paragraph", "content": "Lightning is a massive electrical discharge. Injuries occur via direct strike, side flash, ground current, or blunt trauma from blast.", "orderIndex": 1},
+        {"type": "bulletList", "content": "Lightning Injury S/Sx", "items": [
+          "Cardiac/respiratory arrest (asystole common – good prognosis if CPR started)",
+          "Confusion, amnesia, temporary paralysis",
+          "Lichtenberg figures (ferning burns)",
+          "Ruptured eardrums, cataracts",
+          "Blunt trauma from being thrown"
+        ], "orderIndex": 2},
+        {"type": "warning", "content": "Reverse triage: Treat apparently dead first – asystole from lightning often reversible with immediate CPR.", "orderIndex": 3},
+        {"type": "procedure", "content": "Tx", "orderIndex": 4},
+        {"type": "bulletList", "content": "Lightning Treatment", "items": [
+          "ABC’s / CPR / AED immediately",
+          "C-spine precautions if fall or thrown",
+          "Treat burns, fractures, etc.",
+          "All lightning strike patients need hospital evaluation and cardiac monitoring"
+        ], "orderIndex": 5}
+      ]
+    },
+    {
+      "title": "Altitude-Related Illness",
+      "subtitle": "",
+      "orderIndex": 19,
+      "content": [
+        {"type": "subheading", "content": "Acute Mountain Sickness (AMS)", "orderIndex": 1},
+        {"type": "bulletList", "content": "AMS S/Sx", "items": [
+          "Headache + one of: fatigue, GI symptoms, dizziness, sleep disturbance",
+          "Onset 6–12 hrs after ascent >2500 m"
+        ], "orderIndex": 2},
+        {"type": "procedure", "content": "Tx: Stop ascent, acetazolamide, descent if severe", "orderIndex": 3},
+        {"type": "subheading", "content": "High Altitude Cerebral Edema (HACE)", "orderIndex": 4},
+        {"type": "bulletList", "content": "HACE S/Sx", "items": [
+          "Ataxia, severe headache, altered mental status, hallucinations",
+          "LIFE-THREATENING – descent + dexamethasone + O₂ + Gamow bag"
+        ], "orderIndex": 5},
+        {"type": "subheading", "content": "High Altitude Pulmonary Edema (HAPE)", "orderIndex": 6},
+        {"type": "bulletList", "content": "HAPE S/Sx", "items": [
+          "Dyspnea at rest, cough, pink/frothy sputum, crackles",
+          "LIFE-THREATENING – immediate descent + nifedipine + O₂ + Gamow bag"
+        ], "orderIndex": 7}
+      ]
+    },
+    {
+      "title": "Drowning / Submersion Incidents",
+      "subtitle": "",
+      "orderIndex": 20,
+      "content": [
+        {"type": "paragraph", "content": "Drowning is death by suffocation after submersion in liquid. Non-fatal drowning is survival (at least temporarily) after submersion.", "orderIndex": 1},
+        {"type": "procedure", "content": "Rescue priorities", "orderIndex": 2},
+        {"type": "numberedList", "content": "Drowning Rescue Priorities", "items": [
+          "1. Self rescue / reach-throw-row-go",
+          "2. C-spine precautions if diving/mechanism",
+          "3. Early ventilation (rescue breathing in water if trained)",
+          "4. Remove from water horizontally",
+          "5. CPR – chest compressions even if pulse present if unconscious"
+        ], "orderIndex": 3},
+        {"type": "warning", "content": "Hypothermia common – continue CPR until warm.", "orderIndex": 4}
+      ]
+    },
+    {
+      "title": "Dive Injuries",
+      "subtitle": "",
+      "orderIndex": 21,
+      "content": [
+        {"type": "subheading", "content": "Barotrauma", "orderIndex": 1},
+        {"type": "bulletList", "content": "Barotrauma S/Sx", "items": [
+          "Squeeze (ears, sinuses, mask)",
+          "Lung over-expansion injuries (pneumothorax, arterial gas embolism)"
+        ], "orderIndex": 2},
+        {"type": "subheading", "content": "Decompression Sickness (DCS)", "orderIndex": 3},
+        {"type": "bulletList", "content": "DCS S/Sx", "items": [
+          "Type I: joint pain (“the bends”), skin mottling",
+          "Type II: neuro (numbness, weakness, bladder), pulmonary (“chokes”), shock"
+        ], "orderIndex": 4},
+        {"type": "procedure", "content": "Tx: 100% O₂, horizontal, fluids, rapid evac to recompression chamber (DAN hotline)", "orderIndex": 5}
+      ]
+    },
+    {
+      "title": "Selected Infectious & Zoonotic Diseases",
+      "subtitle": "",
+      "orderIndex": 22,
+      "content": [
+        {"type": "paragraph", "content": "Giardia, Cryptosporidium, Hantavirus Pulmonary Syndrome, Rabies, Lyme disease, Plague, Leptospirosis, Tick-borne illnesses – all covered with reservoirs, transmission, incubation, symptoms, and prevention/treatment.", "orderIndex": 1},
+        {"type": "warning", "content": "Rabies: Any mammal bite → wound care + consider post-exposure prophylaxis + evac.", "orderIndex": 2}
+      ]
+    }
+  ],
+  "imageInventory": [
+    {"pageImage": "Ch7_p79.jpg", "pageNumber": 79, "description": "Large blue mountain illustration – chapter opener", "type": "illustration", "section": "Backcountry Medical Problems", "purpose": "Chapter opener"},
+    {"pageImage": "Ch7_p82.jpg", "pageNumber": 82, "description": "Hypoglycemia vs Hyperglycemia side-by-side comparison with pale/cool/clammy vs red/hot/dry illustrations", "type": "illustration", "section": "Diabetic Emergencies", "purpose": "Educational"},
+    {"pageImage": "Ch7_p83.jpg", "pageNumber": 83, "description": "Hypoglycemia treatment flowchart with 15g sugar → meal pathway", "type": "flowchart", "section": "Diabetic Emergencies", "purpose": "Procedure"},
+    {"pageImage": "Ch7_p86.jpg", "pageNumber": 86, "description": "Reasons for Seizures table", "type": "table", "section": "Seizures", "purpose": "Reference"},
+    {"pageImage": "Ch7_p88.jpg", "pageNumber": 88, "description": "FAST stroke assessment diagram", "type": "illustration", "section": "Stroke (CVA)", "purpose": "Educational"},
+    {"pageImage": "Ch7_p89.jpg", "pageNumber": 89, "description": "Angina vs Heart Attack comparison table", "type": "table", "section": "Cardiac Emergencies", "purpose": "Reference"},
+    {"pageImage": "Ch7_p94.jpg", "pageNumber": 94, "description": "Severe Asthma Attack treatment flowchart with epinephrine pathway", "type": "flowchart", "section": "Asthma", "purpose": "Procedure"},
+    {"pageImage": "Ch7_p96.jpg", "pageNumber": 96, "description": "Anaphylaxis S/Sx by body system diagram", "type": "illustration", "section": "Anaphylaxis", "purpose": "Educational"},
+    {"pageImage": "Ch7_p97.jpg", "pageNumber": 97, "description": "Anaphylaxis treatment flowchart – Epinephrine first-line", "type": "flowchart", "section": "Anaphylaxis", "purpose": "Core algorithm"},
+    {"pageImage": "Ch7_p98.jpg", "pageNumber": 98, "description": "Epi-Pen® auto-injector photos and dosing table", "type": "photo", "section": "Anaphylaxis", "purpose": "Equipment reference"},
+    {"pageImage": "Ch7_p99.jpg", "pageNumber": 99, "description": "AEIOU-TIPS mnemonic circle diagram", "type": "illustration", "section": "Altered Mental Status", "purpose": "Educational"},
+    {"pageImage": "Ch7_p100.jpg", "pageNumber": 100, "description": "Altered Mental Status treatment flowchart", "type": "flowchart", "section": "Altered Mental Status", "purpose": "Procedure"},
+    {"pageImage": "Ch7_p104.jpg", "pageNumber": 104, "description": "Full-page Water Treatment comparison table with Aquamira® and Micropur® logos", "type": "table", "section": "Gastrointestinal Illness", "purpose": "Reference"},
+    {"pageImage": "Ch7_p105.jpg", "pageNumber": 105, "description": "Water Treatment table continuation showing dwell times and effectiveness", "type": "table", "section": "Gastrointestinal Illness", "purpose": "Reference"},
+    {"pageImage": "Ch7_p110.jpg", "pageNumber": 110, "description": "Full-page menstrual cycle diagram with ovulation, hormones, and uterine changes", "type": "anatomical_diagram", "section": "Genitourinary Issues", "purpose": "Educational"},
+    {"pageImage": "Ch7_p113.jpg", "pageNumber": 113, "description": "Ectopic pregnancy illustration showing fallopian tube rupture", "type": "illustration", "section": "Genitourinary Issues", "purpose": "Pathophysiology"},
+    {"pageImage": "Ch7_p116.jpg", "pageNumber": 116, "description": "Rhabdomyolysis pathophysiology diagram – muscle breakdown → myoglobin → kidney damage", "type": "illustration", "section": "Rhabdomyolysis", "purpose": "Educational"},
+    {"pageImage": "Ch7_p122.jpg", "pageNumber": 122, "description": "Bipolar Disorder – Hypomania/Mania S/Sx table", "type": "table", "section": "Mental Health Conditions", "purpose": "Reference"},
+    {"pageImage": "Ch7_p124.jpg", "pageNumber": 124, "description": "Serotonin Syndrome S/Sx list", "type": "illustration", "section": "Mental Health Conditions", "purpose": "Educational"},
+    {"pageImage": "Ch7_p127.jpg", "pageNumber": 127, "description": "Psychological First Aid 8 Core Actions diagram", "type": "illustration", "section": "Psychological First Aid", "purpose": "Core model"},
+    {"pageImage": "Ch8_p133.jpg", "pageNumber": 133, "description": "Hyponatremia vs Dehydration comparison table", "type": "table", "section": "Hyponatremia (Low Blood Sodium)", "purpose": "Differential diagnosis"},
+    {"pageImage": "Ch8_p136.jpg", "pageNumber": 136, "description": "Heat illness continuum diagram", "type": "illustration", "section": "Heat Illness Spectrum", "purpose": "Educational"},
+    {"pageImage": "Ch8_p138.jpg", "pageNumber": 138, "description": "Rapid field cooling techniques photos/illustration", "type": "photo", "section": "Heat Illness Spectrum", "purpose": "Demonstration"},
+    {"pageImage": "Ch8_p140.jpg", "pageNumber": 140, "description": "Heat illness risk factors and acclimatization chart", "type": "chart", "section": "Heat Illness Spectrum", "purpose": "Reference"},
+    {"pageImage": "Ch8_p143.jpg", "pageNumber": 143, "description": "Hypothermia clinical staging table", "type": "table", "section": "Hypothermia", "purpose": "Reference"},
+    {"pageImage": "Ch8_p146.jpg", "pageNumber": 146, "description": "Hypothermia burrito wrap step-by-step illustration", "type": "illustration", "section": "Hypothermia", "purpose": "Demonstration"},
+    {"pageImage": "Ch8_p150.jpg", "pageNumber": 150, "description": "Frostbite rapid thaw in water photos", "type": "photo", "section": "Frostbite", "purpose": "Demonstration"},
+    {"pageImage": "Ch8_p153.jpg", "pageNumber": 153, "description": "Wind chill index chart", "type": "chart", "section": "Non-Freezing Cold Injury", "purpose": "Reference"},
+    {"pageImage": "Ch8_p157.jpg", "pageNumber": 157, "description": "Lightning injury treatment algorithm", "type": "flowchart", "section": "Lightning", "purpose": "Protocol"},
+    {"pageImage": "Ch8_p159.jpg", "pageNumber": 159, "description": "Lake Louise AMS scoring system", "type": "table", "section": "Altitude-Related Illness", "purpose": "Diagnostic"},
+    {"pageImage": "Ch8_p164.jpg", "pageNumber": 164, "description": "DCS Type I vs Type II comparison table", "type": "table", "section": "Dive Injuries", "purpose": "Reference"},
+    {"pageImage": "Ch8_p166.jpg", "pageNumber": 166, "description": "Zoonotic disease quick-reference chart", "type": "chart", "section": "Selected Infectious & Zoonotic Diseases", "purpose": "Reference"}
+  ],
+  "specialContent": {
+    "scenarios": [
+      "Multi-day river trip with inadequate salty foods and over-hydration leading to hyponatremia seizure",
+      "Winter mountaineering – climber becomes hypothermic after falling in stream",
+      "Multi-day sea kayak trip – immersion foot from wet boots",
+      "Summer thunderstorm on exposed ridge – multiple lightning victims",
+      "Climber developing ataxia at 14,000 ft (HACE)",
+      "Kayaker trapped underwater → submersion",
+      "Scuba diver with joint pain and numbness after rapid ascent"
+    ],
+    "locationReferences": ["Grand Canyon", "desert environments", "high altitude", "winter environments", "wet/cold conditions", "high peaks", "Colorado 14ers", "tropical waters", "rodent-infested cabins"],
+    "brandNames": ["Gvoke HypoPen®", "Baqsimi®", "Epi-Pen®", "Epi-Pen Jr®", "Benadryl®", "Claritin®", "Zyrtec®", "Aquamira®", "Micropur®", "Pepto-Bismol®", "Gamow bag", "DAN (Divers Alert Network)"],
+    "terminologyUpdates": ["Drowning definition updated per ILCOR (no more “near-drowning”)"]
+  }
+}

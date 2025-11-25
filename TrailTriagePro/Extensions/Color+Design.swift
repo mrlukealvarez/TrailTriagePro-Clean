@@ -28,7 +28,27 @@ extension Color {
 }
 
 extension Color {
-    // MARK: - Mountain Medicine Palette
+    // MARK: - Black Elk Mountain Medicine 2025 Palette
+    
+    /// Primary brand tone used for headers and key actions (#2E5C40).
+    static let forestGreen = Color(hex: "2E5C40")
+    
+    /// Accent tone for highlights and calls-to-action (#D4A574).
+    static let warmEarth = Color(hex: "D4A574")
+    
+    /// Alert/danger tone meeting WCAG contrast (#A62F2F).
+    static let deepCrimson = Color(hex: "A62F2F")
+    
+    /// Light neutral for app backgrounds (#F8F4EF).
+    static let lightSand = Color(hex: "F8F4EF")
+    
+    /// Primary text color (#4A4A4A).
+    static let darkCharcoal = Color(hex: "4A4A4A")
+    
+    /// Muted sage used for dividers/borders (#C4C7B2).
+    static let sageAsh = Color(hex: "C4C7B2")
+    
+    // MARK: - Legacy Palette (kept for backward compatibility during rebrand)
     
     /// Deep Mountain Teal/Navy - Base background
     static let deepTeal = Color(hex: "0B3D4C")

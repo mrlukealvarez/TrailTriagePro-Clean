@@ -33,6 +33,12 @@ class AppSettings {
         }
     }
     
+    var notificationsEnabled: Bool {
+        didSet {
+            UserDefaults.standard.set(notificationsEnabled, forKey: "notificationsEnabled")
+        }
+    }
+    
     // Display preferences
     var showVitalsNormalRanges: Bool {
         didSet {
@@ -82,6 +88,7 @@ class AppSettings {
         self.expertModeEnabled = UserDefaults.standard.bool(forKey: "expertModeEnabled")
         self.autoSaveEnabled = UserDefaults.standard.bool(forKey: "autoSaveEnabled")
         self.captureGPSLocation = UserDefaults.standard.bool(forKey: "captureGPSLocation")
+        self.notificationsEnabled = UserDefaults.standard.bool(forKey: "notificationsEnabled")
         self.showVitalsNormalRanges = UserDefaults.standard.bool(forKey: "showVitalsNormalRanges")
         self.responderName = UserDefaults.standard.string(forKey: "responderName") ?? ""
         self.responderAgency = UserDefaults.standard.string(forKey: "responderAgency") ?? ""

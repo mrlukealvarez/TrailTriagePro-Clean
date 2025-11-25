@@ -1,89 +1,83 @@
 import SwiftUI
 
 /// Centralized Design System for TrailTriage
-/// Implements the "Mountain Medicine" aesthetic with Deep Teal backgrounds and Rescue Orange accents.
+/// 2025 “Black Elk” refresh with earthy palette + approachable typography.
 enum Theme {
     // MARK: - Colors
     
-    /// The core tint color for the app (Rescue Orange)
-    static var tint: Color { Color.rescueOrange }
+    static var primary: Color { .forestGreen }
+    static var accent: Color { .warmEarth }
+    static var alert: Color { .deepCrimson }
     
-    /// The main background color (Deep Mountain Teal)
-    static var background: Color { Color.deepTeal }
+    static var background: Color { .lightSand }
+    static var surface: Color { .white }
+    static var surfaceMuted: Color { Color.white.opacity(0.9) }
     
-    /// A darker background for creating depth (e.g., behind cards)
-    static var backgroundDark: Color { Color.deepTealDark }
-    
-    /// Surface color for cards and sheets
-    static var surface: Color { Color.surfaceTeal }
-    
-    /// Primary text color (Mist White)
-    static var textPrimary: Color { Color.mistWhite }
-    
-    /// Secondary text color (Mist Gray)
-    static var textSecondary: Color { Color.mistGray }
-    
-    /// Accent color for secondary elements
-    static var accentSecondary: Color { Color.mutedTeal }
+    static var textPrimary: Color { .darkCharcoal }
+    static var textSecondary: Color { Color.darkCharcoal.opacity(0.7) }
+    static var divider: Color { .sageAsh.opacity(0.5) }
     
     // MARK: - Gradients
     
-    /// A subtle atmospheric gradient for backgrounds
     static var backgroundGradient: LinearGradient {
         LinearGradient(
-            colors: [Color.deepTeal, Color.deepTealDark],
-            startPoint: .top,
-            endPoint: .bottom
-        )
-    }
-    
-    /// A high-impact gradient for primary buttons/headers
-    static var primaryGradient: LinearGradient {
-        LinearGradient(
-            colors: [Color.rescueOrange, Color.rescueOrange.opacity(0.8)],
+            colors: [Color.lightSand, Color.white],
             startPoint: .topLeading,
             endPoint: .bottomTrailing
         )
     }
     
-    // MARK: - Typography
-    
-    static func title(_ text: String) -> Text {
-        Text(text)
-            .font(.system(.title, design: .rounded))
-            .fontWeight(.bold)
-            .foregroundStyle(textPrimary)
+    static var primaryGradient: LinearGradient {
+        LinearGradient(
+            colors: [.forestGreen, .warmEarth],
+            startPoint: .topLeading,
+            endPoint: .bottomTrailing
+        )
     }
     
-    static func headline(_ text: String) -> Text {
-        Text(text)
-            .font(.system(.headline, design: .rounded))
-            .fontWeight(.semibold)
-            .foregroundStyle(textPrimary)
+    static var headerGradient: LinearGradient {
+        LinearGradient(
+            colors: [.forestGreen.opacity(0.95), .forestGreen.opacity(0.7)],
+            startPoint: .topLeading,
+            endPoint: .bottomTrailing
+        )
     }
     
-    static func body(_ text: String) -> Text {
+    // MARK: - Typography helpers
+    
+    private static func baseText(_ text: String, style: Font.TextStyle, weight: Font.Weight = .regular, color: Color = Theme.textPrimary) -> some View {
         Text(text)
-            .font(.system(.body, design: .rounded))
-            .foregroundStyle(textPrimary)
+            .font(.system(style, design: .default, weight: weight))
+            .foregroundStyle(color)
+            .lineSpacing(4)
+            .kerning(0.2)
+            .multilineTextAlignment(.leading)
     }
     
-    static func subheadline(_ text: String) -> Text {
-        Text(text)
-            .font(.system(.subheadline, design: .rounded))
-            .foregroundStyle(textSecondary)
+    static func title(_ text: String) -> some View {
+        baseText(text, style: .title2, weight: .bold)
     }
     
-    static func caption(_ text: String) -> Text {
-        Text(text)
-            .font(.system(.caption, design: .rounded))
-            .foregroundStyle(textSecondary)
+    static func headline(_ text: String) -> some View {
+        baseText(text, style: .headline, weight: .semibold)
+    }
+    
+    static func body(_ text: String) -> some View {
+        baseText(text, style: .body)
+    }
+    
+    static func subheadline(_ text: String) -> some View {
+        baseText(text, style: .subheadline, color: textSecondary)
+    }
+    
+    static func caption(_ text: String, weight: Font.Weight = .medium) -> some View {
+        baseText(text.uppercased(), style: .caption, weight: weight, color: textSecondary)
     }
 }
 
 // MARK: - View Modifiers
 
-struct MountainBackgroundModifier: ViewModifier {
+struct TrailBackgroundModifier: ViewModifier {
     func body(content: Content) -> some View {
         ZStack {
             Theme.background.ignoresSafeArea()
@@ -93,49 +87,50 @@ struct MountainBackgroundModifier: ViewModifier {
     }
 }
 
-struct MountainCardModifier: ViewModifier {
+struct TrailCardModifier: ViewModifier {
     func body(content: Content) -> some View {
         content
             .padding()
             .background(Theme.surface)
-            .clipShape(RoundedRectangle(cornerRadius: 16))
-            .shadow(color: Color.black.opacity(0.2), radius: 8, x: 0, y: 4)
+            .clipShape(RoundedRectangle(cornerRadius: 16, style: .continuous))
+            .shadow(color: Color.black.opacity(0.08), radius: 12, x: 0, y: 6)
     }
 }
 
-struct MountainButtonModifier: ViewModifier {
+struct TrailButtonModifier: ViewModifier {
     func body(content: Content) -> some View {
         content
-            .font(.system(.headline, design: .rounded))
-            .fontWeight(.bold)
+            .font(.system(.headline, design: .default, weight: .bold))
             .foregroundStyle(.white)
             .padding()
             .frame(maxWidth: .infinity)
             .background(Theme.primaryGradient)
-            .clipShape(RoundedRectangle(cornerRadius: 12))
-            .shadow(color: Theme.tint.opacity(0.3), radius: 8, x: 0, y: 4)
+            .clipShape(RoundedRectangle(cornerRadius: 14, style: .continuous))
+            .shadow(color: Theme.primary.opacity(0.3), radius: 8, x: 0, y: 4)
     }
 }
 
 extension View {
-    /// Applies the standard Mountain Medicine background
-    func mountainBackground() -> some View {
-        modifier(MountainBackgroundModifier())
+    /// Applies the TrailTriage background styling.
+    func trailBackground() -> some View {
+        modifier(TrailBackgroundModifier())
     }
     
-    /// Styles the view as a standard card
-    func mountainCard() -> some View {
-        modifier(MountainCardModifier())
+    /// Styles the view as a standard card.
+    func trailCard() -> some View {
+        modifier(TrailCardModifier())
     }
     
-    /// Styles the view as a primary action button
-    func mountainButton() -> some View {
-        modifier(MountainButtonModifier())
+    /// Styles the view as a branded primary button.
+    func trailButton() -> some View {
+        modifier(TrailButtonModifier())
     }
     
-    /// Applies the brand font style
+    /// Applies the brand font style with optional weight.
     func brandFont(_ style: Font.TextStyle, weight: Font.Weight = .regular) -> some View {
-        self.font(.system(style, design: .rounded).weight(weight))
+        self.font(.system(style, design: .default, weight: weight))
+            .lineSpacing(4)
+            .kerning(0.2)
+            .multilineTextAlignment(.leading)
     }
 }
-

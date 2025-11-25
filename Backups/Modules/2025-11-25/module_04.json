@@ -1,0 +1,111 @@
+{
+  "moduleTitle": "Patient Assessment",
+  "moduleSubtitle": "Scene Size-Up, ABCDEG, SOAP",
+  "category": "assessment",
+  "orderIndex": 4,
+  "pageImageNames": [
+    "IMG_Ch4_01.JPG",
+    "IMG_Ch4_02.JPG",
+    "IMG_Ch4_03.JPG",
+    "IMG_Ch4_04.JPG",
+    "IMG_Ch4_05.JPG",
+    "IMG_Ch4_06.JPG",
+    "IMG_Ch4_07.JPG",
+    "IMG_Ch4_08.JPG"
+  ],
+  "sections": [
+    {
+      "title": "Patient Assessment",
+      "subtitle": "",
+      "orderIndex": 1,
+      "content": [
+        {"type": "heading", "content": "CHAPTER 4", "orderIndex": 1},
+        {"type": "heading", "content": "PATIENT ASSESSMENT", "orderIndex": 2},
+        {"type": "subheading", "content": "Patient Assessment Overview", "orderIndex": 3},
+        {"type": "paragraph", "content": "Patient Assessment is an organized process for gathering concise and accurate information about a patient. It consists of four components. This patient assessment model is the standard in pre-hospital care. Follow steps 1–4 in order.", "orderIndex": 4},
+        {"type": "numberedList", "content": "Assessment Steps", "items": ["1. Scene Size-Up","2. Primary Assessment","3. Secondary Assessment","4. Reassessment"], "orderIndex": 5},
+        {"type": "paragraph", "content": "Standard Precautions is part of Scene Size-Up and is designed to protect rescuers and patients from becoming infected with blood-borne pathogens as well as viruses and bacteria through contact and droplet transmission.", "orderIndex": 6},
+        {"type": "paragraph", "content": "Hand hygiene (e.g., hand washing or hand sanitizer) is the most effective precaution easily implemented in the backcountry to prevent transmission of a range of infections from the common cold to more serious ones like the Norwalk virus or hepatitis A (HAV).", "orderIndex": 7},
+        {"type": "paragraph", "content": "Contact transmission occurs via skin-to-skin contact with an open wound and with items that an infected person has touched (e.g., methicillin-resistant Staphylococcus aureus (MRSA), herpes simplex virus (cold sores), conjunctivitis (pink eye), and hepatitis A (HAV)).", "orderIndex": 8},
+        {"type": "paragraph", "content": "Droplet transmission occurs when pathogens are transmitted through air droplets by coughing, sneezing, or talking (e.g., common cold, influenza, laryngitis, SARS-CoV2, and bacterial meningitis).", "orderIndex": 9},
+        {"type": "paragraph", "content": "Blood-borne transmission occurs when blood or body fluid from an infected person enters another person’s body via sex, needle-sticks, human bites, cuts, abrasions, or through mucous membranes (e.g., the human immunodeficiency virus (HIV), hepatitis B virus (HBV), and hepatitis C virus (HCV)).", "orderIndex": 10},
+        {"type": "subheading", "content": "Personal Protective Equipment (PPE) is the standard of care when treating patients in a wilderness setting:", "orderIndex": 11},
+        {"type": "numberedList", "content": "PPE", "items": ["1. Gloves: Required anytime there is contact with mucous membranes, non-intact skin, blood, or any other body fluids of patients...","2. Protective Surgical Masks: Required for rescuers and patients anytime a pathogen is transmittable via droplets.","3. CPR Mask (pocket mask): Required anytime CPR or rescue breathing is performed on patients to protect rescuers from body fluids.","4. Eye Protection: Glasses or sunglasses help protect against disease transmission from body fluids splashing into mucous membranes of the rescuer’s eyes via droplet transmission.","5. Clothing: In the event of significant blood splashes, as with major bleeding, protective clothing such as a rain jacket and rain pants can be used to avoid rescuer contamination."], "orderIndex": 12},
+        {"type": "subheading", "content": "Disposal of Contaminated Equipment and Waste", "orderIndex": 13},
+        {"type": "paragraph", "content": "Contaminated clothing, gear and waste should be isolated in a designated, non-permeable bag. Used needles, referred to as “sharps,” should be sealed in a hard container that will inhibit the sharp end of the needle from poking out and potentially contaminating another person.", "orderIndex": 14}
+      ]
+    },
+    {
+      "title": "Scene Size-Up • Primary • Secondary • Reassessment",
+      "subtitle": "",
+      "orderIndex": 2,
+      "content": [
+        {"type": "subheading", "content": "1. SCENE SIZE-UP", "orderIndex": 1},
+        {"type": "table", "tableData": {"headers": ["", ""], "rows": [["Scene Safety", "Standard Precautions"],["Mechanism of Injury (MOI)", "Nature of Illness (NOI)"],["Number of Patients", "Resources Needed"]]}, "orderIndex": 2},
+        {"type": "subheading", "content": "2. PRIMARY ASSESSMENT", "orderIndex": 3},
+        {"type": "paragraph", "content": "Find LIFE THREATS, STOP and FIX", "orderIndex": 4},
+        {"type": "table", "tableData": {"headers": ["A","B","C","D","E","G"], "rows": [["Airway","Breathing","Circulation","Disability","Expose & Environment","Glucose"],["Clear and Open Airway (Jaw Thrust or Head-Tilt, Chin-Lift)","Positive Pressure Ventilation (PPV)","Control Blood Loss","Spine Precautions","Remove/cut Clothing to Reveal Injuries","Give Sugar Orally"],["Advanced Airway (OPA-NPA-King)","Occlusive Dressing","Check Pulses (Carotid & Radial)","AVPU","Cover Patient Up","(If unresponsive, give when patient is laying on their side.)"],["","Stabilize Flail Chest","Perfusion (Treat for Shock)","","",""]]}, "orderIndex": 5},
+        {"type": "subheading", "content": "TRANSPORT DECISION", "orderIndex": 6},
+        {"type": "paragraph", "content": "Determine Patient Priority: High/Med/Low Trauma or Medical? Stable or Critical?", "orderIndex": 7},
+        {"type": "subheading", "content": "3. SECONDARY ASSESSMENT", "orderIndex": 8},
+        {"type": "table", "tableData": {"headers": ["Baseline Vitals","History","Physical Exam"], "rows": [["Heart Rate","Respiration Rate","Blood Pressure","Level Of Responsiveness","Skin Color/Temperature/Moisture","Circulation/Sensory/Motor","Pupils Equal/Round/Reactive to Light"],["SAMPLE","OPQRST (1st STEP)","Detailed Head-to-Toe Exam or Focused Exam"]]}, "orderIndex": 9},
+        {"type": "subheading", "content": "4. REASSESSMENT", "orderIndex": 10},
+        {"type": "table", "tableData": {"headers": ["REEVALUATE","DOCUMENT"], "rows": [["• Chief Complaint","• Primary Assessment","• Vitals","• Interventions","RECORD On Athletic Tape","WRITE OUT SOAP Note","TRANSFER TO Incident Report Form"],["REEVALUATE","• Chief Complaint: Has it changed? If so, how?","• Primary Assessment: Find something new?","• Vitals: Is there a trend? What does it mean?","• Interventions: Are splints, bandages, and/or medications still working for the patient?"]] }, "orderIndex": 11},
+        {"type": "subheading", "content": "HOW TO CALL FOR A RESCUE", "orderIndex": 12},
+        {"type": "paragraph", "content": "CRITICAL INFORMATION to relay when communicating via radio, cell or SAT phone:", "orderIndex": 13},
+        {"type": "numberedList", "content": "Rescue Steps", "items": ["1. Name and/or organization","2. Coordinates, mile marker on river, or area on topo map","3. Stable or Critical MEDICAL? cc: ________________________","Stable or Critical TRAUMA? cc: ________________________","4. We need a rescue, DO YOU COPY?"], "orderIndex": 14},
+        {"type": "subheading", "content": "PATIENT REPORT", "orderIndex": 15},
+        {"type": "bulletList", "content": "Patient Report", "items": ["• Our phone number is:","• I have a __ year old M/F who… (briefly describe the MOI/NOI).","• Patient’s chief complaint is:","• Patient’s last set of pertinent vitals are:","• Requesting a helicopter or SAR foot-crew at our location"], "orderIndex": 16}
+      ]
+    },
+    {
+      "title": "Baseline Vitals • History • SOAP",
+      "subtitle": "",
+      "orderIndex": 3,
+      "content": [
+        {"type": "subheading", "content": "BASELINE VITALS", "orderIndex": 1},
+        {"type": "table", "tableData": {"headers": ["Vital Sign","Normal Values","Assessment Tips"], "rows": [["Heart Rate (HR)","60-100 bpm","HR = # of beats in 15 sec. × 4"],["Respiration Rate (RR)","12-20 breaths/min","RR = # of chest rises in 15 sec. × 4"],["Blood Pressure (BP)","","Assess strength of radial pulse"],["Level Of Responsiveness (LOR)","A (Alert & Oriented) × 4","Using the AVPU scale"],["Skin Color • Temperature • Moisture (SCTM)","","Pink/Perfusion, Pale/Gray, Blue/Cyanosis, Red/Flushed, Yellow/Jaundice"],["Circulation • Sensory • Motor (CSM)","Normal: CSM × 4 extremities","Assess distal pulses and capillary refill"],["Pupils Equal Round Reactive to Light (PERRL)","",""]] }, "orderIndex": 2},
+        {"type": "subheading", "content": "SECONDARY ASSESSMENT – HISTORY", "orderIndex": 3},
+        {"type": "paragraph", "content": "SAMPLE (Always ask about history)", "orderIndex": 4},
+        {"type": "bulletList", "content": "SAMPLE", "items": ["Signs & Symptoms (S/Sx)","Allergies","Medications","Pre-Existing Conditions","Last Ins & Outs","Events Prior"], "orderIndex": 5},
+        {"type": "paragraph", "content": "OPQRST (Ask when confused about pain)", "orderIndex": 6},
+        {"type": "bulletList", "content": "OPQRST", "items": ["Onset","Provoke","Quality","Radiate","Severity","Time/Treatments"], "orderIndex": 7},
+        {"type": "paragraph", "content": "1ST STEP (Ask when confused about LOR)", "orderIndex": 8},
+        {"type": "bulletList", "content": "1ST STEP", "items": ["Sugar","Temperature","Salt","Toxins","Electricity/Elevation","Pressure"], "orderIndex": 9},
+        {"type": "subheading", "content": "SOAP NOTES", "orderIndex": 10},
+        {"type": "table", "tableData": {"headers": ["S Subjective","O Objective","A Assessment","A Anticipated worst case scenario","P Plan"], "rows": [["Name/Age","Pronouns","Time/Date","Chief complaint (CC):","S/sx","Allergies","Medications","Pre existing conditions","Last ins/outs","Events prior"],["Vitals","Time","Time","Time","HR","RR","BP","LOR","SCTM","CSM","PERRL"],["","","","","","","","","",""],["","","","","","","","","",""],["(Tx):","","","","","","","","",""]] }, "orderIndex": 11}
+      ]
+    },
+    {
+      "title": "Assessment Triangle & Objectives",
+      "subtitle": "",
+      "orderIndex": 4,
+      "content": [
+        {"type": "subheading", "content": "Patient Assessment Triangle", "orderIndex": 1},
+        {"type": "paragraph", "content": "Nature of Illness (NOI) Medical & Environmental", "orderIndex": 2},
+        {"type": "paragraph", "content": "Mechanism of Injury (MOI) Trauma", "orderIndex": 3},
+        {"type": "subheading", "content": "Learning Objectives", "orderIndex": 4},
+        {"type": "paragraph", "content": "Understand the four sections of patient assessment and apply the model to all medical and trauma patients.", "orderIndex": 5},
+        {"type": "numberedList", "content": "Learning Objectives", "items": ["1. Understand why Scene Size-Up is so important for the safety of the rescuers, the group and the injured person(s).","2. Identify the common life threats for ABCDEG within the Primary Assessment.","3. Identify if the patient is critical or stable based on their injuries upon completion of the Primary Assessment.","4. Make an informed transport/evacuation decision after the Primary Assessment.","5. Obtain a solid patient history.","6. Demonstrate a detailed head-to-toe exam.","7. Be proficient in taking all 7 vitals.","8. Properly document a SOAP note.","9. Demonstrate how to efficiently and effectively call in a patient report."], "orderIndex": 6},
+        {"type": "subheading", "content": "Skills Demonstrated", "orderIndex": 7},
+        {"type": "bulletList", "content": "Skills Demonstrated", "items": ["Demonstrate a complete patient assessment."], "orderIndex": 8}
+      ]
+    }
+  ],
+  "imageInventory": [
+    {"pageImage": "IMG_Ch4_01.JPG", "pageNumber": 18, "description": "Large mountain illustration with heartbeat line at bottom", "type": "illustration", "section": "Patient Assessment", "purpose": "Chapter opener"},
+    {"pageImage": "IMG_Ch4_03.JPG", "pageNumber": 20, "description": "Full-color Patient Assessment Overview flowchart (red-yellow-green-gray sections)", "type": "flowchart", "section": "Patient Assessment Overview", "purpose": "Educational process diagram"},
+    {"pageImage": "IMG_Ch4_05.JPG", "pageNumber": 22, "description": "Green Secondary Assessment diagram with SAMPLE and OPQRST boxes", "type": "diagram", "section": "Secondary Assessment – History", "purpose": "Educational"},
+    {"pageImage": "IMG_Ch4_06.JPG", "pageNumber": 26, "description": "Large Patient Assessment Triangle diagram with color-coded layers and arrows pointing to EVAC?", "type": "diagram", "section": "Patient Assessment Triangle", "purpose": "Core educational model"},
+    {"pageImage": "IMG_Ch4_07.JPG", "pageNumber": 25, "description": "Full SOAP Notes template table", "type": "table", "section": "SOAP Notes", "purpose": "Documentation reference"},
+    {"pageImage": "IMG_Ch4_04.JPG", "pageNumber": 21, "description": "Detailed Baseline Vitals illustrations (HR, RR, BP, LOR, SCTM, CSM, PERRL)", "type": "anatomical_diagram", "section": "Baseline Vitals", "purpose": "Educational"}
+  ],
+  "specialContent": {
+    "scenarios": [],
+    "locationReferences": [],
+    "brandNames": [],
+    "terminologyUpdates": [
+      "Note: Some older texts use SOAP → current standard is often SBAR or similar in professional settings, but this book retains SOAP"
+    ]
+  }
+}

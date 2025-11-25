@@ -13,6 +13,7 @@ import AuthenticationServices
 import CoreLocation
 import StoreKit
 import UserNotifications
+import UIKit
 
 // MARK: - Onboarding Step Enum
 enum OnboardingStep: Int, CaseIterable, Sendable {
@@ -478,16 +479,11 @@ struct SignInStepView: View {
                 .frame(height: 50)
                 .cornerRadius(12)
                 
-                // Skip for now option
-                Button(action: {
-                    // Set a temporary ID to allow continuing
-                    coordinator.userID = "temp_\(UUID().uuidString)"
-                    coordinator.nextStep()
-                }) {
-                    Text("Skip for Now")
-                        .font(.subheadline)
-                        .foregroundStyle(.secondary)
-                }
+                Text("Sign in with Apple is required to enable encrypted sync and recovery.")
+                    .font(.footnote)
+                    .foregroundStyle(.secondary)
+                    .multilineTextAlignment(.center)
+                    .padding(.horizontal)
             }
             .padding(.horizontal, 40)
             .padding(.bottom, 40)
@@ -548,9 +544,9 @@ struct SignInStepView: View {
                 
                 1. Enable 'Sign in with Apple' capability in Xcode
                 2. Ensure you're signed into an Apple ID in Settings
-                3. For now, tap 'Skip for Now' to continue
+                3. This step is required to finish onboarding
                 
-                This works automatically in production builds.
+                Sign in works automatically in production builds once configured.
                 """
                 showError = true
             } else {
@@ -718,6 +714,8 @@ private struct ProfileTextField: View {
 // MARK: - Step 4: Permissions
 struct PermissionsStepView: View {
     @Bindable var coordinator: OnboardingCoordinator
+    @Environment(AppSettings.self) private var settings
+    @Environment(\.openURL) private var openURL
     @State private var locationHelper = LocationPermissionHelper()
     @State private var notificationStatus: PermissionStatus = .notDetermined
     @State private var iCloudStatus: String = "Checking..."
@@ -766,9 +764,10 @@ struct PermissionsStepView: View {
                     title: "Location Access",
                     description: "Add GPS coordinates to incident locations",
                     status: locationHelper.status.displayText,
-                    action: {
+                    action: action(for: locationHelper.status) {
                         locationHelper.requestPermission()
-                    }
+                    },
+                    buttonTitle: buttonTitle(for: locationHelper.status)
                 )
                 
                 // Notifications Permission
@@ -777,9 +776,10 @@ struct PermissionsStepView: View {
                     title: "Notifications",
                     description: "Get reminders for vital sign checks and updates",
                     status: notificationStatus.displayText,
-                    action: {
+                    action: action(for: notificationStatus) {
                         requestNotificationPermission()
-                    }
+                    },
+                    buttonTitle: buttonTitle(for: notificationStatus)
                 )
                 
                 // iCloud Status
@@ -787,8 +787,7 @@ struct PermissionsStepView: View {
                     icon: "icloud.fill",
                     title: "iCloud Sync",
                     description: "Backup and sync notes across devices",
-                    status: iCloudStatus,
-                    action: nil // iCloud can't be requested, just checked
+                    status: iCloudStatus
                 )
             }
             .padding(.horizontal, 40)
@@ -819,12 +818,11 @@ struct PermissionsStepView: View {
         }
         .padding()
         .onAppear {
+            syncLocationState(locationHelper.status)
             checkStatuses()
         }
         .onChange(of: locationHelper.status) { _, newStatus in
-            if newStatus == .authorized {
-                coordinator.hasLocationPermission = true
-            }
+            syncLocationState(newStatus)
         }
         }
     }
@@ -838,17 +836,21 @@ struct PermissionsStepView: View {
             let settings = await center.notificationSettings()
             
             await MainActor.run {
+                let resolvedStatus: PermissionStatus
+                
                 switch settings.authorizationStatus {
                 case .notDetermined:
-                    notificationStatus = .notDetermined
+                    resolvedStatus = .notDetermined
                 case .authorized, .provisional, .ephemeral:
-                    coordinator.hasNotificationPermission = true
-                    notificationStatus = .authorized
+                    resolvedStatus = .authorized
                 case .denied:
-                    notificationStatus = .denied
+                    resolvedStatus = .denied
                 @unknown default:
-                    notificationStatus = .denied
+                    resolvedStatus = .denied
                 }
+                
+                notificationStatus = resolvedStatus
+                syncNotificationState(resolvedStatus)
             }
         }
         
@@ -872,19 +874,55 @@ struct PermissionsStepView: View {
             do {
                 let granted = try await center.requestAuthorization(options: [.alert, .badge, .sound])
                 await MainActor.run {
-                    if granted {
-                        coordinator.hasNotificationPermission = true
-                        notificationStatus = .authorized
-                    } else {
-                        notificationStatus = .denied
-                    }
+                    notificationStatus = granted ? .authorized : .denied
+                    syncNotificationState(notificationStatus)
                 }
             } catch {
                 await MainActor.run {
                     notificationStatus = .denied
+                    syncNotificationState(.denied)
                 }
             }
         }
+    }
+    
+    private func action(for status: PermissionStatus, enableAction: @escaping () -> Void) -> (() -> Void)? {
+        switch status {
+        case .authorized:
+            return nil
+        case .notDetermined:
+            return enableAction
+        case .denied:
+            return openAppSettings
+        }
+    }
+    
+    private func buttonTitle(for status: PermissionStatus) -> String? {
+        switch status {
+        case .authorized:
+            return nil
+        case .notDetermined:
+            return "Enable"
+        case .denied:
+            return "Open Settings"
+        }
+    }
+    
+    private func openAppSettings() {
+        guard let url = URL(string: UIApplication.openSettingsURLString) else { return }
+        openURL(url)
+    }
+    
+    private func syncLocationState(_ status: PermissionStatus) {
+        let granted = status == .authorized
+        coordinator.hasLocationPermission = granted
+        settings.captureGPSLocation = granted
+    }
+    
+    private func syncNotificationState(_ status: PermissionStatus) {
+        let granted = status == .authorized
+        coordinator.hasNotificationPermission = granted
+        settings.notificationsEnabled = granted
     }
 }
 
@@ -932,6 +970,23 @@ struct PermissionRow: View {
     let description: String
     let status: String
     let action: (() -> Void)?
+    let buttonTitle: String?
+    
+    init(
+        icon: String,
+        title: String,
+        description: String,
+        status: String,
+        action: (() -> Void)? = nil,
+        buttonTitle: String? = nil
+    ) {
+        self.icon = icon
+        self.title = title
+        self.description = description
+        self.status = status
+        self.action = action
+        self.buttonTitle = buttonTitle
+    }
     
     var body: some View {
         HStack(spacing: 16) {
@@ -957,11 +1012,11 @@ struct PermissionRow: View {
             
             Spacer()
             
-            if let action = action, !status.contains("✓") {
+            if let action = action, let buttonTitle = buttonTitle {
                 Button {
                     action()
                 } label: {
-                    Text("Enable")
+                    Text(buttonTitle)
                         .font(.caption.bold())
                         .foregroundStyle(.white)
                         .padding(.horizontal, 14)

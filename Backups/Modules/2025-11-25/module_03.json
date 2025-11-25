@@ -1,0 +1,93 @@
+{
+  "moduleTitle": "Simple Anatomy & Physiology",
+  "moduleSubtitle": "Cardiopulmonary & Skeletal Systems",
+  "category": "general",
+  "orderIndex": 3,
+  "pageImageNames": [
+    "IMG_Ch3_01.JPG",
+    "IMG_Ch3_02.JPG",
+    "IMG_Ch3_03.JPG",
+    "IMG_Ch3_04.JPG"
+  ],
+  "sections": [
+    {
+      "title": "Simple Anatomy & Physiology",
+      "subtitle": "Cardiopulmonary System • Skeletal System",
+      "orderIndex": 1,
+      "content": [
+        {"type": "heading", "content": "CHAPTER 3", "orderIndex": 1},
+        {"type": "heading", "content": "SIMPLE ANATOMY & PHYSIOLOGY", "orderIndex": 2},
+        {"type": "subheading", "content": "Cardiopulmonary System", "orderIndex": 3},
+        {"type": "paragraph", "content": "Vena Cava: the largest vein in the body that returns unoxygenated blood back from the capillaries to the right atrium.", "orderIndex": 4},
+        {"type": "paragraph", "content": "Aorta: the largest artery in the body that exits the left ventricle and carries oxygenated blood to the capillaries.", "orderIndex": 5},
+        {"type": "paragraph", "content": "Capillaries: A braided system of microscopic vessels (arterioles and venules) where perfusion occurs.", "orderIndex": 6},
+        {"type": "paragraph", "content": "Perfusion = exchange of O₂ for CO₂ at the cellular level.", "orderIndex": 7},
+        {"type": "paragraph", "content": "* The left ventricle is the strongest compartment of the heart, and is more prone to infarction.", "orderIndex": 8},
+        {"type": "paragraph", "content": "Infarction = heart attack.", "orderIndex": 9},
+        {"type": "subheading", "content": "Learning Objectives", "orderIndex": 10},
+        {"type": "paragraph", "content": "Understand the general concept of the cardiopulmonary system.", "orderIndex": 11},
+        {"type": "numberedList", "content": "Cardiopulmonary Objectives", "items": [
+          "1. The components of blood and their function (WBCs, hemoglobin as part of the RBC, platelets, plasma).",
+          "2. The job of RBCs as the vehicle for oxygen transport.",
+          "3. Perfusion as the exchange of oxygen and carbon dioxide at the cellular level via the capillary beds.",
+          "4. The flow and direction of the circulatory system, as well as the major names of its components labeled in the cardiopulmonary diagram."
+        ], "orderIndex": 12},
+        {"type": "subheading", "content": "Skills Demonstrated", "orderIndex": 13},
+        {"type": "bulletList", "content": "Cardiopulmonary Skills", "items": [
+          "Teach the cardiopulmonary system to another person in class."
+        ], "orderIndex": 14},
+        {"type": "subheading", "content": "Learning Objectives", "orderIndex": 15},
+        {"type": "paragraph", "content": "Know how to identify the bones within the Skeletal System.", "orderIndex": 16},
+        {"type": "numberedList", "content": "Skeletal Objectives", "items": [
+          "1. Locate and name the major bones of the skeletal system and professionally relay the information in a patient report."
+        ], "orderIndex": 17},
+        {"type": "subheading", "content": "Skills Demonstrated", "orderIndex": 18},
+        {"type": "bulletList", "content": "Skeletal Skills", "items": [
+          "Name the bone that is splinted.",
+          "Use correct bone names when calling in a patient report."
+        ], "orderIndex": 19},
+        {"type": "note", "content": "Notes:", "orderIndex": 20}
+      ]
+    }
+  ],
+  "imageInventory": [
+    {
+      "pageImage": "IMG_Ch3_01.JPG",
+      "pageNumber": 14,
+      "description": "Large teal stylized mountain illustration spanning most of the page",
+      "type": "illustration",
+      "section": "Simple Anatomy & Physiology",
+      "purpose": "Chapter opener decorative art"
+    },
+    {
+      "pageImage": "IMG_Ch3_01.JPG",
+      "pageNumber": 14,
+      "description": "Heartbeat/ECG line graphic running along the bottom of the page",
+      "type": "illustration",
+      "section": "Simple Anatomy & Physiology",
+      "purpose": "Thematic decorative element"
+    },
+    {
+      "pageImage": "IMG_Ch3_02.JPG",
+      "pageNumber": 15,
+      "description": "Full-color labeled diagram of the cardiopulmonary system showing heart chambers, lungs, pulmonary artery/vein, aorta, vena cava, capillaries, and direction of blood flow (blue = deoxygenated, red = oxygenated)",
+      "type": "anatomical_diagram",
+      "section": "Cardiopulmonary System",
+      "purpose": "Educational illustration of circulation and gas exchange"
+    },
+    {
+      "pageImage": "IMG_Ch3_04.JPG",
+      "pageNumber": 17,
+      "description": "Full-page black-line anatomical diagram of the human skeleton (anterior and posterior views) with labels for major bones: Clavicle, Cranium, Xyphoid Process, Sternum, Scapula, Humerus, Ribs, Vertebrae, Pelvis, Sacrum, Iliac Crest, Ulna, Radius, Carpals, Metacarpals, Phalanges, Femur, Patella, Tibia, Fibula, Calcaneus, Tarsals, Metatarsals, Phalanges",
+      "type": "anatomical_diagram",
+      "section": "Skeletal System",
+      "purpose": "Educational reference for bone identification"
+    }
+  ],
+  "specialContent": {
+    "scenarios": [],
+    "locationReferences": [],
+    "brandNames": [],
+    "terminologyUpdates": []
+  }
+}

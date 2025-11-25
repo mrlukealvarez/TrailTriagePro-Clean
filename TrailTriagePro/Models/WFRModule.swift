@@ -25,6 +25,7 @@ final class WFRModule {
     var orderIndex: Int
     var isBookmarked: Bool
     var location: String? // Randomized park location for scenarios
+    var pageImageNames: [String]? // Scanned page asset names
     
     init(
         id: UUID = UUID(),
@@ -36,7 +37,8 @@ final class WFRModule {
         sections: [WFRModuleSection] = [],
         orderIndex: Int,
         isBookmarked: Bool = false,
-        location: String? = nil
+        location: String? = nil,
+        pageImageNames: [String]? = []
     ) {
         self.id = id
         self.moduleTitle = moduleTitle
@@ -48,6 +50,7 @@ final class WFRModule {
         self.orderIndex = orderIndex
         self.isBookmarked = isBookmarked
         self.location = location
+        self.pageImageNames = pageImageNames
     }
 }
 
@@ -138,6 +141,7 @@ final class WFRModuleContentBlock {
     var orderIndex: Int
     var metadata: String? // For table data, list items JSON, etc.
     var location: String? // Randomized park location for scenarios
+    var pageImageNames: [String]? // Scanned page asset names
     
     init(
         id: UUID = UUID(),
@@ -145,7 +149,8 @@ final class WFRModuleContentBlock {
         content: String,
         orderIndex: Int,
         metadata: String? = nil,
-        location: String? = nil
+        location: String? = nil,
+        pageImageNames: [String]? = []
     ) {
         self.id = id
         self.type = type
@@ -153,6 +158,7 @@ final class WFRModuleContentBlock {
         self.orderIndex = orderIndex
         self.metadata = metadata
         self.location = location
+        self.pageImageNames = pageImageNames
     }
 }
 
@@ -170,5 +176,16 @@ enum ModuleContentBlockType: String, Codable {
     case definition
     case example
     case scenario // WFR scenarios with randomized locations
+    case heroImage
+    case keyFacts
+    case interactiveDiagram
+    case keyCard
+    case abcdegFlow
+    case vitalsPanel
+    case soapNoteForm
+    case cabFlowchart
+    case numberedSteps
+    case algorithm
+    case incidentCard
 }
 

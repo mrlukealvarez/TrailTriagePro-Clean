@@ -1,0 +1,235 @@
+{
+  "moduleTitle": "Basic Life Support",
+  "moduleSubtitle": "CPR, Choking, AED, Airway Adjuncts",
+  "category": "assessment",
+  "orderIndex": 5,
+  "pageImageNames": [
+    "IMG_Ch5_01.JPG",
+    "IMG_Ch5_02.JPG",
+    "IMG_Ch5_03.JPG",
+    "IMG_Ch5_04.JPG",
+    "IMG_Ch5_05.JPG",
+    "IMG_Ch5_06.JPG",
+    "IMG_Ch5_07.JPG",
+    "IMG_Ch5_08.JPG"
+  ],
+  "sections": [
+    {
+      "title": "Basic Life Support",
+      "subtitle": "Cardiopulmonary Resuscitation (CPR)",
+      "orderIndex": 1,
+      "content": [
+        {"type": "heading", "content": "CHAPTER 5", "orderIndex": 1},
+        {"type": "heading", "content": "BASIC LIFE SUPPORT", "orderIndex": 2},
+        {"type": "subheading", "content": "Cardiopulmonary Resuscitation (CPR)", "orderIndex": 3},
+        {"type": "subheading", "content": "What is CPR?", "orderIndex": 4},
+        {"type": "paragraph", "content": "CPR consists of pushing on the chest (compressions) and providing positive pressure ventilations (breaths) to circulate oxygenated blood to all vital organs, including the brain.", "orderIndex": 5},
+        {"type": "subheading", "content": "When should it be started?", "orderIndex": 6},
+        {"type": "paragraph", "content": "When there are no signs of life. In addition to a palpable pulse, signs of life include chest rise, movement of any kind, and good skin color (pink skin or mucous membranes). If you witness a collapse and notice unresponsiveness, and you're in an urban setting, activate the EMS system (call 911) and use an AED, if available, before beginning compressions.", "orderIndex": 7},
+        {"type": "subheading", "content": "When should CPR be stopped in an urban setting?", "orderIndex": 8},
+        {"type": "bulletList", "content": "Urban CPR Stop Conditions", "items": [
+          "When someone relieves you that is trained in CPR",
+          "An EMS professional relieves you",
+          "If you are exhausted",
+          "If you are in danger (e.g., environmental factors, traffic, violent bystanders etc…)",
+          "If you resuscitate the person",
+          "When an authorized medical professional declares the person dead"
+        ], "orderIndex": 9},
+        {"type": "subheading", "content": "When should CPR be stopped in a wilderness setting?", "orderIndex": 10},
+        {"type": "bulletList", "content": "Wilderness CPR Stop Conditions", "items": [
+          "Same as for urban CPR with the addition of a wilderness guideline (below)"
+        ], "orderIndex": 11},
+        {"type": "subheading", "content": "When should CPR not be initiated in a wilderness setting?", "orderIndex": 12},
+        {"type": "bulletList", "content": "Wilderness CPR Do Not Start", "items": [
+          "Obvious danger to rescuers",
+          "Dependent lividity",
+          "Rigor mortis",
+          "An official written Do Not Resuscitate (DNR) document"
+        ], "orderIndex": 13},
+        {"type": "subheading", "content": "LOOK FOR SIGNS OF LIFE", "orderIndex": 14},
+        {"type": "bulletList", "content": "Signs of Life", "items": [
+          "Palpable carotid pulse, good skin color, moaning, chest rise, or movement",
+          "If no signs of life are present after checking for a carotid pulse (10 seconds for normothermic and 60 seconds for severely hypothermic patients)"
+        ], "orderIndex": 15},
+        {"type": "note", "content": "Note: When there is a suspicion of asphyxia (e.g., avalanche burial, drowning, or CO & CO₂ poisoning) give 5 breaths to oxygenate the patient before rescue breathing and/or CPR.", "orderIndex": 16},
+        {"type": "subheading", "content": "Wilderness Medicine Guidelines", "orderIndex": 17},
+        {"type": "paragraph", "content": "Rescuers can:", "orderIndex": 18},
+        {"type": "bulletList", "content": "Wilderness Guidelines", "items": [
+          "Stop CPR on a normothermic patient when advanced life support (ALS) cannot respond promptly (within approximately 30 minutes).",
+          "Continue CPR on a severely hypothermic patient until definitive care, when resources allow"
+        ], "orderIndex": 19}
+      ]
+    },
+    {
+      "title": "CPR Overview • Summary • Resuscitation",
+      "subtitle": "",
+      "orderIndex": 2,
+      "content": [
+        {"type": "subheading", "content": "CPR – Overview", "orderIndex": 1},
+        {"type": "paragraph", "content": "NO PULSE → C-A-B", "orderIndex": 2},
+        {"type": "paragraph", "content": "PULSE → A-B-C", "orderIndex": 3},
+        {"type": "subheading", "content": "Circulation", "orderIndex": 4},
+        {"type": "bulletList", "content": "Compressions", "items": [
+          "Start compressions",
+          "Fast and hard",
+          "Allow for total chest recoil",
+          "Rate of 100-120/minute"
+        ], "orderIndex": 5},
+        {"type": "subheading", "content": "Airway", "orderIndex": 6},
+        {"type": "paragraph", "content": "Open Airway using:", "orderIndex": 7},
+        {"type": "bulletList", "content": "Airway Techniques", "items": [
+          "Head-tilt, chin-lift",
+          "Jaw thrust"
+        ], "orderIndex": 8},
+        {"type": "subheading", "content": "Breathing", "orderIndex": 9},
+        {"type": "paragraph", "content": "NO Breathing or INADEQUATE Breathing = RESCUE BREATHING", "orderIndex": 10},
+        {"type": "bulletList", "content": "Rescue Breathing", "items": [
+          "< 8/min or > 30/min and shallow",
+          "1 breath every 6 seconds",
+          "Give effective breaths to make chest rise",
+          "Avoid excessive ventilations"
+        ], "orderIndex": 11},
+        {"type": "paragraph", "content": "Continue primary assessment", "orderIndex": 12},
+        {"type": "subheading", "content": "Summary of CPR", "orderIndex": 13},
+        {"type": "table", "tableData": {
+          "headers": ["Summary of CPR", "Adult", "Child (1 to puberty)", "Infant (< 1 years old)"],
+          "rows": [
+            ["Compression location", "Lower half of the sternum", "Lower half of the sternum", "1 finger width below the nipple line"],
+            ["Compressions", "2 hands", "1 or 2 hands", "2 fingers"],
+            ["Compression depth", "2 in.", "2 in.", "1.5 in."],
+            ["Compression rate", "100-120/min.", "100-120/min.", "100-120/min."],
+            ["Compression-to-breath ratio", "30:2 with 1 or 2 rescuers", "30:2 with 1 rescuer 15:2 with 2 rescuers", "30:2 with 1 rescuer 15:2 with 2 rescuers"],
+            ["Rescue breathing", "1 breath every 6 sec.", "1 breath every 2-3 sec.", "1 breath every 2-3 sec."],
+            ["Breathing rate", "10/min", "20-30/min", "20-30/min"]
+          ]
+        }, "orderIndex": 14}
+      ]
+    },
+    {
+      "title": "Choking • AED • Airway Adjuncts",
+      "subtitle": "",
+      "orderIndex": 3,
+      "content": [
+        {"type": "subheading", "content": "Choking – Conscious Adult & Child", "orderIndex": 1},
+        {"type": "numberedList", "content": "Conscious Choking", "items": [
+          "1. Ask the person if they are choking.",
+          "2. If yes:",
+          "• Stand behind the conscious person and wrap your arms around their waist, under their rib cage.",
+          "• Put the side of your fist (thumb side) one finger-width above the person's navel in the middle of their belly. Do not press on the lower part of the sternum.",
+          "• With your other hand, grasp the fist and pull the clenched fist sharply and directly backward and upward under the rib cage 6 to 10 times quickly, (in a \"J\" motion).",
+          "• Continue performing these thrusts until the obstruction is relieved or until the person becomes unresponsive."
+        ], "orderIndex": 2},
+        {"type": "subheading", "content": "Choking – Unresponsive Adult & Child", "orderIndex": 3},
+        {"type": "paragraph", "content": "When a person becomes unresponsive call 911. If you are the only rescuer with a child, attempt to dislodge the object, and then call 911.", "orderIndex": 4},
+        {"type": "numberedList", "content": "Unresponsive Choking", "items": [
+          "1. Open airway — remove object if you can see it.",
+          "2. (No abdominal thrusts!) Start CPR with this extra step—each time you open the airway look for object in the back of the throat. Remove object if visible. If not, continue CPR.",
+          "3. Once dislodged — CAB!"
+        ], "orderIndex": 5},
+        {"type": "subheading", "content": "Choking – Conscious Infant", "orderIndex": 6},
+        {"type": "numberedList", "content": "Conscious Infant Choking", "items": [
+          "1. Perform 5 back slaps and 5 chest thrusts until object is dislodged or infant becomes unresponsive."
+        ], "orderIndex": 7},
+        {"type": "subheading", "content": "Choking – Unresponsive Infant", "orderIndex": 8},
+        {"type": "paragraph", "content": "If you are the only rescuer with a child, attempt to dislodge object for about 2 minutes, then call 911.", "orderIndex": 9},
+        {"type": "numberedList", "content": "Unresponsive Infant Choking", "items": [
+          "1. Place infant on flat surface",
+          "2. Open airway — remove object if you can see it.",
+          "3. Start CPR with one extra step — each time you open the airway look for object in the back of the throat.",
+          "4. Once dislodged — CAB!"
+        ], "orderIndex": 10},
+        {"type": "subheading", "content": "Automated External Defibrillator (AED)", "orderIndex": 11},
+        {"type": "paragraph", "content": "An automated external defibrillator (AED) is a portable electronic device that automatically diagnoses life threatening cardiac arrhythmias in the heart. If needed, it can send an electric shock to the heart to try to restore a normal rhythm. AEDs are used to treat sudden cardiac arrest.", "orderIndex": 12},
+        {"type": "paragraph", "content": "The American Heart Association suggests that early defibrillation is critical for victims of sudden cardiac arrest for the following reasons:", "orderIndex": 13},
+        {"type": "numberedList", "content": "AED Importance", "items": [
+          "1. The most common initial rhythm during cardiac arrest is ventricular fibrillation (v-fib). In v-fib the heart quivers and does not pump blood. Another unsustainable rhythm is ventricular tachycardia (v-tach).",
+          "2. V-fib & v-tach deteriorate quickly into asystole (flat line) if not treated. AEDs are computerized devices that are attached to a pulseless adult or child with adhesive pads. The AED will analyze the heart rhythm and advise shock delivery for ventricular fibrillation or ventricular tachycardia only."
+        ], "orderIndex": 14},
+        {"type": "paragraph", "content": "In an urban environment, when a cardiac arrest is unwitnessed, perform 2 minutes of CPR prior to attaching the AED.", "orderIndex": 15},
+        {"type": "subheading", "content": "Steps Using an AED", "orderIndex": 16},
+        {"type": "numberedList", "content": "AED Steps", "items": [
+          "1. Power on the AED",
+          "2. Attach electrodes to victim's bare chest",
+          "3. Clear the victim (stop CPR) to let machine analyze",
+          "4. If shock is advised (start compressions until AED is done charging)",
+          "5. Stop compressions and clear victim from others before shocking",
+          "6. After the first shock, follow-up with 2 minutes of CPR",
+          "7. After subsequent shocks, continue CPR when indicated by an absent carotid pulse"
+        ], "orderIndex": 17},
+        {"type": "subheading", "content": "AED Considerations", "orderIndex": 18},
+        {"type": "bulletList", "content": "AED Considerations", "items": [
+          "Hairy chest",
+          "Medication patches (nitroglycerin)",
+          "Pacemaker",
+          "Wet chest (sweat or otherwise)",
+          "Children and infants"
+        ], "orderIndex": 19},
+        {"type": "subheading", "content": "Airway Adjuncts", "orderIndex": 20},
+        {"type": "paragraph", "content": "Airway adjuncts are usually a curved piece of plastic inserted in either the mouth (oro-) or the nose (naso-) to create an air passageway between the mouth and the posterior pharyngeal wall. They are useful when the tongue and/or epiglottis fall(s) back against the posterior pharynx in an unresponsive patient, obstructing the flow of air to the lungs.", "orderIndex": 21},
+        {"type": "paragraph", "content": "For the oropharyngeal (OPA), the preferred technique is to use a tongue blade to depress the tongue and then insert the airway posteriorly. An alternate technique is to insert the device sideways, starting at the corner of the mouth until you reach the soft palate. Be sure not to use the OPA to push the tongue backward and block, rather than clear, the airway. Once you feel a slight resistance rotate the OPA 90 degrees, and insert until the flange reaches the teeth.", "orderIndex": 22},
+        {"type": "paragraph", "content": "The nasopharyngeal (NPA) should be lubed with a water soluble lubricant or water before insertion. Next, using the right nostril, place the NPA with the bevel towards the septum and gently advance until the flange rests on the nostril.", "orderIndex": 23},
+        {"type": "subheading", "content": "ORAL PHARYNGEAL AIRWAY (OPA)", "orderIndex": 24},
+        {"type": "subheading", "content": "Who Gets OPAs", "orderIndex": 25},
+        {"type": "paragraph", "content": "Unresponsive patients who are breathing or require rescue breathing, and do not have an intact gag reflex", "orderIndex": 26},
+        {"type": "subheading", "content": "Sizing OPAs", "orderIndex": 27},
+        {"type": "paragraph", "content": "Measure from corner of mouth to corner of jaw", "orderIndex": 28},
+        {"type": "subheading", "content": "Contraindications", "orderIndex": 29},
+        {"type": "bulletList", "content": "OPA Contraindications", "items": [
+          "Conscious patients",
+          "Intact gag reflex"
+        ], "orderIndex": 30},
+        {"type": "subheading", "content": "NASO PHARYNGEAL AIRWAY (NPA)", "orderIndex": 31},
+        {"type": "subheading", "content": "Who Gets NPAs", "orderIndex": 32},
+        {"type": "paragraph", "content": "Unresponsive or semi-responsive patients with an intact gag reflex", "orderIndex": 33},
+        {"type": "subheading", "content": "Sizing NPAs", "orderIndex": 34},
+        {"type": "paragraph", "content": "Measure from septum to ear lobe", "orderIndex": 35},
+        {"type": "subheading", "content": "Contraindications", "orderIndex": 36},
+        {"type": "bulletList", "content": "NPA Contraindications", "items": [
+          "Suspected basilar skull fracture (a type of traumatic brain injury associated with blood draining from the nose or ears, \"battle signs\" or bruising behind the ears, or \"raccoon eyes\", denoted by symmetrical bruising around both eyes.)",
+          "Significant facial or nasal trauma"
+        ], "orderIndex": 37}
+      ]
+    },
+    {
+      "title": "Learning Objectives & Skills",
+      "subtitle": "",
+      "orderIndex": 4,
+      "content": [
+        {"type": "subheading", "content": "Learning Objectives", "orderIndex": 1},
+        {"type": "paragraph", "content": "Understand the concept behind \"Basic Life Support,\" including airway adjuncts.", "orderIndex": 2},
+        {"type": "numberedList", "content": "Learning Objectives", "items": [
+          "1. Understand the components of CPR, rates and depth of compression, and cycles.",
+          "2. Understand the WM protocols for CPR.",
+          "3. Explain why CPR follows CAB instead of ABC.",
+          "4. Explain how an AED works and why it can benefit a patient in cardiac arrest.",
+          "5. Understand how OPAs and NPAs work and what patients get airway adjuncts.",
+          "6. Understand the importance of maintaining a patient airway manually or with an adjunct.",
+          "7. Rescue breathe with a pocket mask for adults and children."
+        ], "orderIndex": 3},
+        {"type": "subheading", "content": "Skills Demonstrated", "orderIndex": 4},
+        {"type": "bulletList", "content": "Skills Demonstrated", "items": [
+          "The \"jaw thrust\" and the \"head tilt-chin-lift\" techniques, with and without a pocket mask.",
+          "One rescuer doing CPR for 2 minutes using a pocket mask.",
+          "Two person CPR using the AED.",
+          "Two minutes of rescue breathing with a pocket mask.",
+          "Know the difference between adult and child CPR and rescue breathing.",
+          "Measuring and inserting OPAs and NPAs."
+        ], "orderIndex": 5}
+      ]
+    }
+  ],
+  "imageInventory": [
+    {"pageImage": "IMG_Ch5_01.JPG", "pageNumber": 27, "description": "Large green mountain illustration with heartbeat line", "type": "illustration", "section": "Basic Life Support", "purpose": "Chapter opener"},
+    {"pageImage": "IMG_Ch5_03.JPG", "pageNumber": 29, "description": "Full-page CPR Overview flowchart showing NO PULSE (C-A-B) and PULSE (A-B-C) pathways", "type": "flowchart", "section": "CPR Overview", "purpose": "Primary educational diagram"},
+    {"pageImage": "IMG_Ch5_04.JPG", "pageNumber": 30, "description": "Full-page Wilderness Resuscitation Flowchart (adapted from the AHA guidelines)", "type": "flowchart", "section": "Wilderness Medicine Guidelines", "purpose": "Core decision-making algorithm"},
+    {"pageImage": "IMG_Ch5_05.JPG", "pageNumber": 31, "description": "Illustrations of choking maneuvers for conscious/unresponsive adult, child, and infant", "type": "illustration", "section": "Choking", "purpose": "Step-by-step procedure"},
+    {"pageImage": "IMG_Ch5_07.JPG", "pageNumber": 33, "description": "OPA and NPA diagrams with sizing and insertion techniques", "type": "anatomical_diagram", "section": "Airway Adjuncts", "purpose": "Educational reference"},
+    {"pageImage": "IMG_Ch5_06.JPG", "pageNumber": 32, "description": "AED device illustration and step-by-step usage", "type": "illustration", "section": "AED", "purpose": "Procedure guide"}
+  ],
+  "specialContent": {
+    "scenarios": [],
+    "locationReferences": [],
+    "brandNames": [],
+    "terminologyUpdates": []
+  }
+}
